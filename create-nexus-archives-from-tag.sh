@@ -10,6 +10,7 @@ fi
 
 git checkout $TAG
 
+find . -name ".DS_Store" -exec rm {} \;
 rm -rf tmp/*.zip
 zip -r "tmp/Grandpa's Farm.zip" "Grandpa's Farm"
 zip -r "tmp/Immersive Farm 2 Remastered.zip" "Immersive Farm 2 Remastered"
