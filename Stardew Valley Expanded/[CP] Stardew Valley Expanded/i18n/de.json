@@ -2167,7 +2167,7 @@
   "Claire.6hearts.Theater.07": "$q -1 null#Es scheint sehr lustig zu sein...#$r -1 0 claire_event22#Ja. Sie treffen sich einmal pro Woche.#$r -1 0 claire_event23#Interessiert es dich?#$r -1 0 claire_event24#Es ist wirklich nichts Besonderes.",
   "Claire.6hearts.Joja.08": "Deine Gemeinde hat so viel Persönlichkeit...$9#$b#Ein sehr unterschiedliches Gefühl im Vergleich zu meinem Zuhause auf dem Lande.$11",
   "Claire.6hearts.Theater.08": "Eure Gemeinschaft hat so viel Persönlichkeit...$13#$b#Ein sehr unterschiedliches Gefühl im Vergleich zu meinem Zuhause auf dem Land.$15",
-  "Claire.6hearts.Joja.09": "$ q -1 null # Es gibt nicht viele Menschen da draußen... # $r -1 0 claire_event4 # Du solltest hier mehr involviert sein. # $r -1 0 claire_event5 # Klingt nach einem friedlichen Leben.",
+  "Claire.6hearts.Joja.09": "$q -1 null # Es gibt nicht viele Menschen da draußen... # $r -1 0 claire_event4 # Du solltest hier mehr involviert sein. # $r -1 0 claire_event5 # Klingt nach einem friedlichen Leben.",
   "Claire.6hearts.Theater.09": "$q -1 null#Es gibt nicht viele Menschen da draußen...#$r -1 0 claire_event25#Du solltest hier mehr involviert werden.#$r -1 0 claire_event26#Klingt nach einem friedlichen Leben.",
   "Claire.6hearts.Joja.10": "Ich... Ich weiß es nicht. Ich bin nur ein Außenseiter. $10",
   "Claire.6hearts.Theater.10": "Ich... Ich weiß nicht. Ich bin nur ein Außenseiter. $13",
