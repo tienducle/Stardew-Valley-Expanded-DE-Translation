@@ -2,7 +2,7 @@
 
 # Requirements
 
-Stardew Valley Expanded v1.14.23
+Stardew Valley Expanded v1.14.24
 
 # Usage
 
