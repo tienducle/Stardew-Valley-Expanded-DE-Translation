@@ -22,3 +22,15 @@ Stardew Valley
     └── Immersive Farm 2 Remastered
         └── [CP] Immersive Farm 2 Remastered
 ```
+
+# Create new version
+
+- Draft a new release in Github
+  - Create a new tag with incremented version
+  - Target: main
+  - Add release notes
+- Pull main branch locally or just fetch tags locally
+- Run shellscript and pass in the new tag
+  - e.g. `./create-nexus-archives-from-tag.sh 0.0.6`
+- Upload archives to Nexusmods
+  - only need to upload those that contain changes
