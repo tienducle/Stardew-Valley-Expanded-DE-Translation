@@ -4014,7 +4014,7 @@
   "Apples.Woods.02": "Apples rennen den ganzen Tag herum. Jetzt ist Apples müde.$0",
   "Apples.Woods.03": "Pfirsiche-Freund nett! Spiele den ganzen Tag mit Apples!$1",
   "Apples.Woods.04": "Andere Freunde haben viele Geschäfte!#$e# Gelber Freund ist nett!$1",
-  "Apples.Woods.05": "Apples sagen zu Hause Tschüss. $0 # $ e # Tschüss zu Hause! $1 # $ e # Apples leben jetzt im Wald mit anderen Freunden. Besucht ein Apples-Freund Apples? $0 # $ e #% Du streichelst Apples.",
+  "Apples.Woods.05": "Apples sagen zu Hause Tschüss.$0#$e#Tschüss Zuhause!$1#$e#Apples lebt jetzt im Wald mit anderen Freunden. Besucht Apples-Freund Apples? $0#$e#%Du streichelst Apples.",
   //Aurora Dialogue for Andy
   "Aurora.Andy.01": "Aurora Vineyard wurde repariert. Übernimmst du es, Bauer? $0#$e#Es ist schwierig, Produkte von dort aus zu transportieren. Das ist einer der Gründe, warum Jerry und Elizabeth so sehr gekämpft haben.$0#$b#Du müsstest ein Zauberer sein, um dieses Farmland zum Laufen zu bringen...$0#$e#Ich sollte ihnen eine Postkarte mit einem Bild ihres alten, renovierten Hauses schicken. $1",
   "Aurora.Andy.02": "Aurora Vineyard wurde repariert. Übernimmst du es, Bauer? Ich hatte früher einige gute Freunde, die dort lebten. $0#$e#Es ist schwierig, Produkte von dort auszuliefern. Das ist einer der Gründe, warum Jerry und Elizabeth so sehr kämpften. $0#$b#Du müsstest ein Zauberer sein, um dieses Farmland zum Laufen zu bringen... $0#$e#Ich sollte ihnen eine Postkarte mit einem Bild ihres alten, renovierten Hauses schicken. $1",
@@ -6238,7 +6238,7 @@
   "Gunther.6hearts3.06": "Diese Ausrüstung wurde vor Jahrzehnten zurückgelassen, als Minenarbeiter auf ein Void-Geist-Nest stießen. $2#$b#Kurz darauf wurde hier die Abenteurergilde gegründet. $5",
   "Gunther.6hearts3.07": "Dieser Boden wird meiner Forschung nicht helfen. $2#$b# Wir müssen eine Höhle finden, die von menschlicher Aktivität ungestört ist... $5",
   "Gunther.6hearts3.08": "Herr @.$5^Frau @.$5",
-  "Gunther.6hearts3.09": "es gibt eine kleine Lücke zwischen diesen Höhlenwänden. $ 5 # $ b # Vielleicht gibt es etwas, wohin es führt? $1",
+  "Gunther.6hearts3.09": "Da gibt eine kleine Lücke zwischen den Höhlenwänden.$5#$b#Vielleicht gibt es dort etwas, wohin sie führt?$1",
   "Gunther.6hearts3.10": "$q -1 null#(Was soll ich sagen?)#$r -1 0 gunther_event7#Bleib in meiner Nähe.#$r -1 0 gunther_event8#Lass mich zuerst hineingehen.",
   "Gunther.6hearts3.11": "Es ist dunkel. Lass mich meine Laterne anmachen. $5",
   "Gunther.6hearts3.12": "AH! Eine Schatzkammer unberührter Artefakte!$1",
