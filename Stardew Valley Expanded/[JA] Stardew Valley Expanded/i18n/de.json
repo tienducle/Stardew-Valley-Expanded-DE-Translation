@@ -1,7 +1,7 @@
 {
   //Big Craftables
-  "big-craftables.advendurer-gear.name": "Abenteurer Ausrüstung",
-  "big-craftables.advendurer-gear.description": "Zwei Paar Stiefel und ein kleiner Dolch.",
+  "big-craftables.adventurer-gear.name": "Abenteurerausrüstung",
+  "big-craftables.adventurer-gear.description": "Zwei Paar Stiefel und ein kleiner Dolch.",
   "big-craftables.amethyst-node.name": "Amethystader",
   "big-craftables.amethyst-node.description": "Eine Dekoration für deinen Hof.",
   "big-craftables.aquamarine-node.name": "Aquamarinader",
@@ -246,8 +246,8 @@
   "big-craftables.golden-piggy-bank.description": "Zahle dein hart verdientes Geld, Münze für Münze, ein.",
   "big-craftables.statue-of-treasure.name": "Statue des Schatzes",
   "big-craftables.statue-of-treasure.description": "Es sind viele wunderschöne Edelsteine eingraviert.",
-  
-  
+
+
   //Crops
   "crop.fungus-tree.name": "Pilz Baum",
   "crop.fungus-tree.description": "Wächst im Herbst.",
@@ -281,8 +281,8 @@
   "crop.salal-shrub.description": "Has difficulty growing in the area. Takes a skilled farmer to cultivate.",
   "crop.shrub-seed.name": "Shallon Busch Saat",
   "crop.shrub-seed.description": "Im Frühling pflanzen. Es dauert 14 Tage, bis sie reif ist. Produziert danach alle paar Tage weitere Früchte, auch im Sommer.",
-  
-  
+
+
   //Objects
   "object.aegis-elixir.name": "Aegis Elixier",
   "object.aegis-elixir.description": "Für eine kurze Zeit wird man immun gegen Schaden. Stapelt sich mit Geschwindigkeitstränken.",
@@ -311,7 +311,7 @@
   "object.daggerfish.name": "Dolchfisch",
   "object.daggerfish.description": "Er ist sehr scharf.",
   "object.dewdrop-berry.name": "Tautropfen Beere",
-  "object.dewdrop-berry.name": "Eine aromatische, bezaubernde Frucht, die im Nexus wächst. Gewährt magische Fähigkeiten bis zum nächsten Sonnenaufgang.",
+  "object.dewdrop-berry.description": "Eine aromatische, bezaubernde Frucht, die im Nexus wächst. Gewährt magische Fähigkeiten bis zum nächsten Sonnenaufgang.",
   "object.frog.name": "Frosch",
   "object.frog.description": "Er ist sehr schleimig.",
   "object.frog-legs.name": "Froschschenkel",
@@ -347,7 +347,7 @@
   "object.kittyfish.name": "Kätzchenfisch",
   "object.kittyfish.description": "Ein magischer Fisch, der von Camilla beschworen wurde. Er mag es, wenn man ihn unter dem Kinn krault.",
   "object.lance-schelude.name": "Lance's Wochenplan",
-  "object.lance-schelude.description": "MO: Galdoranischer Außenposten\nDI: Sternentau Tal\nMI: Sternentau Tal\nDO: Ingwer Insel\nFR: Ingwer Insel\nSA: Hochland\nSO: Hochland",  
+  "object.lance-schelude.description": "MO: Galdoranischer Außenposten\nDI: Sternentau Tal\nMI: Sternentau Tal\nDO: Ingwer Insel\nFR: Ingwer Insel\nSA: Hochland\nSO: Hochland",
   "object.lightning-elixir.name": "Blitz Elixier",
   "object.lightning-elixir.description": "Ermöglicht es dir, eine Minute lang extrem schnell zu laufen. Stapelbar mit Angriffs- und Verteidigungstränken.",
   "object.lunaloo.name": "Lunaloo",
@@ -458,8 +458,8 @@
   "object.stamina-capsule.description": "Stimuliert den Körper. Der Effekt hält den ganzen Tag an.",
   "object.snatcher-worm.name": "Grabscher Wurm",
   "object.snatcher-worm.description": "Seine großen Kiefer sind stark genug, um Felsen zu zermalmen.",
-  
-  
+
+
   //Weapons
   "weapon.diamond-wand.name": "Diamant-Stab",
   "weapon.diamond-wand.description": "Ein magisches Relikt aus Galdora. Teleportiert Feinde vom Benutzer weg. Wirksam gegen fliegende Feinde.",
@@ -468,5 +468,5 @@
   "weapon.tempered-galaxy-hammer.name": "Gehärteter Galaxie-Hammer",
   "weapon.tempered-galaxy-hammer.description": "Die Kraft des Kosmos durchströmt dich und verleiht dir eine unglaubliche Stärke und Verteidigungskraft.",
   "weapon.tempered-galaxy-sword.name": "Gehärtetes Galaxie-Schwert",
-  "weapon.tempered-galaxy-sword.description": "Die Kraft des Kosmos durchströmt dich und verleiht dir eine unglaubliche Stärke und Verteidigungskraft.",
+  "weapon.tempered-galaxy-sword.description": "Die Kraft des Kosmos durchströmt dich und verleiht dir eine unglaubliche Stärke und Verteidigungskraft."
 }
