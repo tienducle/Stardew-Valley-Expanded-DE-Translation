@@ -2,7 +2,7 @@
 
 # Requirements
 
-Stardew Valley Expanded v1.14.24
+[Stardew Valley Expanded](https://www.nexusmods.com/stardewvalley/mods/3753) v1.14.24
 
 # Usage
 
