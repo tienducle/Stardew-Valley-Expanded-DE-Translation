@@ -3,6 +3,9 @@
   //SDV 1.14.25//
   //*********There are 1.6 vanilla spoilers shortly after the scroll***********
   /////////////////////
+
+  //New in SDV 1.14.31
+  "Apples.Raisins": "Raisins? Yummy! Apples loves raisins.",
   ///New in SDV 1.14.25
   //Robin's Lost Axe dialogue. No changes from vanilla but needed a placement fix.
   "LostAxe.1": "Robin's Lost Axe",
@@ -272,7 +275,7 @@
   "Susan.Gift223": "Oh, goodness... chocolate chip cookies! Thank you, honey. I have an innate weakness for sweets.$4",
   "Susan.Gift233": "Oh, goodness... ice cream! Thank you, honey. I have an innate weakness for sweets.$4",
   "Susan.Gift167": "*angry* I don't want this...",
-  "Gift226": "Sorry honey, my spice tolerance isn't very high. You can have this back, okay? ",
+  "Susan.Gift226": "Sorry honey, my spice tolerance isn't very high. You can have this back, okay? ",
   "Susan.GiftBDPos": "Oh honey, you shouldn't have! Thank you for the birthday present. I love it!$4",
   "Susan.GiftBDNeg": "Well, this is a unique choice for a birthday gift...$2",
   "Susan.DumpsterDive": "Honey, that's disgusting...$2",
@@ -1667,6 +1670,8 @@
   "Lance.CharacterDialogue.063": "There are many great powers in this world, but none surpass the power of love.$1#$e#*chuckle*...$5",
   "Lance.MarriageDialogue.001": "The monster crops are in good health.$0",
   "Lance.MarriageDialogue.002": "I was awarded these monster statues for my achievements in the field.$0#$e#*chuckle* Some colleagues of mine believe they're monsters in stasis...$5",
+  "Lance.MarriageDialogue.003": "How was your day, my love?$1#$e#My day was well. I managed to find time to continue my research.$0",
+  "Lance.MarriageDialogue.004": "I have guild business today. I'll be back tonight.$0",
   "Lance.MarriageDialogue.005": "We both need to be strong for %kid1.$0",
   "Lance.MarriageDialogue.006": "I've taken on many roles in life, but I've never been a parent until now.$1",
   "Lance.MarriageDialogue.007": "I hope %kid1 likes books when they get older.#$b#Reading books when I was young was what sparked my interest in research. I never stopped reading.$5",
@@ -1682,7 +1687,7 @@
   "Lance.MarriageDialogue.017": "I believe the Egg Festival is today.$5#$e#This will be a good opportunity for me to strike up a conversation with the valley residents.$1",
   "Lance.MarriageDialogue.018": "I've prepared for the flower dance ceremony and will gladly take your hand in dance, my darling.$1",
   "Lance.MarriageDialogue.019": "Ah... I do enjoy hot weather.$5",
-  "Lance.MarriageDialogue.020": "The beginning of summer takes a heavy toll on a farmer.$0#$b#Take this, my dear. It'll help keep your stamina up [349].$1#$e#Good luck today, my love.$4",
+  "Lance.MarriageDialogue.020": "The beginning of summer takes a heavy toll on a farmer.$0#$b#Take this, my dear. It'll help keep your stamina up[349].$1#$e#Good luck today, my love.$4",
   "Lance.MarriageDialogue.021": "I've prepared a special dish using an old family recipe for the potluck.$0",
   "Lance.MarriageDialogue.022": "Don't forget about the gathering on the beach tonight, my love.$0",
   "Lance.MarriageDialogue.023": "The valley is alive with color... it sings to the soul.$0",
@@ -1748,6 +1753,7 @@
   "Lance.MarriageDialogue.083": "Do you ever get the feeling we rushed into this too quickly?...$2",
   "Lance.MarriageDialogue.084": "...$6#$e#%Lance is ignoring you.",
   "Lance.MarriageDialogue.085": "I thought we promised each other we would talk things out if it got bad...$2",
+  
   //Schedule Dialogue
   "Lance.Marriage.000": "Hello, my darling. I trust you have adventure guild business today?$1#$e#Be safe out there.$0",
   "Lance.Marriage.001": "You're a welcome sight, my love.$1#$e#Today's been quiet.$0",
@@ -1786,20 +1792,10 @@
   "Lance.SpouseVary7": "*sigh* I destroyed expensive rare metals during a magical experiment.$2#$e#Such a terrible waste...$2",
   "Lance.SpouseVary8": "Where do you think monsters come from, @?$0#$e#Legends say they come from dark ancient magic.$5#$e#I believe there's more than meets the eye.$0",
   //LANCE DYNAMIC SPOUSE DIALOGUE
-  "Lance.funReturn.1": "How was your day, my love?$1#$e#My day was well. I managed to find time to continue my research.$0",
-  "Lance.funLeave.1": "$query HAS_SEEN_EVENT 65360198, SEASON_DAY SPRING 24#Krobus and I are meeting today.$0#$e#I'm leaving at 5:00pm.$1|I have guild business today. I'll be back tonight.$0",
-  "Lance.funLeave.2": "$query HAS_SEEN_EVENT 65360198, DAY 10#Shadow people never slumber. I wonder what that's like.$6#$e#I'm meeting with Krobus tonight.$0||I have guild business today. I'll be back tonight.$0",
-  "Lance.funLeave.3": "$query HAS_SEEN_EVENT 65360198, DAY 24#Shadow people never slumber. I wonder what that's like.$6#$e#I'm meeting with Krobus tonight.$0||I have guild business today. I'll be back tonight.$0",
-  "Lance.funLeave.4": "$query HAS_SEEN_EVENT 65360198, SEASON_DAY SUMMER 10#I look forward to learning more about the shadow people this evening.$1#$e#What adventurers have you gone on recently?$0|I have guild business today. I'll be back tonight.$0",
-  "Lance.funLeave.5": "$query HAS_SEEN_EVENT 65360198, SEASON_DAY SUMMER 24#Hello, my love.$0#$b#I have business with Krobus this evening.$1#$e#If you're inclined, you can meet us at our usual location at 8:00pm...$5|I have guild business today. I'll be back tonight.$0",
-  "Lance.funLeave.6": "$query HAS_SEEN_EVENT 65360198, SEASON_DAY Fall 10#I'm visiting 'you know who' tonight by the sewer gate.$0!I have guild business today. I'll be back tonight.$0|I have guild business today. I'll be back tonight.$0",
-  "Lance.funLeave.7": "$query HAS_SEEN_EVENT 65360198, SEASON_DAY Fall 24#I'm visiting 'you know who' tonight by the sewer gate.$0!I have guild business today. I'll be back tonight.$0|I have guild business today. I'll be back tonight.$0",
-  "Lance.funLeave.8": "$query HAS_SEEN_EVENT 65360198 SEASON_DAY Fall 24#I hope something really great happens to you today.$0|I have guild business today. I'll be back tonight.$0",
-  "Lance.funLeave.9": "$query HAS_SEEN_EVENT 65360198 SEASON_DAY Winter 10#%Lance is packing void roots into a satchel.#$e#Hmm... is three enough?$6|I have guild business today. I'll be back tonight.$0",
   "Lance.DynamicSpouse1": "Marlon is skilled with a sword, but he lacks range.$6#$e#That's where I excel at. Our expedition was flawless with the teamwork we exhibited...$5",
   "Lance.DynamicSpouse2": "There isn't anyone else I know who works as hard as you do.$1#$e#Marlon needs help at the guild today. I'll return at dusk.$0",
   "Lance.DynamicSpouse3": "I have First Slash business today. I'm afraid I won't be coming back tonight.$0",
-  "Lance.DynamicSpouse4": "My master is a Dragon Knight. I became his pupil at a very young age when my arcane potential was discovered.$0",
+  "Lance.DynamicSpouse4": "My master was a Dragon Knight. I became his pupil at a very young age when my arcane potential was discovered.$0",
   "Lance.DynamicSpouse5": "I'll be at the outpost today.$0#$e#There's strange monster migration patterns I must survey.$6",
   "Lance.DynamicSpouse6": "'Monster Fruit' is strangely delicious. It almost tastes like a stardrop.$1",
   "Lance.DynamicSpouse7": "I'm happy we found each other in this wild game we call life.$4",
@@ -1840,7 +1836,7 @@
   "Lance.DynamicSpouse41": "Autumn is already blowing in the air. I can feel it.$5#$e#I'm off to observe color changes of the Highland monsters.$1",
   "Lance.DynamicSpouse42": "I discovered a grave near the Adventurer's Guild today. It was well hidden...$6#$e#Each guild carries a heavy burden...$6",
   "Lance.DynamicSpouse43": "Gil is holding a meeting today. Must be important.$0#$e#Are you coming?$1",
-  "Lance.DynamicSpouse44": "I have First Slash business today. I'll return at dusk.$0#$e#Even today, adventurers like us are still making new discoveries.$1",
+  "Lance.DynamicSpouse44": "I have First Slash business today.$0#$e#Even today, adventurers like us are still making new discoveries.$1",
   "Lance.DynamicSpouse45": "Magnus studies ancient fruit and I study monster crops...$5#$e#In a strange way, our work is somewhat similar.$1",
   "Lance.DynamicSpouse46": "The biggest adventure you can ever take is to live the life of your dreams.$0#$b#And I do that with you, every day.$1",
   "Lance.DynamicSpouse47": "Good morning, my love.$1#$e#Jolyne and I are studying an ocean floor map today.$0#$e#This trench has a depth of 13 miles - deepest in the world!$1",
@@ -1876,6 +1872,7 @@
   "Lance.DynamicSpouse77": "Ah, you've awaken. How did you sleep?$1#$e#I feel like walking around town today.$0#$e#*chuckle* Yes. I'll do just that.$5",
   "Lance.DynamicSpouse78": "With spring looming around the corner, Highland monsters are thawing out.$0#$e#I wonder what discoveries I'll make this year...$5#$b#And what you'll accomplish.$1#$e#No matter what, we will always be by each other's side.$0",
   "Lance.DynamicSpouse79": "Winter is ending soon. I must conduct one last field survey at the Highlands to finish out the year.$0#$e#I shall return tonight.$1",
+
   //LANCE MOVIE RESPONSES
   "Movies.Lance.1": "I can't say I'm a fan of comedies, but this film shows promise.$1",
   "Movies.Lance.2": "%Lance looks at you and smiles.",
@@ -9411,7 +9408,7 @@
   "String.495": "These wooden logs are rotting away.",
   "String.496": "Someone's been drinking here recently.",
   "String.497": "The table looks fairly new.",
-  "String.498": "Spilt contents of tha Joja beverage are seeping into the floor.",
+  "String.498": "Spilt contents of the Joja beverage are seeping into the floor.",
   "String.499": "The cellar is blocked by vines preventing you from entering.",
   "String.500": "This window isn't broken or boarded up.",
   "String.501": "These vines are slowly taking over the hallway.",
@@ -10901,7 +10898,7 @@
   //Olivia Special Order
   "Olivia.SpecialOrder.01": "An Elegant Reception",
   "Olivia.Specialorder.02": "I wish to host a reception for prestigious guests and friends at the town square. Are there any local farmers who could provide some high-end groceries?       -Olivia",
-  "Olivia.Specialorder.03": "Add starfruit wine to Olivia's cabinet in her cellar.",
+  "Olivia.Specialorder.03": "Add wine to Olivia's cabinet in her cellar.",
   "Olivia.Specialorder.04": "Add cheese to Olivia's cabinet in her cellar.",
   "Olivia.Specialorder.05": "Add goat cheese to Olivia's cabinet in her cellar.",
   "Olivia.OrderEvent.01": "I must say, this event turned out perfectly!$3#$b#It's all thanks to you, dear. The wine and cheese from %farm Farm is nothing short of perfection!$1",

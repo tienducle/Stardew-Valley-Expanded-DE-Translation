@@ -3,6 +3,9 @@
   //SDV 1.14.25//
   //*********There are 1.6 vanilla spoilers shortly after the scroll***********
   /////////////////////
+
+  //New in SDV 1.14.31
+  "Apples.Raisins": "Rosinen? Lecker! Apples lieben Rosinen.",
   ///New in SDV 1.14.25
   //Robin's Lost Axe dialogue. No changes from vanilla but needed a placement fix.
   "LostAxe.1": "Robins verlorene Axt",
@@ -272,7 +275,7 @@
   "Susan.Gift223": "Oh, mein Gott... Schokoladenkekse! Danke, Liebling. Ich habe eine angeborene Schwäche für Süßigkeiten.$4",
   "Susan.Gift233": "Oh, mein Gott... Eiscreme! Danke, Liebling. Ich habe eine angeborene Schwäche für Süßigkeiten.$4",
   "Susan.Gift167": "*verärgert* Ich will das nicht...",
-  "Gift226": "Es tut mir leid, Schatz, meine Gewürztoleranz ist nicht sehr hoch. Du kannst das zurückhaben, okay?",
+  "Susan.Gift226": "Es tut mir leid, Schatz, meine Schärfetoleranz ist nicht sehr hoch. Du kannst das zurückhaben, okay? ",
   "Susan.GiftBDPos": "Oh Schatz, das hättest du nicht tun müssen! Danke für das Geburtstagsgeschenk. Ich liebe es!$4",
   "Susan.GiftBDNeg": "Nun, das ist eine einzigartige Wahl für ein Geburtstagsgeschenk...$2",
   "Susan.DumpsterDive": "Liebling, das ist widerlich...$2",
@@ -1667,6 +1670,8 @@
   "Lance.CharacterDialogue.063": "Es gibt viele große Kräfte in dieser Welt, aber keine übertrifft die Macht der Liebe.$1#$e#*kichern*...$5",
   "Lance.MarriageDialogue.001": "Die Monsterpflanzen sind in guter Verfassung.$0",
   "Lance.MarriageDialogue.002": "Ich wurde für meine Leistungen auf dem Feld mit diesen Monsterstatuen ausgezeichnet. $0#$e#*kichern* Einige meiner Kollegen glauben, dass es sich um Monster im Kälteschlaf handelt...$5",
+  "Lance.MarriageDialogue.003": "Wie war dein Tag, meine Liebe?$1#$e#Mein Tag war gut. Ich habe es geschafft, Zeit zu finden, um meine Forschung fortzusetzen.$0",
+  "Lance.MarriageDialogue.004": "Ich habe heute Gildengeschäfte. Ich komme heute Abend zurück.$0",
   "Lance.MarriageDialogue.005": "Wir müssen beide stark sein für %kid1.$0.",
   "Lance.MarriageDialogue.006": "Ich habe in meinem Leben viele Rollen übernommen, aber ich war bis jetzt noch nie Elternteil gewesen.$1",
   "Lance.MarriageDialogue.007": "Ich hoffe, dass %kid1 Bücher mag, wenn sie älter werden.#$b#Das Lesen von Büchern als Kind hat mein Interesse an Forschung geweckt. Ich habe nie aufgehört zu lesen.$5",
@@ -1682,7 +1687,7 @@
   "Lance.MarriageDialogue.017": "Ich glaube, das Eierfest ist heute. $5#$e# Das wird eine gute Gelegenheit für mich sein, ein Gespräch mit den Bewohnern des Tals anzufangen. $1",
   "Lance.MarriageDialogue.018": "Ich habe mich auf die Blumentanz-Zeremonie vorbereitet und werde gerne deine Hand zum Tanzen nehmen, mein Liebling.$1",
   "Lance.MarriageDialogue.019": "Ah... Ich genieße warmes Wetter. $5",
-  "Lance.MarriageDialogue.020": "Der Beginn des Sommers fordert einen hohen Tribut von einem Bauern. $0#$b#Nimm das hier, mein Lieber. Es wird dir helfen, deine Ausdauer aufrechtzuerhalten [349].$1#$e#Viel Glück heute, meine Liebe.$4",
+  "Lance.MarriageDialogue.020": "Der Beginn des Sommers fordert einen hohen Tribut von einem Bauern. $0#$b#Nimm das hier, mein Lieber. Es wird dir helfen, deine Ausdauer aufrechtzuerhalten[349].$1#$e#Viel Glück heute, meine Liebe.$4",
   "Lance.MarriageDialogue.021": "Ich habe ein besonderes Gericht für das Potluck vorbereitet, indem ich ein altes Familienrezept verwendet habe. $0",
   "Lance.MarriageDialogue.022": "Vergiss nicht das Treffen am Strand heute Abend, meine Liebe.$0",
   "Lance.MarriageDialogue.023": "Das Tal lebt in Farbe... es singt zur Seele. $0",
@@ -1748,6 +1753,7 @@
   "Lance.MarriageDialogue.083": "Hast du manchmal das Gefühl, dass wir zu schnell in das hineingestürzt sind?...$2",
   "Lance.MarriageDialogue.084": "...$6#$e#%Lance ignoriert dich.",
   "Lance.MarriageDialogue.085": "Ich dachte, wir haben uns versprochen, dass wir miteinander reden, wenn es schlecht wird...$2",
+
   //Schedule Dialogue
   "Lance.Marriage.000": "Hallo, meine Liebste. Ich vertraue darauf, dass du heute Abenteuergilden-Geschäfte hast. $1#$e#Pass auf dich auf da draußen. $0",
   "Lance.Marriage.001": "Du bist ein willkommener Anblick, meine Liebe.$1#$e#Heute war es ruhig.$0",
@@ -1786,20 +1792,10 @@
   "Lance.SpouseVary7": "*seufz* Ich habe teure seltene Metalle bei einem magischen Experiment zerstört. $2#$e#So eine schreckliche Verschwendung...$2",
   "Lance.SpouseVary8": "Woher glaubst du kommen Monster, @?$0#$e#Legenden besagen, dass sie aus dunkler, alter Magie stammen.$5#$e#Ich glaube, dass es mehr gibt, als man auf den ersten Blick sieht.$0",
   //LANCE DYNAMIC SPOUSE DIALOGUE
-  "Lance.funReturn.1": "Wie war dein Tag, meine Liebe?$1#$e#Mein Tag war gut. Ich habe Zeit gefunden, um meine Forschung fortzusetzen.$0",
-  "Lance.funLeave.1": "$query HAS_SEEN_EVENT 65360198, SEASON_DAY SPRING 24#Krobus und ich treffen uns heute.$0#$e#Ich gehe um 17:00 Uhr.$1|Ich habe heute Gildengeschäfte. Ich komme heute Nacht zurück.$0",
-  "Lance.funLeave.2": "$query HAS_SEEN_EVENT 65360198, DAY 10#Schattenmenschen schlafen nie. Ich frage mich, wie das ist.$6#$e#Ich treffe mich heute Abend mit Krobus.$0||Ich habe heute Gildenangelegenheiten. Ich komme heute Abend zurück.$0",
-  "Lance.funLeave.3": "$query HAS_SEEN_EVENT 65360198, DAY 24#Schattenmenschen schlafen nie. Ich frage mich, wie das ist.$6#$e#Ich treffe mich heute Abend mit Krobus.$0||Ich habe heute Gildenangelegenheiten. Ich komme heute Abend zurück.$0",
-  "Lance.funLeave.4": "$query HAS_SEEN_EVENT 65360198, SEASON_DAY SUMMER 10#Ich freue mich darauf, heute Abend mehr über die Schattenmenschen zu erfahren.$1#$e#Welche Abenteuer hast du kürzlich erlebt?$0|Ich habe heute Gildenangelegenheiten zu erledigen. Ich bin heute Nacht zurück.$0",
-  "Lance.funLeave.5": "$query HAS_SEEN_EVENT 65360198, SEASON_DAY SUMMER 24#Hallo, meine Liebe.$0#$b#Ich habe heute Abend Geschäfte mit Krobus zu erledigen.$1#$e#Wenn du möchtest, kannst du uns um 20:00 Uhr an unserem üblichen Ort treffen...$5|Ich habe heute Gildenangelegenheiten zu erledigen. Ich werde heute Nacht zurück sein.$0",
-  "Lance.funLeave.6": "$query HAS_SEEN_EVENT 65360198, SEASON_DAY Fall 10#Ich besuche heute Abend 'du weißt schon wen' am Kanalgitter.$0!Ich habe heute Gildengeschäfte zu erledigen. Ich komme heute Abend zurück.$0|Ich habe heute Gildengeschäfte zu erledigen. Ich komme heute Abend zurück.$0",
-  "Lance.funLeave.7": "$query HAS_SEEN_EVENT 65360198, SEASON_DAY Herbst 24#Ich besuche heute Nacht 'du weißt schon wen' am Kanalgitter.$0!Ich habe heute Gildenangelegenheiten. Ich komme heute Nacht zurück.$0|Ich habe heute Gildenangelegenheiten. Ich komme heute Nacht zurück.$0",
-  "Lance.funLeave.8": "$query HAS_SEEN_EVENT 65360198 SEASON_DAY Herbst 24#Ich hoffe, dass dir heute etwas wirklich Großartiges widerfährt.$0|Ich habe heute Gildengeschäfte. Ich komme heute Abend zurück.$0",
-  "Lance.funLeave.9": "$query HAS_SEEN_EVENT 65360198 SEASON_DAY Winter 10#%Lance packt Leerenwurzeln in einen Beutel.#$e#Hmm... reichen drei aus?$6|Ich habe heute Gildengeschäfte. Ich bin heute Nacht zurück.$0",
   "Lance.DynamicSpouse1": "Marlon ist geschickt mit einem Schwert, aber ihm fehlt die Reichweite. $6#$e#Das ist, wo ich glänze. Unsere Expedition war makellos dank des Teamworks, das wir gezeigt haben...$5",
   "Lance.DynamicSpouse2": "Es gibt niemanden, den ich kenne, der so hart arbeitet wie du.$1#$e#Marlon braucht heute Hilfe in der Gilde. Ich werde bei Dämmerung zurückkehren.$0",
   "Lance.DynamicSpouse3": "Ich habe heute Geschäfte mit First Slash. Ich fürchte, ich werde heute Abend nicht zurückkommen. $0",
-  "Lance.DynamicSpouse4": "Mein Meister ist ein Drachenritter. Ich wurde sein Schüler in sehr jungen Jahren, als mein arkanes Potenzial entdeckt wurde.$0",
+  "Lance.DynamicSpouse4": "Mein Meister war ein Drachenritter. Ich wurde sein Schüler in sehr jungen Jahren, als mein arkanes Potenzial entdeckt wurde.$0",
   "Lance.DynamicSpouse5": "Ich werde heute am Außenposten sein.$0#$e#Es gibt seltsame Monsterwanderungsmuster, die ich untersuchen muss.$6",
   "Lance.DynamicSpouse6": "'Monsterfrucht' ist seltsam lecker. Es schmeckt fast wie eine Sternanfall-Frucht. $1",
   "Lance.DynamicSpouse7": "Ich bin glücklich, dass wir uns in diesem wilden Spiel namens Leben gefunden haben.$4",
@@ -1840,7 +1836,7 @@
   "Lance.DynamicSpouse41": "Herbst liegt bereits in der Luft. Ich kann es spüren. $5#$e# Ich gehe, um die Farbveränderungen der Highland-Monster zu beobachten. $1",
   "Lance.DynamicSpouse42": "Ich habe heute ein Grab in der Nähe der Abenteurergilde entdeckt. Es war gut versteckt...$6#$e#Jede Gilde trägt eine schwere Last...$6",
   "Lance.DynamicSpouse43": "Gil hält heute eine Besprechung ab. Muss wichtig sein. $0#$e#Kommst du? $1",
-  "Lance.DynamicSpouse44": "Ich habe heute Geschäfte mit First Slash. Ich werde bei Einbruch der Dunkelheit zurückkehren.$0#$e#Selbst heute machen Abenteurer wie wir immer noch neue Entdeckungen.$1",
+  "Lance.DynamicSpouse44": "Ich habe heute Geschäfte mit First Slash.$0#$e#Selbst heute machen Abenteurer wie wir immer noch neue Entdeckungen.$1",
   "Lance.DynamicSpouse45": "Magnus studiert alte Früchte und ich studiere Monsterpflanzen...$5#$e#Auf seltsame Weise ist unsere Arbeit irgendwie ähnlich.$1",
   "Lance.DynamicSpouse46": "Das größte Abenteuer, das man jemals erleben kann, ist das Leben seiner Träume zu leben.$0#$b#Und das tue ich jeden Tag mit dir. $1",
   "Lance.DynamicSpouse47": "Guten Morgen, meine Liebe.$1#$e#Jolyne und ich studieren heute eine Karte des Meeresbodens.$0#$e#Dieser Graben hat eine Tiefe von 13 Meilen - der tiefste der Welt!$1",
@@ -1876,6 +1872,7 @@
   "Lance.DynamicSpouse77": "Ah, du bist aufgewacht. Wie hast du geschlafen?$1#$e#Ich habe Lust, heute durch die Stadt zu schlendern.$0#$e#*lachen* Ja, das werde ich tun.$5",
   "Lance.DynamicSpouse78": "Mit dem Frühling um die Ecke tauen die Highland-Monster auf. $0#$e#Ich frage mich, welche Entdeckungen ich dieses Jahr machen werde...$5#$b#Und was du erreichen wirst.$1#$e#Egal was passiert, wir werden immer an der Seite des anderen sein. $0",
   "Lance.DynamicSpouse79": "Der Winter endet bald. Ich muss eine letzte Feldumfrage in den Highlands durchführen, um das Jahr abzuschließen. $0#$e#Ich werde heute Abend zurückkehren. $1",
+
   //LANCE MOVIE RESPONSES
   "Movies.Lance.1": "Ich kann nicht sagen, dass ich ein Fan von Komödien bin, aber dieser Film zeigt Potenzial.$1",
   "Movies.Lance.2": "%Lance schaut dich an und lächelt.",
@@ -10901,7 +10898,7 @@
   //Olivia Special Order
   "Olivia.SpecialOrder.01": "Eine elegante Empfangnahme",
   "Olivia.Specialorder.02": "Ich möchte eine Empfang für angesehene Gäste und Freunde auf dem Stadtplatz veranstalten. Gibt es lokale Bauern, die hochwertige Lebensmittel liefern könnten? -Olivia",
-  "Olivia.Specialorder.03": "Füge Sternfruchtwein Olivias Schrank in ihrem Keller hinzu.",
+  "Olivia.Specialorder.03": "Füge Wein zu Olivias Schrank in ihrem Keller hinzu.",
   "Olivia.Specialorder.04": "Füge Käse zu Olivias Schrank in ihrem Keller hinzu.",
   "Olivia.Specialorder.05": "Füge Ziegenkäse zu Olivias Schrank in ihrem Keller hinzu.",
   "Olivia.OrderEvent.01": "Ich muss sagen, dieses Ereignis hat sich perfekt herausgestellt! $3#$b# Es ist alles dank dir, Liebling. Der Wein und Käse von %farm Farm sind nichts weniger als perfekt!$1",
