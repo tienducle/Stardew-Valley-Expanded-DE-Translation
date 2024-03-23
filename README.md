@@ -2,7 +2,7 @@
 
 # Requirements
 
-[Stardew Valley Expanded](https://www.nexusmods.com/stardewvalley/mods/3753) v1.14.31
+[Stardew Valley Expanded](https://www.nexusmods.com/stardewvalley/mods/3753) v1.14.32
 
 ###### Optional
 - [Grandpa's Farm](https://www.nexusmods.com/stardewvalley/mods/3753?tab=files) v1.14.31
