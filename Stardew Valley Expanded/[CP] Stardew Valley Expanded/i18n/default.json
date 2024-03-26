@@ -3,7 +3,14 @@
   //SDV 1.14.25//
   //*********There are 1.6 vanilla spoilers shortly after the scroll***********
   /////////////////////
-
+  //New in SDV 1.14.34
+  "ClairePortrait": "Claire Portrait",
+  "SophiaPortrait": "Sophia Portrait",
+  "OliviaPortrait": "Olivia Portrait",
+  "MagnusPortrait": "Magnus Portrait",
+  "LancePortrait": "Lance Portrait",
+  "VictorPortrait": "Victor Portrait",
+  "ApplesPortrait": "Apples Portait",
   //New in SDV 1.14.31
   "Apples.Raisins": "Raisins? Yummy! Apples loves raisins.",
   ///New in SDV 1.14.25
@@ -238,7 +245,7 @@
   "Marlon.GiftBDPos": "Ah, I suppose today is my birthday. Thank you for the thoughtful gift.$0",
   "Marlon.GiftBDNeg": "...$0",
   "Marlon.VisitCaldera": "Not even a perilous volcano dungeon can stop you! Keep up the good work.",
-  "Marlon.mine121": "Hmm... I smell iridium on you. You must have found Skull Cavern.#$b#Take this monster musk. It'll help mask your presence. Be careful.[879]",
+  "Marlon.mine121": "Hmm... I smell iridium on you. You must have found Skull Cavern.#$b#Take this garlic oil. It'll help mask your presence. Be careful.[772]",
   "Marlon.marriedLance": "What a surprise. You and Lance... Hah.$0#$e#Congratulations, @.",
   "Marlon.BuiltSlimeHutch": "There's a man named 'Gideon' from Castle Village who's also a slime rancher. I feel like you two would get along well.$0",
   "Moonlight.Marlon.1": "I can see just fine back here.",
@@ -1200,7 +1207,7 @@
   "Victor.CharacterDialogue.150": "*sigh* I've had a rather rough day today. Playing some video games would be a great way for me to unwind a little.$2",
   "Victor.CharacterDialogue.151": "I love reading about history, fiction or not.$3#$e#It's nice to dive into a different world and lose yourself in it for a while.$0",
   "Victor.CharacterDialogue.152": "I designed a prototype trestle bridge for fun today in a simulation program I created. These types of bridges are useful if you need to cross over marshes or shallows.$1#$e#Trestle bridges are cheaper to build than other types of bridges because they use wooden supports instead of stone or steel.$3#$e#It does sound a bit like a video game, doesn't it? You'd be surprised how many skills you learn in games come in handy elsewhere.$3",
-  "Victor.CharacterDialogue.153": "The game developer of Journey of the Prairie King, ConcernedMonkey, is making another game!$1#$b#Given how amazing JPK is, I must say I am absolutely looking forward to playing it.$3",
+  "Victor.CharacterDialogue.153": "The game developer of Journey of the Prairie King is making another game!$1#$b#Given how amazing JPK is... I'm absolutely looking forward to playing it.$3",
   "Victor.CharacterDialogue.154": "I wonder what I should pick up at Pierre's during my next trip?$0#$e#I'm thinking spaghetti ingredients!$1#$e#Do you ever make spaghetti? It's delicious! I'll share my recipe for sauce with you sometime.$1",
   "Victor.CharacterDialogue.155": "Hmm... do you think anyone would be interested in a bridge-making simulation game, @?$0#$e#...I feel like a lot of people might assume it would be boring, but I bet I could make it fun.$3",
   "Victor.CharacterDialogue.156": "My mother made 80,000g last night from a stock trade. I think she's going to spend it on expensive wine again.$0",
@@ -1753,7 +1760,6 @@
   "Lance.MarriageDialogue.083": "Do you ever get the feeling we rushed into this too quickly?...$2",
   "Lance.MarriageDialogue.084": "...$6#$e#%Lance is ignoring you.",
   "Lance.MarriageDialogue.085": "I thought we promised each other we would talk things out if it got bad...$2",
-  
   //Schedule Dialogue
   "Lance.Marriage.000": "Hello, my darling. I trust you have adventure guild business today?$1#$e#Be safe out there.$0",
   "Lance.Marriage.001": "You're a welcome sight, my love.$1#$e#Today's been quiet.$0",
@@ -1872,7 +1878,6 @@
   "Lance.DynamicSpouse77": "Ah, you've awaken. How did you sleep?$1#$e#I feel like walking around town today.$0#$e#*chuckle* Yes. I'll do just that.$5",
   "Lance.DynamicSpouse78": "With spring looming around the corner, Highland monsters are thawing out.$0#$e#I wonder what discoveries I'll make this year...$5#$b#And what you'll accomplish.$1#$e#No matter what, we will always be by each other's side.$0",
   "Lance.DynamicSpouse79": "Winter is ending soon. I must conduct one last field survey at the Highlands to finish out the year.$0#$e#I shall return tonight.$1",
-
   //LANCE MOVIE RESPONSES
   "Movies.Lance.1": "I can't say I'm a fan of comedies, but this film shows promise.$1",
   "Movies.Lance.2": "%Lance looks at you and smiles.",

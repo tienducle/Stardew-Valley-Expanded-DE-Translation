@@ -3,7 +3,14 @@
   //SDV 1.14.25//
   //*********There are 1.6 vanilla spoilers shortly after the scroll***********
   /////////////////////
-
+  //New in SDV 1.14.34
+  "ClairePortrait": "Claire Portrait",
+  "SophiaPortrait": "Sophia Portrait",
+  "OliviaPortrait": "Olivia Portrait",
+  "MagnusPortrait": "Magnus Portrait",
+  "LancePortrait": "Lance Portrait",
+  "VictorPortrait": "Victor Portrait",
+  "ApplesPortrait": "Apples Portait",
   //New in SDV 1.14.31
   "Apples.Raisins": "Rosinen? Lecker! Apples lieben Rosinen.",
   ///New in SDV 1.14.25
@@ -238,7 +245,7 @@
   "Marlon.GiftBDPos": "Ah, ich nehme an, heute ist mein Geburtstag. Danke für das durchdachte Geschenk.$0",
   "Marlon.GiftBDNeg": "...$0",
   "Marlon.VisitCaldera": "Nicht einmal ein gefährlicher Vulkan-Dungeon kann dich aufhalten! Mach weiter so.",
-  "Marlon.mine121": "Hmm... Ich rieche Iridium an dir. Du musst die Schädelhöhle gefunden haben.#$b#Nimm dieses Monster-Moschus. Es wird helfen, deine Anwesenheit zu maskieren. Sei vorsichtig.[879]",
+  "Marlon.mine121": "Hmm... Ich rieche Iridium an dir. Du musst die Schädelhöhle gefunden haben.#$b#Nimm dieses Knoblauchöl. Es wird helfen, deine Anwesenheit zu maskieren. Sei vorsichtig.[772]",
   "Marlon.marriedLance": "Was für eine Überraschung. Du und Lance... Hah.$0#$e#Herzlichen Glückwunsch, @.",
   "Marlon.BuiltSlimeHutch": "Es gibt einen Mann namens 'Gideon' aus dem Schlossdorf, der auch ein Schleimzüchter ist. Ich habe das Gefühl, dass ihr zwei gut miteinander auskommen würdet.$0",
   "Moonlight.Marlon.1": "Ich kann von hier hinten aus ganz gut sehen.",
@@ -1200,7 +1207,7 @@
   "Victor.CharacterDialogue.150": "*seufz* Heute war ein ziemlich harter Tag für mich. Ein paar Videospiele zu spielen wäre eine großartige Möglichkeit für mich, mich ein wenig zu entspannen.$2",
   "Victor.CharacterDialogue.151": "Ich liebe es, über Geschichte zu lesen, ob fiktiv oder nicht. $3#$e#Es ist schön, in eine andere Welt einzutauchen und sich eine Weile darin zu verlieren. $0",
   "Victor.CharacterDialogue.152": "Ich habe heute einen Prototypen einer Trestle-Brücke zum Spaß in einem von mir erstellten Simulationsprogramm entworfen. Diese Art von Brücken ist nützlich, wenn Sie über Sümpfe oder Flachwasser hinweg müssen. $1#$e#Trestle-Brücken sind billiger zu bauen als andere Arten von Brücken, weil sie Holzstützen anstelle von Stein oder Stahl verwenden. $3#$e#Es klingt ein bisschen wie ein Videospiel, oder? Sie würden überrascht sein, wie viele Fähigkeiten Sie in Spielen lernen, die anderswo nützlich sind. $3",
-  "Victor.CharacterDialogue.153": "Der Spieleentwickler von Journey of the Prairie King, ConcernedMonkey, arbeitet an einem weiteren Spiel!$1#$b#Angesichts der großartigen Leistung von JPK muss ich sagen, dass ich mich absolut darauf freue, es zu spielen.$3",
+  "Victor.CharacterDialogue.153": "Der Spieleentwickler von Journey of the Prairie King, ConcernedMonkey, arbeitet an einem weiteren Spiel!$1#$b#Nachdem JPK so dermaßen gut war, freue ich mich schon total darauf, das neue Spiel es zu spielen.$3",
   "Victor.CharacterDialogue.154": "Ich frage mich, was ich bei Pierre bei meinem nächsten Besuch abholen sollte?$0#$e#Ich denke an Spaghetti-Zutaten!$1#$e#Machst du jemals Spaghetti? Es ist köstlich! Ich werde dir irgendwann mein Rezept für die Sauce teilen.$1",
   "Victor.CharacterDialogue.155": "Hmm... denkst du, dass sich jemand für ein Brückenbau-Simulationsspiel interessieren würde, @?$0#$e#... Ich denke, viele Leute könnten annehmen, dass es langweilig wäre, aber ich wette, ich könnte es unterhaltsam machen.$3",
   "Victor.CharacterDialogue.156": "Meine Mutter hat gestern Abend 80.000g durch einen Aktienhandel verdient. Ich denke, sie wird es wieder für teuren Wein ausgeben. $0",
@@ -1753,7 +1760,6 @@
   "Lance.MarriageDialogue.083": "Hast du manchmal das Gefühl, dass wir zu schnell in das hineingestürzt sind?...$2",
   "Lance.MarriageDialogue.084": "...$6#$e#%Lance ignoriert dich.",
   "Lance.MarriageDialogue.085": "Ich dachte, wir haben uns versprochen, dass wir miteinander reden, wenn es schlecht wird...$2",
-
   //Schedule Dialogue
   "Lance.Marriage.000": "Hallo, meine Liebste. Ich vertraue darauf, dass du heute Abenteuergilden-Geschäfte hast. $1#$e#Pass auf dich auf da draußen. $0",
   "Lance.Marriage.001": "Du bist ein willkommener Anblick, meine Liebe.$1#$e#Heute war es ruhig.$0",
@@ -1872,7 +1878,6 @@
   "Lance.DynamicSpouse77": "Ah, du bist aufgewacht. Wie hast du geschlafen?$1#$e#Ich habe Lust, heute durch die Stadt zu schlendern.$0#$e#*lachen* Ja, das werde ich tun.$5",
   "Lance.DynamicSpouse78": "Mit dem Frühling um die Ecke tauen die Highland-Monster auf. $0#$e#Ich frage mich, welche Entdeckungen ich dieses Jahr machen werde...$5#$b#Und was du erreichen wirst.$1#$e#Egal was passiert, wir werden immer an der Seite des anderen sein. $0",
   "Lance.DynamicSpouse79": "Der Winter endet bald. Ich muss eine letzte Feldumfrage in den Highlands durchführen, um das Jahr abzuschließen. $0#$e#Ich werde heute Abend zurückkehren. $1",
-
   //LANCE MOVIE RESPONSES
   "Movies.Lance.1": "Ich kann nicht sagen, dass ich ein Fan von Komödien bin, aber dieser Film zeigt Potenzial.$1",
   "Movies.Lance.2": "%Lance schaut dich an und lächelt.",
@@ -6959,7 +6964,7 @@
   "Marlon.Intro.01": "Hmm.",
   "Marlon.Intro.02": "...Ich habe mich nur gefragt, wie tief dieser Minenschacht geht.#$b#Ich werde mich um einige der Monster hier kümmern, bevor sie anfangen, aus dem Tal herauszuklettern.$0",
   "Marlon.Intro.03": "Ich habe im Laufe der Zeit viele Abenteurer getroffen. Ich erkenne diesen Blick in deinen Augen.$1#$b#Das Alter hat mir noch nicht meine Sehkraft oder meine Fähigkeiten im Umgang mit dem Schwert genommen.$2",
-  "Marlon.Intro.04": "Nimm diese Waffe. Sie mag nicht viel aussehen, aber sie ist mit Magie durchdrungen. Mit ihr wirst du in der Lage sein, gegen die Monster hier zu kämpfen.",
+  "Marlon.Intro.04": "Nimm diese Waffe. Sie mag nicht nach viel aussehen, aber sie ist mit Magie durchdrungen. Mit ihr wirst du in der Lage sein, gegen die Monster hier zu kämpfen.",
   "Marlon.Intro.05": "Ich werde ein Auge auf dich haben. Beweise dich selbst und ich werde darüber nachdenken, dich zum Mitglied zu machen.",
   "Marlon.Galaxy.01": "Du hast etwas gefunden!",
   "Marlon.Galaxy.02": "Diese Waffe! Da gibt es kein Verwechseln!$1#$b#Du hast ein Galaxisschwert erhalten!",

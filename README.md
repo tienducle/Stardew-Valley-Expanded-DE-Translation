@@ -2,11 +2,11 @@
 
 # Requirements
 
-[Stardew Valley Expanded](https://www.nexusmods.com/stardewvalley/mods/3753) v1.14.32
+[Stardew Valley Expanded](https://www.nexusmods.com/stardewvalley/mods/3753) v1.14.35
 
 ###### Optional
-- [Grandpa's Farm](https://www.nexusmods.com/stardewvalley/mods/3753?tab=files) v1.14.31
-- [Immersive Farm 2 Remastered](https://www.nexusmods.com/stardewvalley/mods/3753?tab=files) v1.14.31
+- [Grandpa's Farm](https://www.nexusmods.com/stardewvalley/mods/3753?tab=files) v1.14.34
+- [Immersive Farm 2 Remastered](https://www.nexusmods.com/stardewvalley/mods/3753?tab=files) v1.14.35
 
 # Usage
 
