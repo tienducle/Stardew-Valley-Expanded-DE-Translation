@@ -30,7 +30,8 @@ Stardew Valley
 
 # Create new version
 
-- Make sure to include the latest compiled installer exe file
+- Update manifest.json to next release version
+- Make sure to include the latest compiled installer exe file *after* updating the manifest.json file
 - Draft a new release in Github
   - Create a new tag with incremented version
   - Target: main
