@@ -5,6 +5,7 @@ Name "Stardew Valley Expanded - German Translation"
 OutFile "Stardew Valley Expanded - German Translation.exe"
 
 RequestExecutionLevel admin
+SetCompressor lzma
 
 # Define the installer sections
 !define MUI_PAGE_CUSTOMFUNCTION_PRE prePageFunction
@@ -21,8 +22,10 @@ Function prePageFunction
 FunctionEnd
 
 Section "Stardew Valley Expanded - German Translation files"
-	SetOutPath "$INSTDIR\Stardew Valley Expanded"
-	File /r "..\Stardew Valley Expanded\*.*"
+	SetOutPath "$INSTDIR\Stardew Valley Expanded\[CP] Stardew Valley Expanded\assets\SecretNotes"
+	File /r "..\Stardew Valley Expanded\[CP] Stardew Valley Expanded\assets\SecretNotes\SecretNotesImages.png"
+	SetOutPath "$INSTDIR\Stardew Valley Expanded\[CP] Stardew Valley Expanded\i18n"
+	File /r "..\Stardew Valley Expanded\[CP] Stardew Valley Expanded\i18n\de.json"
 	SetOutPath "$INSTDIR\Stardew Valley Expanded - German Translation"
 	File /r "..\Stardew Valley Expanded - German Translation\*.*"
 SectionEnd
