@@ -14,13 +14,14 @@ Download archive from releases or at [Nexusmods](https://www.nexusmods.com/stard
 
 Extract the contents to the Stardew Valley Expanded [mod folder](https://github.com/FlashShifter/StardewValleyExpanded/wiki/Install-guide#main-mod) and leave out the folders that you don't need.
 
+For the translation of the main mod, you can also use the installer.
+
 ```
 Stardew Valley
 └── Mods
+    ├── Stardew Valley Expanded - German Translation
     ├── Stardew Valley Expanded
-    │   ├── [CP] Stardew Valley Expanded
-    │   ├── [FTM] Stardew Valley Expanded
-    │   └── Stardew Valley Expanded
+    │   └── [CP] Stardew Valley Expanded
     ├── Grandpa's Farm
     │   └── [CP] Grandpa's Farm
     └── Immersive Farm 2 Remastered
@@ -29,6 +30,7 @@ Stardew Valley
 
 # Create new version
 
+- Make sure to include the latest compiled installer exe file
 - Draft a new release in Github
   - Create a new tag with incremented version
   - Target: main
