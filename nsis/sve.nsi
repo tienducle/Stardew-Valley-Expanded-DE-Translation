@@ -23,4 +23,6 @@ FunctionEnd
 Section "Stardew Valley Expanded - German Translation files"
 	SetOutPath "$INSTDIR\Stardew Valley Expanded"
 	File /r "..\Stardew Valley Expanded\*.*"
+	SetOutPath "$INSTDIR\Stardew Valley Expanded - German Translation"
+	File /r "..\Stardew Valley Expanded - German Translation\*.*"
 SectionEnd
