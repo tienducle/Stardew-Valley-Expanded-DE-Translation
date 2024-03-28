@@ -2,7 +2,7 @@
 #!include "LangFile.nsh"
 
 Name "Stardew Valley Expanded - German Translation"
-OutFile "Stardew Valley Expanded - German Translation.exe"
+OutFile "stardew-valley-expanded-german-translation-installer.exe"
 
 RequestExecutionLevel admin
 SetCompressor lzma
