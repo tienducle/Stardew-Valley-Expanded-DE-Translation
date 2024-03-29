@@ -3,6 +3,8 @@
   //SDV 1.14.25//
   //*********There are 1.6 vanilla spoilers shortly after the scroll***********
   /////////////////////
+  //New in SDV 1.14.36, replaces original Green Rain dilaogue. 
+  "Martin.GreenRainFinished": "Meine Eltern wollten nicht, dass ich zur Arbeit gehe. Sie sagten etwas über seltsames Wetter im Tal.#$e#Hey, was ist mit dem ganzen Moos überall?",
   //New in SDV 1.14.34
   "ClairePortrait": "Claire Portrait",
   "SophiaPortrait": "Sophia Portrait",
@@ -225,8 +227,8 @@
   "Gunther.DumpsterDive": "Bitte! Hier spielen Kinder!$3",
   "Gunther.VisitIslandNorth": "Bitte richte Professor Snail meine Grüße aus! Er ist sehr angesehen in unserem Fachgebiet.$0#$e#Ginger Island beherbergt viele Geheimnisse, die nur darauf warten, entdeckt zu werden!$1",
   //Martin
-  "Martin.GreenRain": "*seufz* Das bekomme ich dafür, dass ich all meine Krankheitstage genutzt habe.$2",
-  "Martin.GreenRainFinished": "Wir haben solches Wetter nicht zu Hause.$0#$b#Ich habe Stunden damit verbracht, Moos zu entfernen... zumindest habe ich Überstunden bekommen.$2",
+  //"Martin.GreenRain": "*sigh* This is what I get for using all my sick days.$2", - No longer used, Martin's parents keep him home. 
+
   "Martin.GiftStardropTea": "Auf keinen Fall, ist das eine Art seltener Tee? Mmmm...$0#$b#*schlürft* Oh, wow! Das schmeckt wirklich gut. Danke, @!$5",
   "Martin.Gift350": "Hey, das ist meine Lieblingsart von Saft! Vielen Dank, @.$0",
   "Martin.Gift233": "Ehrlich gesagt könnte ich ewig Eis essen!$1#$e#*seufz* meine Eltern würden mich umbringen...$4",
@@ -1549,7 +1551,7 @@
   "eggfestival.victor.2": "Hey, Schatz! Viel Glück beim Eiersuchen heute. $1#$e#Zeig diesen Kindern, wer der Boss ist. $3",
   "flowerdance.victor.1": "Diese Erdbeer-Gelatine ist wirklich bemerkenswert. $3",
   "flowerdance.victor.2": "Ich genieße immer unsere kleinen Ausflüge in den Wald.$1#$b#Ich wünschte, wir würden das öfter mit allen machen.$3",
-  "luau.victor.1": "Meine Mutter und ich haben gerade etwas von unserem teuersten Wein hinzugefügt. Es sollte die Suppe köstlich machen. $1#$e# Ich glaube jedoch nicht, dass die Kinder jetzt noch etwas davon haben können. Ups. $2",
+  "luau.victor.1": "Meine Mutter und ich haben ein paar Gerichte mit einigen alten Familienrezepten zubereitet. Sie haben eine würzige Schärfe. $1",
   "luau.victor.2": "Wir sollten nebeneinander sitzen und unsere Suppe essen!$4#$e#Wir können dazu ein Glas vom Jahrgangswein meiner Mutter trinken!$1",
   "moonlight.victor.1": "Diese Mondquallen reisen hierher von der anderen Seite der Welt.$3#$b#Sie waren vor ein paar Monaten auf den Farninseln.$1",
   "moonlight.victor.2": "Ich würde gerne deine Hand halten, während wir uns die Mondquallen im Mondschein ansehen. $4#$e#Ich liebe dich, @.$4",
@@ -1610,7 +1612,7 @@
   //************************
   //LANCE NPC 
   //************************
-  "Lance.CharacterDialogue.001": "Ich glaube, das ist... das Beste.$2#$e#Es ist schwer, eine Beziehung zu haben, wenn man sich nicht oft sieht...$2",
+  "Lance.CharacterDialogue.001": "I believe that's... for the best.$2#$e#It's hard to have a relationship when you don't see each other often...$2",
   "Lance.CharacterDialogue.002": "Ich dachte, wir würden zusammen alt werden...$2#$e#%Lance dreht sich von dir weg.",
   "Lance.CharacterDialogue.003": "Hallo, @.$2#$e#...$2",
   "Lance.CharacterDialogue.004": "Ich bin bereit, diesem eine zweite Chance zu geben...$5",
@@ -3694,7 +3696,7 @@
   "eggfestival.Sophia.2": "Hey, du! Möchtest du mit mir etwas essen gehen? $4#$e# Ich hatte bereits einen Teller. Dies wird mein Zweiter sein. $9",
   "flowerdance.Sophia.1": "Ich bin hier für den kostenlosen Kuchen.$1",
   "flowerdance.Sophia.2": "Hey, du!$9#$b#Möchtest du mit mir viel und lecker essen?$1",
-  "luau.Sophia.1": "Ich habe gealterten Blue Moon Wein für den Topf für Erwachsene hinzugefügt!$9#$e#Ich hoffe, die anderen Zutaten, die die Leute hinzugefügt haben, sind lecker!$1",
+  "luau.Sophia.1": "Ich frage mich, wie die Suppe dieses Jahr schmecken wird? Ich hoffe, sie ist lecker!$1",
   "luau.Sophia.2": "Möchtest du nach dem Essen schwimmen gehen? $1#$e# Ich habe einen neuen Bikini. $4",
   "moonlight.Sophia.1": "Die Quallen sind so hübsch!$1#$b#Ich liebe es, sie jedes Jahr zu beobachten.$9",
   "moonlight.Sophia.2": "Hey, du da. Siehst du den schwachen Glanz da draußen? $4#$e# Die Mondquallen kommen an die Küste! $9#$e# % Du hältst Sophias Hand. Sie lächelt dich an.",
@@ -10910,8 +10912,6 @@
   "Olivia.OrderEvent.02": "Dieser lokale Wein und Käse ist köstlich!$0#$b#Sag mir, Bauer, was ist dein Geheimnis?$1",
   "Olivia.OrderEvent.03": "Ich spüre, dass sich meine Freundschaft mit den Gästen der Rezeption erhöht hat. Ich habe auch gelernt, wie man Wein richtig verkostet - es erhöht die Gesundheit und Ausdauer, die geheilt werden, wenn ich ihn trinke!",
   "Olivia.OrderEvent.04": "Meine Empfang war ein großer Erfolg! Danke, @.$3#$e#Ich muss jetzt auf mein Portemonnaie achten. Das Event war zwar spaßig, aber auch ziemlich teuer!$6",
-  "Olivia.OrderEvent.Wine": "Wein",
-  "Olivia.OrderEvent.Item348": "Trinken Sie in Maßen.",
   //Susan Special Order
   "Susan.SpecialOrder.01": "Hausgemachter Dünger",
   "Susan.SpecialOrder.02": "Ich bin auf dem Markt, um etwas frisch hergestellten Qualitätsdünger zu kaufen. Meine Pflanzenbabys brauchen die zusätzlichen Nährstoffe!",

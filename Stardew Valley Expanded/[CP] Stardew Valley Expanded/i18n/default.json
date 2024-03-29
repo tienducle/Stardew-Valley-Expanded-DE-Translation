@@ -3,6 +3,8 @@
   //SDV 1.14.25//
   //*********There are 1.6 vanilla spoilers shortly after the scroll***********
   /////////////////////
+  //New in SDV 1.14.36, replaces original Green Rain dilaogue. 
+  "Martin.GreenRainFinished": "My parents didn't want me to go to work. They said something about strange weather in the valley.#$e#Hey, what's up with all the moss everywhere?",
   //New in SDV 1.14.34
   "ClairePortrait": "Claire Portrait",
   "SophiaPortrait": "Sophia Portrait",
@@ -225,8 +227,8 @@
   "Gunther.DumpsterDive": "Please! There are children who play here!$3",
   "Gunther.VisitIslandNorth": "Please send professor Snail my regards! He's well respected in our field.$0#$e#Ginger Island is home to many secrets just waiting to be discovered!$1",
   //Martin
-  "Martin.GreenRain": "*sigh* This is what I get for using all my sick days.$2",
-  "Martin.GreenRainFinished": "We don't get that kind of weather back home.$0#$b#I spent hours cleaning up moss... at least I got overtime.$2",
+  //"Martin.GreenRain": "*sigh* This is what I get for using all my sick days.$2", - No longer used, Martin's parents keep him home. 
+ 
   "Martin.GiftStardropTea": "No way, this is some kind of rare tea? Mmmm...$0#$b#*sips* Oh, wow! This tastes really good. Thanks, @!$5",
   "Martin.Gift350": "Hey, it's my favorite kind of juice! Thanks a bunch, @.$0",
   "Martin.Gift233": "I honestly could eat ice cream forever!$1#$e#*sigh* my parents would end me...$4",
@@ -1549,7 +1551,7 @@
   "eggfestival.victor.2": "Hey, honey! Good luck hunting eggs today.$1#$e#Show those children who's boss.$3",
   "flowerdance.victor.1": "This strawberry jello is truly remarkable.$3",
   "flowerdance.victor.2": "I always do enjoy our little trips out into the forest.$1#$b#Kinda wish we did this more often with everyone.$3",
-  "luau.victor.1": "My mother and I just threw in some of our most expensive wine. It should make the soup taste delicious.$1#$e#I don't think any of the children can have any now though. Whoops.$2",
+  "luau.victor.1": "My mother and I prepared a couple dishes using some old family recipes. They have a spicy kick to them.$1",
   "luau.victor.2": "We should sit next to each other and eat our soup!$4#$e#We can drink a glass of my mother's vintage wine with it!$1",
   "moonlight.victor.1": "These moonlight jellies travel here all the way from across the world.$3#$b#They were at the Fern Islands just a few months ago.$1",
   "moonlight.victor.2": "I'd like to hold your hand while looking out at the moonlight jellies.$4#$e#I love you, @.$4",
@@ -3694,7 +3696,7 @@
   "eggfestival.Sophia.2": "Hey, you! Want to get some food with me?$4#$e#I already had a plate. This will be my second.$9",
   "flowerdance.Sophia.1": "I'm here for the free cake.$1",
   "flowerdance.Sophia.2": "Hey, you!$9#$b#Want to eat lots and lots of food with me?$1",
-  "luau.Sophia.1": "I added aged Blue Moon Wine for the adult pot!$9#$e#I hope the other ingredients people put in are tasty!$1",
+  "luau.Sophia.1": "I wonder what the soup will taste like this year? I hope it's tasty!$1",
   "luau.Sophia.2": "Want to go swimming after we eat?$1#$e#I have a new bikini.$4",
   "moonlight.Sophia.1": "The jellyfish are so pretty!$1#$b#I love watching them every year.$9",
   "moonlight.Sophia.2": "Hey, you. See the faint glow out there?$4#$e#The moonlight jellyfish are coming to the shore!$9#$e#%You hold Sophia's hand. She smiles at you.",
@@ -10910,8 +10912,6 @@
   "Olivia.OrderEvent.02": "This local wine and cheese is delectable!$0#$b#Tell me farmer, what's your secret?$1",
   "Olivia.OrderEvent.03": "I sense my friendship with the reception's guests has increased. I've also learned how to properly sample wine - increasing health and stamina healed when I drink it!",
   "Olivia.OrderEvent.04": "My reception was a huge success! Thank you, @.$3#$e#I must watch my pocket book for the time being. The event was fun, but was quite expensive!$6",
-  "Olivia.OrderEvent.Wine": "Wine",
-  "Olivia.OrderEvent.Item348": "Drink in moderation",
   //Susan Special Order
   "Susan.SpecialOrder.01": "Homemade Fertilizer",
   "Susan.SpecialOrder.02": "I'm in the market to purchase some freshly-made quality fertilizer. My babies need the extra nutrients!",
