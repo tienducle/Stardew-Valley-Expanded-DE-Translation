@@ -3,6 +3,58 @@
   //SDV 1.14.25//
   //*********There are 1.6 vanilla spoilers shortly after the scroll***********
   /////////////////////
+
+  //New in SDV 1.14.38 - above the first break is from pre 1.6, but this is to keep config data together. 
+    //CONFIGS
+    "Config.SeasonalEdits.name": "Seasonal Edits",
+    "Config.ReplaceDefaultFences.name": "Replace Default Fences",
+    "Config.ReplaceHardwoodFences.name": "Replace Hardwood Fences",
+    "Config.ImmersiveShadows.name": "Immersive Shadows",
+    "Config.MistEffects.name": "Mist Effects",
+    "Config.OriginalMinesEntrance.name": "Original Mines Entrance",
+    "Config.AlternativeCraftables.name": "Alternative Craftables",
+    "Config.RemoveObjectsFromGrandpasShed.name": "Remove Objects From GrandpasShed",
+    "Config.RemoveSouthernCactusesFromDesert.name": "Remove Southern Cactuses From Desert",
+    "Config.DisableSVEJojaMartShop.name": "Disable SVE Joja Mart Shop",
+    "Config.BalancedCrafting.name": "Balanced Crafting",
+    "Config.HarderBuildingConstruction.name": "Harder Building Construction",
+    "Config.StrongerMonsters.name": "Stronger Monsters",
+    "Config.OlderSophiaPortraits.name": "Older Sophia Portraits",
+    "Config.VanillaSandyPortraits.name": "Vanilla Sandy Portraits",
+    "Config.MatureEvents.name": "Mature Events",
+    "Config.ShorterPathToBlueMoonVineyard.name": "Shorter Path To Blue Moon Vineyard",
+    "Config.UseGaldoranThemeAllTimes.name": "Use Galdoran Theme All Times",
+    "Config.DisableGaldoranTheme.name": "Disable Galdoran Theme",
+    ///////(new stuff below here)
+    "Config.WarpLocation.name": "Warp Location",
+    "Config.EnchantedGroveWarpX.name": "Enchanted Grove Warp X",
+    "Config.EnchantedGrovwWarpY.name": "Enchanted Grove Warp Y",
+//
+    "Config.WarpLocation.description": "'default' places the warp one tile below the bunny statue on SVE and vanilla maps. 'Custom' allows the warp point to be moved around on the farm. 'Grandpa's Shed' moves the warp point off the farm. Using a farm mod that adds a new farm type will place the warp by Grandpa's Shed regardless of choice. Selecting 'Grandpa's Shed' when playing on an SVE map will be the same as selecting 'default'.",
+    "Config.EnchantedGroveWarpX.description": "Select the X coordinate for the warp point. Only matters when picking 'custom' for WarpLocation.",
+    "Config.EnchantedGrovwWarpY.description": "Select the Y coordinate for the warp point. Only matters when picking 'custom' for WarpLocation.",
+    "Config.SeasonalEdits.description": "Adds leaves to all building roofs during fall and snow to many objects during winter (fences, stop signs, plants, etc). Automatically adjusts colors if players have Starblue Valley or Eemie recolors installed.",
+    "Config.ReplaceDefaultFences.description": "Replaces the standard fences with the matching static fences found throughout exterior locations. Automatically adjusts colors if players have Starblue Valley or Eemie recolors installed.",
+    "Config.ReplaceHardwoodFences.description": "Replaces the hardwood fences with the matching static fences found throughout exterior locations. Automatically adjusts colors if players have Starblue Valley or Eemie recolors installed.",
+    "Config.ImmersiveShadows.description": "Adds shadows to buildings and large objects in the world.",
+    "Config.MistEffects.description": "Adds mist during rainy days to many maps. This does impact performance, so disable this if you're experiencing lag on rainy days.",
+    "Config.OriginalMinesEntrance.description": "Adds back the original mine entrance at the mountain, cutting down time it takes players to walk to the mines.",
+    "Config.AlternativeCraftables.description": "Changes the design of the furnace, kiln, beehives, kegs, seed machine, cheese machine, and mayonnaise machine.",
+    "Config.RemoveObjectsFromGrandpasShed.description": "Removes static plants, boxes, flowers, and barrels from the greenhouse interior.",
+    "Config.RemoveSouthernCactusesFromDesert.description": "Removes a number of catuses in Calico Desert, allowing easier placement of objects such as kegs.",
+    "Config.DisableSVEJojaMartShop.description": "Removes SVE Joja Shop patches, giving other mods editing the vanilla shop priority.",
+    "Config.BalancedCrafting.description": "Crafting requires more/different resources. Some craftables are easier to make. Recommended if players are using the /“Automation/” mod and/or IF2R to balance resource intake.",
+    "Config.HarderBuildingConstruction.description": "Constructing buildings cost more resources and money.",
+    "Config.StrongerMonsters.description": "Monsters receive a significant buff in damage dealt to players (double), with slight increases in HP. Shadow Brutes and Mummies have large HP and damage buffs.",
+    "Config.OlderSophiaPortraits.description": "Makes Sophia's portraits look older!",
+    "Config.VanillaSandyPortraits.description": "Removes SVE Sandy portraits, giving other mods editing the vanilla Sandy portraits priority.",
+    "Config.MatureEvents.description": "Adds an additional 10 events that contain extremely serious topics, dark undertones, and moral ambiguity. If players wish to play SVE with these events, they must consent via toggling the configuration to \"true\".",
+    "Config.ShorterPathToBlueMoonVineyard.description": "Pushes the warp point from Cindersap Forest > Blue Moon Vineyard closer to Fairhaven Farm, cutting down on travel time.",
+    "Config.UseGaldoranThemeAllTimes.description": "Changes the Stardew Valley region UI to the Galdoran region UI in all locations.",
+    "Config.DisableGaldoranTheme.description": "Disables the Galdoran UI in all locations. Useful if players have a mod already editing the UI.",
+
+
+  
   //New in SDV 1.14.36, replaces original Green Rain dilaogue. 
   "Martin.GreenRainFinished": "My parents didn't want me to go to work. They said something about strange weather in the valley.#$e#Hey, what's up with all the moss everywhere?",
   //New in SDV 1.14.34
@@ -228,7 +280,6 @@
   "Gunther.VisitIslandNorth": "Please send professor Snail my regards! He's well respected in our field.$0#$e#Ginger Island is home to many secrets just waiting to be discovered!$1",
   //Martin
   //"Martin.GreenRain": "*sigh* This is what I get for using all my sick days.$2", - No longer used, Martin's parents keep him home. 
- 
   "Martin.GiftStardropTea": "No way, this is some kind of rare tea? Mmmm...$0#$b#*sips* Oh, wow! This tastes really good. Thanks, @!$5",
   "Martin.Gift350": "Hey, it's my favorite kind of juice! Thanks a bunch, @.$0",
   "Martin.Gift233": "I honestly could eat ice cream forever!$1#$e#*sigh* my parents would end me...$4",
@@ -1034,26 +1085,7 @@
   "NPCMapLocation.Farm": "Farm",
   "NPCMapLocation.BusStop": "Bus Stop",
   "NPCMapLocation.Townhouse": "Morris's Townhouse",
-  //CONFIGS
-  "Config.SeasonalEdits.name": "SeasonalEdits",
-  "Config.ReplaceDefaultFences.name": "ReplaceDefaultFences",
-  "Config.ReplaceHardwoodFences.name": "ReplaceHardwoodFences",
-  "Config.ImmersiveShadows.name": "ImmersiveShadows",
-  "Config.MistEffects.name": "MistEffects",
-  "Config.OriginalMinesEntrance.name": "OriginalMinesEntrance",
-  "Config.AlternativeCraftables.name": "AlternativeCraftables",
-  "Config.RemoveObjectsFromGrandpasShed.name": "RemoveObjectsFromGrandpasShed",
-  "Config.RemoveSouthernCactusesFromDesert.name": "RemoveSouthernCactusesFromDesert",
-  "Config.DisableSVEJojaMartShop.name": "DisableSVEJojaMartShop",
-  "Config.BalancedCrafting.name": "BalancedCrafting",
-  "Config.HarderBuildingConstruction.name": "HarderBuildingConstruction",
-  "Config.StrongerMonsters.name": "StrongerMonsters",
-  "Config.OlderSophiaPortraits.name": "OlderSophiaPortraits",
-  "Config.VanillaSandyPortraits.name": "VanillaSandyPortraits",
-  "Config.MatureEvents.name": "MatureEvents",
-  "Config.ShorterPathToBlueMoonVineyard.name": "ShorterPathToBlueMoonVineyard",
-  "Config.UseGaldoranThemeAllTimes.name": "UseGaldoranThemeAllTimes",
-  "Config.DisableGaldoranTheme.name": "DisableGaldoranTheme",
+
   //************************
   //VICTOR NPC 
   //************************
@@ -1611,8 +1643,7 @@
   "Victor.SpouseVary4": "Hey, good morning!$1#$e#I've been trying to find a book. I need to cross reference something.$0",
   //************************
   //LANCE NPC 
-  //************************
-  "Lance.CharacterDialogue.001": "I believe that's... for the best.$2#$e#It's hard to have a relationship when you don't see each other often...$2",
+  //************************ "Lance.CharacterDialogue.001": "I believe that's... for the best.$2#$e#It's hard to have a relationship when you don't see each other often...$2",
   "Lance.CharacterDialogue.002": "I thought we'd grow old together...$2#$e#%Lance turns away from you.",
   "Lance.CharacterDialogue.003": "Hello, @.$2#$e#...$2",
   "Lance.CharacterDialogue.004": "I'm willing to give this a second chance...$5",

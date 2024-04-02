@@ -1,9 +1,13 @@
 {
+
+    //Note for Translators - 1.14.38 added "DeepCave" and Configs for .description (used in GMCM)
+
     //Farm String
   "IF2RFarmString": "Immersive Farm 2 Remastered_Ein riesiges Grundstück mit Toren. Bietet bebaubares Gras und Geheimnisse, die es zu entdecken gilt.",
+  "DeepCave": "Tiefe Höhle",
 
     //Confgs
-  "Config.Mist_Effects.Name": "Mist_Effects",
+  "Config.Mist_Effects.name": "Nebel-Effekte",
   "Config.Farm_Sandbox_Layout.name": "Farm_Sandbox_Layout",
   "Config.Farm_Light_Debris.name": "Farm_Light_Debris",
   "Config.Dirt_Crop_Field_1.name": "Dirt_Crop_Field_1",
@@ -18,11 +22,30 @@
   "Config.Remove_Central_Cherry_Blossom_Tree_And_Water_Trough.name": "Remove_Central_Cherry_Blossom_Tree_And_Water_Trough",
   "Config.Remove_Cherry_Blossom_Tree_From_Southeast_Hill.name": "Remove_Cherry_Blossom_Tree_From_Southeast_Hill",
   "Config.Remove_Fences_From_Backyard.name": "Remove_Fences_From_Backyard",
-  "Config.Remove_Pet_House_From_Backyard.name": "Remove_Pet_House_From_Backyard",
-  "Config.Remove_Flowerbed_From_Backyard.name": "Remove_Flowerbed_From_Backyard",
   "Config.Remove_Minecart_System.name": "Remove_Minecart_System",
   "Config.Remove_Objects_From_Greenhouse.name": "Remove_Objects_From_Greenhouse",
   "Config.Disable_IF2R_Greenhouse.name": "Disable_IF2R_Greenhouse",
+  "Config.Disable_Farm_Cave.name": "Deaktiviere_Farm_Höhle",
+
+  "Config.Mist_Effects.description": "Fügt an regnerischen Tagen vielen Karten Nebel hinzu. Dies beeinträchtigt die Leistung, also deaktivieren Sie diese Funktion, wenn Sie an regnerischen Tagen Verzögerungen erleben.",
+  "Config.Farm_Sandbox_Layout.description": "Verwandelt IF2R in eine standardmäßigere Farmkarte, ausgenommen vorgegebene Anbaufelder, Schuppengebäude und statische Zäune. Ein Bild dieser Version befindet sich im IF2R-Bereich. Die Konfigurationsdatei befindet sich im [CP] IF2R-Ordner. Spieler können diese Konfiguration auf bestehenden SVE-Speicherständen, die IF2R verwenden, auf /„true/“ setzen.",
+  "Config.Farm_Light_Debris.description": "Balanciert die Ressourcenaufnahme und macht das Ackerland leichter zu bewirtschaften. Muss auf wahr umgestellt werden, bevor die Speicherdatei erstellt wird, um wirksam zu werden.",
+  "Config.Dirt_Crop_Field_1.description": "Felder können zwischen Gras- und Erdbodenvarianten umgeschaltet werden.",
+  "Config.Dirt_Crop_Field_2.description": "Felder können zwischen Gras- und Erdbodenvarianten umgeschaltet werden.",
+  "Config.Dirt_Crop_Field_3.description": "Felder können zwischen Gras- und Erdbodenvarianten umgeschaltet werden.",
+  "Config.Dirt_Crop_Field_4.description": "Felder können zwischen Gras- und Erdbodenvarianten umgeschaltet werden.",
+  "Config.Dirt_Crop_Field_5.description": "Felder können zwischen Gras- und Erdbodenvarianten umgeschaltet werden.",
+  "Config.Dirt_Crop_Field_6.description": "Felder können zwischen Gras- und Erdbodenvarianten umgeschaltet werden.",
+  "Config.Remove_Fences_In_Front_Of_Grandpas_Shed.description": "Entferne Zäune vor Opas Schuppen",
+  "Config.Remove_Farm_Animal_Area_Fences.description": "Entfernt den Zaun in der Mitte von IF2R.",
+  "Config.Remove_Fences_Left_Of_Crop_Field_1.description": "Entfernt Zaun links vom Ackerfeld 1",
+  "Config.Remove_Central_Cherry_Blossom_Tree_And_Water_Trough.description": "Entfernt die Zäune neben dem Fluss.",
+  "Config.Remove_Cherry_Blossom_Tree_From_Southeast_Hill.description": "Entfernt den großen rosa Baum und die Wassertränke unterhalb des eingezäunten Tierbereichs.",
+  "Config.Remove_Fences_From_Backyard.description": "Entfernt alle Zäune um das Bauernhaus.",
+  "Config.Remove_Minecart_System.description": "Entfernt die Loren rund um das Ackerland.",
+  "Config.Remove_Objects_From_Greenhouse.description": "Entfernt statische Pflanzen, Kisten, Blumen und Fässer aus dem Inneren des IF2R-Gewächshauses.",
+  "Config.Disable_IF2R_Greenhouse.description": "Wenn auf wahr gesetzt, wird das IF2R-Gewächshaus deaktiviert. Nützlich für die Kompatibilität.",
+  "Config.Disable_Farm_Cave.description": "Wenn auf true gesetzt, deaktiviert es die IF2R-Farmhöhle. Nützlich für Kompatibilität.",
 
 
     //Events
@@ -61,6 +84,6 @@
   "Robin.01": "Gern geschehen, @!$1",
   "Robin.02": "Vielen Dank, @!$1",
   "Robin.03": "Tut mir leid, dass es so teuer war, @...$2#$b#Allein die Brückenreparaturen beliefen sich auf 45.000g. Die Steinplatten, die ich gekauft habe, und die Ausrüstung, die ich gemietet habe, waren nicht billig.$5",
-  "Robin.04": "Ähm... ja, kein Problem.$2",
+  "Robin.04": "Ähm... ja, kein Problem.$2"
 
 }

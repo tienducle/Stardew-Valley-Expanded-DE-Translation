@@ -3,6 +3,58 @@
   //SDV 1.14.25//
   //*********There are 1.6 vanilla spoilers shortly after the scroll***********
   /////////////////////
+
+  //New in SDV 1.14.38 - above the first break is from pre 1.6, but this is to keep config data together. 
+    //CONFIGS
+  "Config.SeasonalEdits.name": "SeasonalEdits",
+  "Config.ReplaceDefaultFences.name": "ReplaceDefaultFences",
+  "Config.ReplaceHardwoodFences.name": "ReplaceHardwoodFences",
+  "Config.ImmersiveShadows.name": "ImmersiveShadows",
+  "Config.MistEffects.name": "MistEffects",
+  "Config.OriginalMinesEntrance.name": "OriginalMinesEntrance",
+  "Config.AlternativeCraftables.name": "AlternativeCraftables",
+  "Config.RemoveObjectsFromGrandpasShed.name": "RemoveObjectsFromGrandpasShed",
+  "Config.RemoveSouthernCactusesFromDesert.name": "RemoveSouthernCactusesFromDesert",
+  "Config.DisableSVEJojaMartShop.name": "DisableSVEJojaMartShop",
+  "Config.BalancedCrafting.name": "BalancedCrafting",
+  "Config.HarderBuildingConstruction.name": "HarderBuildingConstruction",
+  "Config.StrongerMonsters.name": "StrongerMonsters",
+  "Config.OlderSophiaPortraits.name": "OlderSophiaPortraits",
+  "Config.VanillaSandyPortraits.name": "VanillaSandyPortraits",
+  "Config.MatureEvents.name": "MatureEvents",
+  "Config.ShorterPathToBlueMoonVineyard.name": "ShorterPathToBlueMoonVineyard",
+  "Config.UseGaldoranThemeAllTimes.name": "UseGaldoranThemeAllTimes",
+  "Config.DisableGaldoranTheme.name": "DisableGaldoranTheme",
+    ///////(new stuff below here)
+  "Config.WarpLocation.name": "Warp-Ort",
+  "Config.EnchantedGroveWarpX.name": "Verzauberter Hain Warp X",
+  "Config.EnchantedGrovwWarpY.name": "Verzauberter Hain Warp Y",
+//
+  "Config.WarpLocation.description": "'Default' platziert den Warp einen Kachel unter der Hasenstatue auf SVE- und Vanille-Karten. 'Benutzerdefiniert' ermöglicht es, den Warppunkt auf der Farm zu verschieben. 'Opa's Schuppen' verlegt den Warppunkt außerhalb der Farm. Die Verwendung eines Farm-Mods, der einen neuen Farmtyp hinzufügt, platziert den Warp unabhängig von der Wahl bei Opa's Schuppen. Die Auswahl von 'Opa's Schuppen' beim Spielen auf einer SVE-Karte wird dasselbe sein wie die Auswahl von 'default'.",
+  "Config.EnchantedGroveWarpX.description": "Wählen Sie die X-Koordinate für den Warp-Punkt. Dies ist nur relevant, wenn 'benutzerdefiniert' als WarpLocation ausgewählt wird.",
+  "Config.EnchantedGrovwWarpY.description": "Wählen Sie die Y-Koordinate für den Warp-Punkt. Dies ist nur relevant, wenn 'benutzerdefiniert' als WarpLocation ausgewählt wird.",
+  "Config.SeasonalEdits.description": "Fügt im Herbst Blätter zu allen Gebäudedächern und im Winter Schnee zu vielen Objekten hinzu (Zäune, Stoppschilder, Pflanzen usw.). Passt die Farben automatisch an, wenn Spieler Starblue Valley oder Eemie Recolors installiert haben.",
+  "Config.ReplaceDefaultFences.description": "Ersetzt die Standardzäune durch die passenden statischen Zäune, die in Außenbereichen zu finden sind. Passt die Farben automatisch an, wenn Spieler Starblue Valley oder Eemie Recolors installiert haben.",
+  "Config.ReplaceHardwoodFences.description": "Ersetzt die Hartholzzäune durch die passenden statischen Zäune, die an verschiedenen Außenstandorten zu finden sind. Passt die Farben automatisch an, wenn Spieler Starblue Valley oder Eemie Recolors installiert haben.",
+  "Config.ImmersiveShadows.description": "Fügt Gebäuden und großen Objekten in der Welt Schatten hinzu.",
+  "Config.MistEffects.description": "Fügt an regnerischen Tagen vielen Karten Nebel hinzu. Dies beeinträchtigt die Leistung, also deaktivieren Sie dies, wenn Sie an regnerischen Tagen Verzögerungen erleben.",
+  "Config.OriginalMinesEntrance.description": "Fügt den ursprünglichen Mineneingang am Berg wieder hinzu, wodurch sich die Zeit verkürzt, die Spieler benötigen, um zu den Minen zu gelangen.",
+  "Config.AlternativeCraftables.description": "Ändert das Design des Ofens, Brennofens, Bienenstöcke, Fässer, Saatgutmaschine, Käsemaschine und Mayonnaisemaschine.",
+  "Config.RemoveObjectsFromGrandpasShed.description": "Entfernt statische Pflanzen, Kisten, Blumen und Fässer aus dem Inneren des Gewächshauses.",
+  "Config.RemoveSouthernCactusesFromDesert.description": "Entfernt eine Anzahl von Kakteen in der Calico-Wüste, was die Platzierung von Objekten wie Fässern erleichtert.",
+  "Config.DisableSVEJojaMartShop.description": "Entfernt SVE Joja Shop-Patches und gibt anderen Mods, die den Vanilla-Shop bearbeiten, Priorität.",
+  "Config.BalancedCrafting.description": "Die Herstellung erfordert mehr/andere Ressourcen. Einige herstellbare Gegenstände sind leichter zu machen. Empfohlen, wenn Spieler den /„Automation/“-Mod und/oder IF2R verwenden, um die Ressourcenaufnahme auszugleichen.",
+  "Config.HarderBuildingConstruction.description": "Der Bau von Gebäuden kostet mehr Ressourcen und Geld.",
+  "Config.StrongerMonsters.description": "Monster erhalten eine erhebliche Verstärkung des an Spieler verursachten Schadens (doppelt), mit leichten Erhöhungen der HP. Schattenbruten und Mumien erhalten große HP- und Schadensverstärkungen.",
+  "Config.OlderSophiaPortraits.description": "Macht Sophias Porträts älter aussehen!",
+  "Config.VanillaSandyPortraits.description": "Entfernt SVE Sandy-Porträts und gibt anderen Mods Vorrang bei der Bearbeitung der Vanilla-Sandy-Porträts.",
+  "Config.MatureEvents.description": "Fügt 10 zusätzliche Ereignisse hinzu, die extrem ernste Themen, dunkle Untertöne und moralische Mehrdeutigkeit enthalten. Wenn Spieler SVE mit diesen Ereignissen spielen möchten, müssen sie durch Umstellen der Konfiguration auf \"wahr\" zustimmen.",
+  "Config.ShorterPathToBlueMoonVineyard.description": "Verschiebt den Warp-Punkt von Cindersap Forest > Blue Moon Vineyard näher an Fairhaven Farm, um die Reisezeit zu verkürzen.",
+  "Config.UseGaldoranThemeAllTimes.description": "Ändert die Benutzeroberfläche der Stardew Valley-Region in die Benutzeroberfläche der Galdoran-Region in allen Orten.",
+  "Config.DisableGaldoranTheme.description": "Deaktiviert die Galdoran-Benutzeroberfläche in allen Bereichen. Nützlich, wenn Spieler bereits einen Mod haben, der die Benutzeroberfläche bearbeitet.",
+
+
+
   //New in SDV 1.14.36, replaces original Green Rain dilaogue. 
   "Martin.GreenRainFinished": "Meine Eltern wollten nicht, dass ich zur Arbeit gehe. Sie sagten etwas über seltsames Wetter im Tal.#$e#Hey, was ist mit dem ganzen Moos überall?",
   //New in SDV 1.14.34
@@ -228,7 +280,6 @@
   "Gunther.VisitIslandNorth": "Bitte richte Professor Snail meine Grüße aus! Er ist sehr angesehen in unserem Fachgebiet.$0#$e#Ginger Island beherbergt viele Geheimnisse, die nur darauf warten, entdeckt zu werden!$1",
   //Martin
   //"Martin.GreenRain": "*sigh* This is what I get for using all my sick days.$2", - No longer used, Martin's parents keep him home. 
-
   "Martin.GiftStardropTea": "Auf keinen Fall, ist das eine Art seltener Tee? Mmmm...$0#$b#*schlürft* Oh, wow! Das schmeckt wirklich gut. Danke, @!$5",
   "Martin.Gift350": "Hey, das ist meine Lieblingsart von Saft! Vielen Dank, @.$0",
   "Martin.Gift233": "Ehrlich gesagt könnte ich ewig Eis essen!$1#$e#*seufz* meine Eltern würden mich umbringen...$4",
@@ -1034,26 +1085,7 @@
   "NPCMapLocation.Farm": "Farm",
   "NPCMapLocation.BusStop": "Bushaltestelle",
   "NPCMapLocation.Townhouse": "Morris' Stadthaus",
-  //CONFIGS
-  "Config.SeasonalEdits.name": "SeasonalEdits",
-  "Config.ReplaceDefaultFences.name": "ReplaceDefaultFences",
-  "Config.ReplaceHardwoodFences.name": "ReplaceHardwoodFences",
-  "Config.ImmersiveShadows.name": "ImmersiveShadows",
-  "Config.MistEffects.name": "MistEffects",
-  "Config.OriginalMinesEntrance.name": "OriginalMinesEntrance",
-  "Config.AlternativeCraftables.name": "AlternativeCraftables",
-  "Config.RemoveObjectsFromGrandpasShed.name": "RemoveObjectsFromGrandpasShed",
-  "Config.RemoveSouthernCactusesFromDesert.name": "RemoveSouthernCactusesFromDesert",
-  "Config.DisableSVEJojaMartShop.name": "DisableSVEJojaMartShop",
-  "Config.BalancedCrafting.name": "BalancedCrafting",
-  "Config.HarderBuildingConstruction.name": "HarderBuildingConstruction",
-  "Config.StrongerMonsters.name": "StrongerMonsters",
-  "Config.OlderSophiaPortraits.name": "OlderSophiaPortraits",
-  "Config.VanillaSandyPortraits.name": "VanillaSandyPortraits",
-  "Config.MatureEvents.name": "MatureEvents",
-  "Config.ShorterPathToBlueMoonVineyard.name": "ShorterPathToBlueMoonVineyard",
-  "Config.UseGaldoranThemeAllTimes.name": "UseGaldoranThemeAllTimes",
-  "Config.DisableGaldoranTheme.name": "DisableGaldoranTheme",
+
   //************************
   //VICTOR NPC 
   //************************
@@ -1611,8 +1643,7 @@
   "Victor.SpouseVary4": "Hey, guten Morgen!$1#$e#Ich habe versucht, ein Buch zu finden. Ich muss etwas überprüfen.$0",
   //************************
   //LANCE NPC 
-  //************************
-  "Lance.CharacterDialogue.001": "I believe that's... for the best.$2#$e#It's hard to have a relationship when you don't see each other often...$2",
+  //************************ "Lance.CharacterDialogue.001": "I believe that's... for the best.$2#$e#It's hard to have a relationship when you don't see each other often...$2",
   "Lance.CharacterDialogue.002": "Ich dachte, wir würden zusammen alt werden...$2#$e#%Lance dreht sich von dir weg.",
   "Lance.CharacterDialogue.003": "Hallo, @.$2#$e#...$2",
   "Lance.CharacterDialogue.004": "Ich bin bereit, diesem eine zweite Chance zu geben...$5",
@@ -5929,7 +5960,7 @@
   "Martin.CharacterDialogue.026": "Meine Mutter hat mir ein paar Tacos eingepackt. Ich habe nichts dagegen, sie zu teilen!$0#$e#Ihr Kochen ist das Beste.$1",
   "Martin.CharacterDialogue.027": "Ich muss eigentlich nicht extra hierher kommen, um in eurer Bibliothek zu studieren. Es gibt eine in der Nähe meines Hauses. $0#$b#Ich möchte nur eine Ausrede haben, um mehr zu reisen. $4",
   "Martin.CharacterDialogue.028": "Es gibt eine Menge interessanter Leute im Tal. Bist du mit vielen Leuten befreundet? $0#$e# Ich lebe auf dem Land. Dort draußen gibt es nicht allzu viele Leute. $0",
-  "Martin.CharacterDialogue.029": "Hallo Herr.^Hallo Frau.",
+  "Martin.CharacterDialogue.029": "Hallo, mein Herr. ^ Hallo, meine Dame.",
   "Martin.CharacterDialogue.030": "Meine Mutter sagt immer 'Manieren sind das A und O'. Ich gebe mein Bestes, um höflich zu jedem zu sein.$0#$e#Vielleicht habe ich deshalb den Job bei Joja Mart bekommen.$0",
   "Martin.CharacterDialogue.031": "Ich muss hart arbeiten, solange ich jung bin! Zukünftige Martin wird mich schätzen!$1",
   "Martin.CharacterDialogue.032": "*gähn* Ich habe die ganze Nacht Videospiele gespielt und bereue es jetzt...$2#$e#Aber ich habe meinen Charakter aufgestuft.$1",
