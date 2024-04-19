@@ -2103,6 +2103,13 @@
   //Dialogue changes after Lance 12 heart
   "LanceKrobus.Marlon": "Hmm? Hast du Krobus Lance vorgestellt? $0#$e#Ich denke, es war nur eine Frage der Zeit.$0",
   "LanceKrobus.Krobus": "Leere Wurzeln sind köstlich. Ich hoffe, ich bekomme bald mehr. $1#$e#Dein Lebenspartner ist eine freundliche Person. $0",
+  "LanceKrobus.1": "Krobus und ich treffen uns heute.$0#$e#Ich gehe um 17:00 Uhr.$1",
+  "LanceKrobus.2": "Schattenmenschen schlafen nie. Ich frage mich, wie das ist.$6#$e#Ich treffe mich heute Abend mit Krobus.$0",
+  "LanceKrobus.3": "Ich freue mich darauf, heute Abend mehr über die Schattenmenschen zu erfahren.$1#$e#Welche Abenteuer hast du in letzter Zeit erlebt?$0",
+  "LanceKrobus.4": "Hallo, meine Liebe.$0#$b#Ich habe heute Abend Geschäfte mit Krobus zu erledigen.$1#$e#Wenn du möchtest, kannst du uns um 20:00 Uhr an unserem üblichen Ort treffen...$5",
+  "LanceKrobus.5": "Ich besuche heute Abend 'du weißt schon wen' am Kanalausgang.$0",
+  "LanceKrobus.6": "Ich hoffe, dass dir heute etwas wirklich Großartiges passiert.$0",
+  "LanceKrobus.7": "%Lance packt Leerenwurzeln in einen Beutel.#$e#Hmm... sind drei genug?$6",
   "LanceKrobus.8": "Wir sind auf so viele Arten unterschiedlich... aber das ist in Ordnung.$0",
   "LanceKrobus.9": "Ich habe viel Neues über Menschen gelernt.$0#$e#Ihr seid nicht alle so seltsam, wie es scheint.$0",
   "LanceKrobus.10": "Ich hege einen großen sentimentalen Wert in dem Rückkehrzepter, den ich dir verkauft habe. $0#$e#Ich habe ihn oft benutzt, um zu entkommen... aber jetzt habe ich keinen Grund mehr dazu. $0#$b#Dieser Ort ist mein Zuhause. $1",
@@ -6128,7 +6135,7 @@
   "Martin.8hearts.Claire": "Du solltest etwas Nettes tun, um Martin aufzumuntern. Er fühlt sich ein bisschen niedergeschlagen...$2#$e#Um. Ich sollte eigentlich nicht darüber reden...$1",
   //************************
   // MORGAN NPC
-  //************************
+  //************************ um..
   "Morgan.CharacterDialogue.001": "Um... Grüße! Mein Name ist Morgan. Ich bin ein Schüler von Magnus Rasmodius. Wie ist dein Name? $0#$e#Es war mir ein Vergnügen! $1",
   "Morgan.CharacterDialogue.002": "Whoa! Der Vulkan sieht so groß aus, wenn man so nah dran ist!$5",
   "Morgan.CharacterDialogue.003": "Nyahaha! Das hat Spaß gemacht! Ich möchte die Insel bald wieder besuchen!$3",
