@@ -1,13 +1,13 @@
 {
 
     //Configs
-  "Config.MistEffects.name": "Nebeneffekte",
+  "Config.MistEffects.name": "Nebeleffekte",
   "Config.SandboxLayout.name": "Sandbox-Layout",
   "Config.RemoveFences.name": "Zäune entfernen",
   "Config.RemoveGrassStretch.name": "Rasenstück entfernen",
   "Config.RemoveLandExpansionPond.name": "Erweiterungsteich entfernen",
   "Config.GrassCropField.name": "Grasflächen-Anbaufeld",
-  "Config.HeavyDebris.name": "Viel Geröll",
+  "Config.HeavyDebris.name": "Starke Verwilderung",
   "Config.LargerBridgeToGrandpasShed.name": "Größere Brücke zu Großvaters Schuppen",
   "Config.LargerGreenhouse.name": "Größeres Gewächshaus",
   "Config.RemoveGreenhouseObjects.name": "Gewächshaus Objekte entfernen",
