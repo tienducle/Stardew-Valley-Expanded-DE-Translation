@@ -1,13 +1,13 @@
 ﻿{
   "Name": "Stardew Valley Expanded - German Translation",
   "Author": "Cyb3rfr3ak",
-  "Version": "0.0.20",
+  "Version": "0.0.21",
   "Description": "German translation for Stardew Valley Expanded.",
   "UniqueID": "Cyb3rfr3ak.Stardew-Valley-Expanded-DE-Translation",
   "MinimumApiVersion": "4.0.0",
   "ContentPackFor": {
     "UniqueID": "FlashShifter.StardewValleyExpandedCP",
-    "MinimumVersion": "1.14.39"
+    "MinimumVersion": "1.14.41"
   },
   "UpdateKeys": [
     "Nexus:17019",
