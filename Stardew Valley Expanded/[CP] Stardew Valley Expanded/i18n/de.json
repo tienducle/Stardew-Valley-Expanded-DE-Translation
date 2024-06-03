@@ -1,11 +1,9 @@
 {
   /////////////////////
-  //SDV 1.14.25//
   //*********There are 1.6 vanilla spoilers shortly after the scroll***********
   /////////////////////
 
-  //New in SDV 1.14.38 - above the first break is from pre 1.6, but this is to keep config data together. 
-    //CONFIGS
+  //CONFIGS
   "Config.SeasonalEdits.name": "Saisonale Bearbeitungen",
   "Config.ReplaceDefaultFences.name": "Ersetze Standardzäune",
   "Config.ReplaceHardwoodFences.name": "Ersetze Hartholz-Zäune",
@@ -25,11 +23,9 @@
   "Config.ShorterPathToBlueMoonVineyard.name": "Kürzerer Weg zu Blaumond-Weingut",
   "Config.UseGaldoranThemeAllTimes.name": "Nutze das Galdoran-Thema durchgehend",
   "Config.DisableGaldoranTheme.name": "Deaktiviere Galdoran-Thema",
-    ///////(new stuff below here)
   "Config.WarpLocation.name": "Warp-Ort",
   "Config.EnchantedGroveWarpX.name": "Verzauberter Hain Warp X",
   "Config.EnchantedGrovwWarpY.name": "Verzauberter Hain Warp Y",
-//
   "Config.WarpLocation.description": "'Standard' platziert den Warp eine Kachel unter der Hasenstatue auf SVE- und Vanilla-Karten. 'Benutzerdefiniert' ermöglicht es, den Warppunkt auf dem Hof zu verschieben. 'Großvaters Schuppen' verlegt den Warppunkt außerhalb des Hofes. Die Verwendung von Farm-Mods, die einen neuen Hoftyp hinzufügt, platziert den Warp unabhängig von der Wahl an Großvaters Schuppen. Die Auswahl von 'Großvaters Schuppen' beim Spielen auf einer SVE-Karte wird dasselbe sein wie die Auswahl von 'Standard'.",
   "Config.EnchantedGroveWarpX.description": "Wähle die X-Koordinate für den Warp-Punkt. Dies ist nur relevant, wenn 'Benutzerdefiniert' als Warp-Ort ausgewählt wird.",
   "Config.EnchantedGrovwWarpY.description": "Wähle die Y-Koordinate für den Warp-Punkt. Dies ist nur relevant, wenn 'benutzerdefiniert' als Warp-Ort ausgewählt wird.",
@@ -53,7 +49,64 @@
   "Config.UseGaldoranThemeAllTimes.description": "Ändert die Benutzeroberfläche der Sternentautal-Region in die Benutzeroberfläche der Galdoran-Region in allen Orten.",
   "Config.DisableGaldoranTheme.description": "Deaktiviert die Galdoran-Benutzeroberfläche in allen Bereichen. Nützlich, wenn Spieler bereits eine Mod haben, welche die Benutzeroberfläche verändert.",
 
-
+  //Location Names
+  "DisplayName.MiscellaneousLocations": "Verschiedene Orte",
+  "DisplayName.Shops": "Geschäfte",
+  "DisplayName.Galdora": "Galdora",
+  "DisplayName.FarmEntrance": "Hofeingang",
+  "DisplayName.GrandpasShed": "Opas Schuppen",
+  "DisplayName.Hotspring": "Heiße Quelle",
+  "DisplayName.FarmQuarry": "Hofsteinbruch",
+  "DisplayName.HardwoodGlade": "Harthain",
+  "DisplayName.FarmCave": "Hofhöhle",
+  "DisplayName.EnchantedGrove": "Verzauberter Hain",
+  "DisplayName.GrampletonSuburbs": "Grampleton Vororte",
+  "DisplayName.TravellingMerchant": "Reisende Händlerin",
+  "DisplayName.KrobusShop": "Krobus' Laden",
+  "DisplayName.Clinic": "Klinik",
+  "DisplayName.Jenkins": "Olivias und Victors Herrenhaus",
+  "DisplayName.SamHome": "Sams Zuhause",
+  "DisplayName.GuntherHome": "Gunthers Zimmer",
+  "DisplayName.EmilyHaleyHome": "Emilys und Haleys Zuhause",
+  "DisplayName.Manor": "Lewis' Zuhause",
+  "DisplayName.MullerResidence": "Alex' Zuhause",
+  "DisplayName.PennyHome": "Pennys Zuhause",
+  "DisplayName.Garden": "Garten",
+  "DisplayName.MarnieShed": "Marnies Schuppen",
+  "DisplayName.ShearwaterBridge": "Sturmtaucher-Brücke",
+  "DisplayName.LeahCabin": "Leahs Hütte",
+  "DisplayName.AndyFarm": "Andys Bauernhof",
+  "DisplayName.AuroraVineyard": "Aurora-Weingut",
+  "DisplayName.AppleRoom": "Apples' Zimmer",
+  "DisplayName.BearCave": "Bärenhöhle",
+  "DisplayName.JunimoWoods": "Junimo-Wald",
+  "DisplayName.JunimoVillage": "Junimo-Dorf",
+  "DisplayName.SpriteSpring": "Feenquelle",
+  "DisplayName.SewerGrate": "Kanalgitter",
+  "DisplayName.SophiaVineyard": "Sophias Weinberg",
+  "DisplayName.SophiaLedger": "Sophias Hauptbuch",
+  "DisplayName.LinusTent": "Linus' Zelt",
+  "DisplayName.RoadTunnel": "Straßentunnel",
+  "DisplayName.GoldenScythe": "Goldene Sense",
+  "DisplayName.SusanFarm": "Susans Bauernhof",
+  "DisplayName.TrainPlatform": "Bahnsteig",
+  "DisplayName.SummitPostPerfection": "Gipfel - POST PERFECTION",
+  "DisplayName.SummitPrePerfection": "Gipfel - PRE PERFECTION",
+  "DisplayName.Highlands": "Hochland",
+  "DisplayName.HighlandsCavern": "Hochlandhöhle",
+  "DisplayName.ElliottCabin": "Elliots Hütte",
+  "DisplayName.DesertDragonSkeleton": "Wüstendrachenskelett",
+  "DisplayName.CastleVillageOutpost": "Burgdorf Außenposten",
+  "DisplayName.CrimsonBadlands": "Purpurrote Ödlande",
+  "DisplayName.IridiumQuarry": "Iridium-Steinbruch",
+  "DisplayName.TreasureCave": "Schatzhöhle",
+  "DisplayName.FableReef": "Märchenriff",
+  "DisplayName.RailCart": "Schienenwagen",
+  "DisplayName.FirstSlashGuild": "Erster Schlag Gilde",
+  "DisplayName.GrampletonSuburbsTrainStation": "Grampleton Vorstadtbahnhof",
+  "DisplayName.ScarlettHouse": "Scarletts Haus",
+  "DisplayName.HighlandsOutpost": "Hochland Außenposten",
+  "DisplayName.WizardsBasement": "Keller des Zauberers",
 
   //New in SDV 1.14.36, replaces original Green Rain dilaogue. 
   "Martin.GreenRainFinished": "Meine Eltern wollten nicht, dass ich zur Arbeit gehe. Sie sagten etwas über seltsames Wetter im Tal.#$e#Hey, was ist mit dem ganzen Moos überall?",
@@ -109,6 +162,7 @@
   "LocationData.Grambleton_Train": "Zug",
   "LocationData.Forest_West": "West-Wald",
   "Location.SophiasHouse": "Sophias Haus",
+  "LocationData.Summit": "Gipfel",
   //Rejects Bouquets
   "Andy.RejectBouquet": "...Äh? Ich weiß nicht, was dir das in den Kopf gesetzt hat, aber vergiss es. Das wird nicht passieren.",
   "Apples.RejectBouquet": "Hm...?$1#$e#Apples... versteht nicht.$1#$e#Apples starrt dich leer an. Vielleicht war das keine gute Idee.",
@@ -319,8 +373,8 @@
   "Scarlett.GreenRainFinished": "Was war denn mit diesem seltsamen Wetter los? Sophia sagte, dass allerlei seltsame Dinge im Tal wuchsen.$0",
   "Scarlett.GiftStardropTea": "Whoa, das ist wirklich gutes Zeug! Ich würde es in einem Zug trinken, wenn es nicht so heiß wäre!$1",
   "Scarlett.Gift426": "*keuch* Ziegenkäse!? Wie hast du gewusst, dass ich hungrig war? Danke!$1",
-  "Scarlett.Gift436": "Oh ja! Das ist genau das, was ich wollte. Ich habe schon Durst bekommen.$1#$b$*schluck* *schluck*... Ahh... Ziegenmilch trifft genau den Punkt.$0",
-  "Scarlett.Gift438": "Oh ja! Das ist genau das, was ich wollte. Ich fing schon an, Durst zu bekommen.$1#$b$*schluck* *schluck*... Ahh... Ziegenmilch trifft genau den richtigen Punkt. Den Rest hebe ich mir für später auf.$0",
+  "Scarlett.Gift436": "Oh ja! Das ist genau das, was ich wollte. Ich habe schon Durst bekommen.$1#$b#*schluck* *schluck*... Ahh... Ziegenmilch ist gerade genau das Richtige.$0",
+  "Scarlett.Gift438": "Oh ja! Das ist genau das, was ich wollte. Ich habe schon Durst bekommen.$1#$b#*schluck* *schluck*... Ahh... Ziegenmilch ist gerade genau das Richtige. Den Rest hebe ich mir für später auf.$0",
   "Scarlett.GiftBDPos": "Ich hätte mir kein besseres Geburtstagsgeschenk wünschen können! Danke!$1",
   "Scarlett.GiftBDNeg": "Ähm, @? Ist das für meinen Geburtstag...?$2#$e#%Scarlett sieht enttäuscht aus.",
   "Scarlett.marriedSophia": "Hey! Ich freue mich riesig für dich und Sophia. Es ist wichtig, dass sie jemanden wie dich in ihrem Leben hat.$1",
@@ -1087,6 +1141,7 @@
   "NPCMapLocation.Farm": "Farm",
   "NPCMapLocation.BusStop": "Bushaltestelle",
   "NPCMapLocation.Townhouse": "Morris' Stadthaus",
+  "NPCMapLocation.MorrisProperty": "Morris' Eigentum",
 
   //************************
   //VICTOR NPC 
@@ -1645,7 +1700,8 @@
   "Victor.SpouseVary4": "Hey, guten Morgen!$1#$e#Ich habe versucht, ein Buch zu finden. Ich muss etwas überprüfen.$0",
   //************************
   //LANCE NPC 
-  //************************ "Lance.CharacterDialogue.001": "I believe that's... for the best.$2#$e#It's hard to have a relationship when you don't see each other often...$2",
+  //************************ 
+  "Lance.CharacterDialogue.001": "Ich glaube, das ist... das Beste.$2#$e#Es ist schwer, eine Beziehung zu führen, wenn man sich nicht oft sieht...$2",
   "Lance.CharacterDialogue.002": "Ich dachte, wir würden zusammen alt werden...$2#$e#%Lance dreht sich von dir weg.",
   "Lance.CharacterDialogue.003": "Hallo, @.$2#$e#...$2",
   "Lance.CharacterDialogue.004": "Ich bin bereit, diesem eine zweite Chance zu geben...$5",
@@ -2105,7 +2161,7 @@
   "LanceKrobus.Marlon": "Hmm? Hast du Krobus Lance vorgestellt? $0#$e#Ich denke, es war nur eine Frage der Zeit.$0",
   "LanceKrobus.Krobus": "Leere Wurzeln sind köstlich. Ich hoffe, ich bekomme bald mehr. $1#$e#Dein Lebenspartner ist eine freundliche Person. $0",
   "LanceKrobus.1": "Krobus und ich treffen uns heute.$0#$e#Ich gehe um 17:00 Uhr.$1",
-  "LanceKrobus.2": "Schattenmenschen schlafen nie. Ich frage mich, wie das ist.$6#$e#Ich treffe mich heute Abend mit Krobus.$0",
+  "LanceKrobus.2": "Schattenmenschen schlafen nie. Ich frage mich, wie das ist.$6#$e#Ich treffe mich heute Abend mit Krobus.$1",
   "LanceKrobus.3": "Ich freue mich darauf, heute Abend mehr über die Schattenmenschen zu erfahren.$1#$e#Welche Abenteuer hast du in letzter Zeit erlebt?$0",
   "LanceKrobus.4": "Hallo, meine Liebe.$0#$b#Ich habe heute Abend Geschäfte mit Krobus zu erledigen.$1#$e#Wenn du möchtest, kannst du uns um 20:00 Uhr an unserem üblichen Ort treffen...$5",
   "LanceKrobus.5": "Ich besuche heute Abend 'du weißt schon wen' am Kanalausgang.$0",
@@ -2829,6 +2885,7 @@
   "Utility.cs.5369.Claire.Wife": "Als @ zum ersten Mal in Pelikan Stadt ankam, wusste niemand, ob sie in unsere Gemeinschaft passen würde...#$b#Aber von diesem Tag an wird @ genauso ein Teil dieser Stadt sein wie jeder von uns!$h#$b#Es ist mir eine große Ehre an diesem Tag.",
   "Utility.cs.5371": "@... Claire... #$b# Als Bürgermeister von Pelikan Stadt und regionaler Träger des Ehe-Siegels, erkläre ich euch hiermit zu Ehemann und Ehefrau!$h",
   "Utility.cs.5377": "@... Claire... #$b# Als Bürgermeister von Pelikan Stadt und regionaler Träger des Ehe-Siegels, erkläre ich euch hiermit zu Frau und..., nun ja, Frau!$h",
+  "AdventurerGuild.Time": "Geöffnet von 12:00 Uhr bis 2:00 Uhr morgens",
   //Claire Joja Dialogue Patches
   "Claire.DialoguePatch.1": "Ich arbeite die meiste Zeit an der Kasse bei Joja-Markt. Es ist ein ziemlich einfacher Job. $1",
   "Claire.DialoguePatch.2": "Wenn du eine Klimaanlage möchtest, hat Joja-Markt das Richtige für dich.$1#$e#Für mich ist es jedoch ein wenig zu kalt.$2",
@@ -3748,7 +3805,7 @@
   "ice.Sophia.1": "Mmm. So schön hier. $9#$e# Es gibt kein Essen, aber das ist okay. Ich habe Snacks mitgebracht. $1",
   "ice.Sophia.2": "Ich möchte einen Schneemann bauen!$9#$b#Komm schon! Lass uns einen machen, Dummkopf.$1#$e#Aww. Okay. Nach dem Angelwettbewerb dann!$1",
   "winterstar.Sophia.1": "Wer ist ein guter Junge!? Du bist es!$9#$e#Hast du schon ein Geschenk bekommen?$1",
-  "winterstar.Sophia.2": "Hey, du da! Ich dachte, ich würde Dusty ein bisschen streicheln.$1#$b#Er ist der beste Junge von Pelikan Stadt!$9#$e#Oh. Ähm. Ich werde bald an einem Tisch zu dir stoßen. Reservier mir einen Platz? $1",
+  "winterstar.Sophia.2": "Dieses Jahr gibt es mehr Desserts als herzhafte Gerichte!$1",
   //Sophia Event Dialogue
   "Sophia.IntroEvent.01": "!!!$2",
   "Sophia.IntroEvent.02": "O-oh. @?$2#$b#Bist nur du?$0",
@@ -5914,7 +5971,7 @@
   "Andy.8hearts.10": "Danke. $8",
   "Andy.8hearts.11": "Danke, dass du mich inspiriert hast, eine bessere Person zu sein und mit Fairhaven-Hof mehr Geschäfte abzuschließen. Es hat meinem Leben mehr geholfen, als du denkst. $0",
   "Andy.8hearts.12": "Gute Aussicht von hier.$0#$b#Ich muss sagen, das hier ist der Ferngillianische Traum. Leben im Sternentautal.$1#$b#Danke, dass du ein guter Freund bist und mir Mitgefühl zeigst, Bauer.",
-  "Andy.8hearts.13": "Danke für alles, @. Ich weiß, dass ich vielleicht eine seltsame Sichtweise auf die Dinge habe, aber das hat dich nicht davon abgehalten, ein guter Freund für einen alten Tölpel wie mich zu sein.$1#$b#Hier, nimm das. Ich habe es im Wald gefunden, während ich nach Essbarem gesucht habe. Ich bin mir nicht sicher, was es ist. Vielleicht kannst du es gebrauchen.[114]$0#$e#Hab einen ausgezeichneten Tag, @. Mach weiter mit all der guten Arbeit, die du immer leistest. $1",
+  "Andy.8hearts.13": "Danke für alles, @. Ich weiß, ich habe vielleicht eine seltsame Sicht auf die Dinge, aber das hat Dich nicht davon abgehalten, ein guter Freund für einen alten Trottel wie mich zu sein.$1#$b#Hier, nimm das. Habe es im Wald beim Sammeln gefunden. Bin mir nicht so sicher, was es ist. Vielleicht kannst Du es gebrauchen.[114]$0#$e#Hab noch einen wunderschönen Tag. Mach weiter so mit der guten Arbeit, die Du immer machst.$1",
   "Andy.10hearts.01": "Hey, Bauer. Ich sehe, du hast meinen Brief erhalten.$0",
   "Andy.10hearts.02": "Ich wollte dir nur etwas zeigen, von dem ich denke, dass es dir gefallen wird. $3#$b# Ich habe sie gefunden, während ich mein Haus sauber gemacht habe. $1",
   "Andy.10hearts.03A": "Ich habe ein altes Bild von Aurora Vineyard in seiner Blütezeit. $3#$b#Hier. Schau mal!$1",
