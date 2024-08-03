@@ -8063,7 +8063,7 @@
   "Jas.Event.04": "$q -1 null#Kannst du mich zurück zu Tante Marnies bringen?#$r -1 0 Jas_event10#Ich werde dich zurückführen.#$r -1 0 Jas_event11#Klar, aber du musst vorsichtiger sein.",
   "Jas.Event.05": "Oh mein Gott! Jas? Geht es dir gut!? Ich war gerade dabei, nach dir zu suchen!$2",
   "Jas.Event.06": "Ich habe mich im Wald verirrt... @ hat mich gefunden. $2",
-  "Jas.Event.07": "Lass uns reingehen. Ich werde dir dein Lieblingsgericht kochen, okay$2",
+  "Jas.Event.07": "Lass uns reingehen. Ich werde dir dein Lieblingsgericht kochen, okay?$2",
   "Jas.Event.08": "...$2#$b#...$0",
   "Jas.Event.09": "Danke, @.$0",
   "Jas.Event.10": "Danke, dass du Jas gefunden hast, @. Sie wird nicht wieder so weit in den Wald gehen. $2",
