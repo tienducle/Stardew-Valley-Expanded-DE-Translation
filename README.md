@@ -42,7 +42,7 @@ Stardew Valley
 # Installation der Übersetzung
 
 1. **Übersetzung herunterladen:**
-  - Die Übersetzung entweder von [Nexus](https://www.nexusmods.com/stardewvalley/mods/17019) oder direkt von Github
+  - Die Übersetzung entweder von [Nexus](https://www.nexusmods.com/stardewvalley/mods/17019) oder direkt von Github herunterladen.
 
 2. **Entpacken der Übersetzungsdatei:**
   - Die heruntergeladene ZIP-Datei entpacken.
