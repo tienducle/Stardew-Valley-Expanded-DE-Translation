@@ -27,6 +27,30 @@ Stardew Valley
     └── Immersive Farm 2 Remastered
         └── [CP] Immersive Farm 2 Remastered
 ```
+# Installation von Stardew Valley Expanded
+
+1. **Mod herunterladen:**
+  - Stardew Valley Expanded von [Nexus](https://www.nexusmods.com/stardewvalley/mods/3753) herunterladen.
+
+2. **Entpacken der Datei:**
+  - Die heruntergeladene ZIP-Datei entpacken.
+  - Der entpackte Inhalt sollte einen Ordner namens `Stardew Valley Expanded` enthalten, in dem sich drei weitere Ordner befinden.
+
+3. **Verschieben der Mod-Dateien:**
+  - Den gesamten Ordner `Stardew Valley Expanded` (der die drei weiteren Ordner enthält) in den `Mods`-Ordner von Stardew Valley verschieben.
+
+# Installation der Übersetzung
+
+1. **Übersetzung herunterladen:**
+  - Die Übersetzung entweder von [Nexus](https://www.nexusmods.com/stardewvalley/mods/17019) oder direkt von Github
+
+2. **Entpacken der Übersetzungsdatei:**
+  - Die heruntergeladene ZIP-Datei entpacken.
+  - Es sollten zwei Ordner enthalten sein.
+
+3. **Verschieben der Übersetzungsdateien:**
+  - Die beiden Ordner aus der entpackten Datei in den `Mods`-Ordner von Stardew Valley verschieben.
+  - Wenn Windows fragt, ob Dateien ersetzt werden sollen, auf „Ersetzen“ klicken.
 
 # Create new version
 
