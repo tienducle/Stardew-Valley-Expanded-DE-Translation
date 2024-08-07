@@ -3159,7 +3159,7 @@
   "Claire.JojaClose.02": "Oh. Hallo...$8#$b#Ähm. Niemand... hat es mir gesagt.$8",
   "Claire.JojaClose.03": "Ich denke, ich werde jetzt nach Hause gehen. $8",
   "Claire.JojaClose.04": "Ich bin arbeitslos...$2#$e#Es tut mir leid...$2#$e#%Claire möchte nicht reden.",
-  "Claire.6hearts.01": "Hat Caroline heute den Aerobic-Kurs vergessen?...$2",
+  "Claire.6hearts.01": "Hat Caroline heute den Aerobic-Kurs vergessen?...$2", //TODO 6Hearts Alles nochmal durchlesen
   "Claire.6hearts.02": "Vielleicht hat sie sich mit der Gartenarbeit in ihrem Gewächshaus aufgehalten. $0",
   "Claire.6hearts.03": "Entschuldigung für die verschlossene Tür, Damen! $1#$b#Lasst uns schwitzen gehen! $1",
   "Claire.6hearts.Joja.04": "Aerobic?...$8",
@@ -4165,7 +4165,7 @@
   "Olivia.CharacterDialogue.106": "Jodi hat mir gesagt, dass es Vincent in Mathe nicht gut geht. Sie hat so viel um die Ohren...$2#$e#Ich könnte Victor fragen, ob er ihm Nachhilfe geben kann. Wenn nicht, habe ich wohl ein Talent für Mathematik vom Handeln...$3",
   "Olivia.CharacterDialogue.107": "Meine anderen Hobbys? Nun ja...da wir Freunde sind...sag es niemandem, aber...$0#$e#Ich bin mitten in einem Liebesroman. Ich lese auch mehr literarische Romane, aber das sind meine Lieblings-Schuldvergnügen.$4#$e#Hab einen wundervollen Tag, Liebling.$9",
   "Olivia.CharacterDialogue.108": "Viel Glück bei deiner Herbst-Ernte in diesem Jahr, @. Wenn du Kürbisse an Pierre verkaufst, werde ich vielleicht welche abholen!$3",
-  "Olivia.CharacterDialogue.109": "Ich besuche morgen das Blaumond-Weingut, um mehr Wein von Sophia zu bestellen. $3#$b#Manchmal schicke ich Victor, aber ich möchte die Edelsteinsee von der Klippe aus sehen. Die Aussicht ist wunderschön. $1#$e#Ich würde gerne mal mit dir dorthin gehen... Willst du mich begleiten? $3",
+  "Olivia.CharacterDialogue.109": "Ich besuche morgen das Blaumond-Weingut, um mehr Wein von Sophia zu bestellen. $3#$b#Manchmal schicke ich Victor, aber ich möchte das Edelsteinmeer von der Klippe aus sehen. Die Aussicht ist wunderschön. $1#$e#Ich würde gerne mal mit dir dorthin gehen... Willst du mich begleiten? $3",
   "Olivia.CharacterDialogue.110": "Nimmst du morgen am Fest teil, Liebling? Ich wünsche dir viel Glück!$1#$e#Caroline sagt, Pierres Ernte war dieses Jahr sehr gut. Es wird ein knappes Rennen zwischen euch beiden sein.$6",
   "Olivia.CharacterDialogue.111": "Auf der Messe gestern sprach ich mit einem Touristen, der aus Pine-Mesa City angereist kam!$1#$b#Es ist nicht so groß wie Zuzu City, aber es ist immer noch voller Aktivitäten und Handel.$3",
   "Olivia.CharacterDialogue.112": "Obwohl ich Buchhaltungsleiter bei Joja war, kaufe ich nie in ihren Läden ein und werde es auch nie tun. $0#$e#Ihre Produkte sind nicht gesund und würden mein Hautbild beeinträchtigen. $6",
@@ -8194,7 +8194,7 @@
   "Maru.Event.02": "Bodenlösung ist zu sauer.",
   "Maru.Event.03": "Maru, @ ist hier!$1",
   "Maru.Event.04": "Hallo, @!$1",
-  "Maru.Event.05": "Ich stecke gerade bei einem Rechenproblem für das Projekt fest, an dem ich arbeite. Ich bin seit einer Stunde festgefahren. $2",
+  "Maru.Event.05": "Ich stecke gerade bei einem Rechenproblem für das Projekt fest, an dem ich arbeite. Ich bin seit einer Stunde festgefahren. $2", //TODO MaruEvent Alles nochmal durchlesen
   "Maru.Event.06": "Vielleicht könntest du mir dabei helfen, es zu lösen?#Ich bin nicht so gut in Mathe, aber ich werde mein Bestes versuchen!#Ich kann nicht. Ich bin furchtbar in Mathe. Entschuldigung.#Ich bin ein mathematisches Genie! Ich kann alles lösen!",
   "Maru.Event.07": "Okay! Los geht's!$1",
   "Maru.Event.08": "Lass uns meinen Laptop schnappen, @.$0",
