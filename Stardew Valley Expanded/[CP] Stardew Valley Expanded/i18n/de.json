@@ -163,7 +163,7 @@
   "LocationData.Forest_West": "West-Wald",
   "Location.SophiasHouse": "Sophias Haus",
   "LocationData.Summit": "Gipfel",
-  //Rejects Bouquets
+  //Rejects Bouquets //TODO
   "Andy.RejectBouquet": "...Äh? Ich weiß nicht, was dir das in den Kopf gesetzt hat, aber vergiss es. Das wird nicht passieren.",
   "Apples.RejectBouquet": "Hm...?$1#$e#Apples... versteht nicht.$1#$e#Apples starrt dich leer an. Vielleicht war das keine gute Idee.",
   "Gunther.RejectBouquet": "Hm? Oh, ein Strauß. Das bedeutet, du bist... oh. Oh. Es tut mir leid, @, aber ich bin nicht auf diese Weise an dir interessiert.",
@@ -379,7 +379,7 @@
   "Scarlett.GiftBDNeg": "Ähm, @? Ist das für meinen Geburtstag...?$2#$e#%Scarlett sieht enttäuscht aus.",
   "Scarlett.marriedSophia": "Hey! Ich freue mich riesig für dich und Sophia. Es ist wichtig, dass sie jemanden wie dich in ihrem Leben hat.$1",
   "Scarlett.divorcedSophia": "Was ist zwischen dir und Sophia passiert? Sie ist nicht mehr dieselbe, seit ihr zwei euch scheiden lassen habt...$7",
-  //Susan FERTIG
+  //Susan //FERTIG
   "Susan.GreenRain": "Es ist fast so, als würde Mutter Natur ein neues Rezept ausprobieren... Ich bin völlig verwirrt!$4#$e#Ich hoffe, meine Feldfrüchte können diesen seltsamen Regen überstehen...$0",
   "Susan.GreenRainFinished": "Meine kleinen grünen Babys sind glücklicher als je zuvor!$4",
   "Susan.GiftStardropTea": "Dieser Tee ist ein durchdachtes und großzügiges Geschenk. Vielen Dank, dass du meinem Tag ein wenig Wärme gebracht hast.$4",
@@ -540,7 +540,7 @@
   "DesertFestival_Claire_marriage": "Ich würde hier draußen ohne Sonnencreme nicht allzu lange durchhalten. Obwohl ich zugeben muss, dass die Wärme der Sonne ziemlich angenehm ist!$1",
   "DesertFestival_Wizard_marriage": "Es gibt eine unbestreitbare Anziehungskraft des Wüstenfestivals, die sich einer Erklärung entzieht.#$e#Was auch immer sein Wesen sein mag, es lässt sich nicht leugnen, dass Magie jeden Moment durchdringt.",
   /// - PREVIOUSLY IN JA - TRANSLATORS CAN COPY EXISTING ITEMS FROM JA TO CP i18n FILE
-  //Big Craftables
+  //Big Craftables //TODO Da sind einige sachen noch in englisch.... so viel arbeit....
   "big-craftables.adventurer-gear.name": "Ausrüstung für Abenteurer",
   "big-craftables.adventurer-gear.description": "Zwei Paar Stiefel und ein kleiner Dolch.",
   "big-craftables.amethyst-node.name": "Amethystader",
@@ -3101,7 +3101,7 @@
   "Claire.Movies.15": "Um. Danke für die Einladung, @.$1",
   "Claire.Movies.16": "Das hat Spaß gemacht...$1",
   "Claire.Movies.17": "Hehe!$6",
-  //CLAIRE FESTIVALS
+  //CLAIRE FESTIVALS //TODO
   "eggfestival.claire.1": "Diese Teufelseier sind verlockend...$1",
   "eggfestival.claire.2": "Keine Wolke am Himmel. Das Wetter heute ist perfekt.$1#$e#*trinkt Saft*$5",
   "flowerdance.claire.1": "Die Blumen hier sind wunderschön. Es gibt so eine große Vielfalt.$1",
@@ -3364,7 +3364,7 @@
   "Claire.14hearts3.Leah": "Ich schätze, dass das Kino gesunde Snacks anbietet. $0#$e#Oh, was hast du von 'The Thief of Justice' gehalten? Es war nicht schlecht! $1",
   "Claire.14hearts3.Martin": "Hallo. Was hast du von dem Film gehalten, @? Hat Claire nicht großartige Arbeit geleistet?$0#$e#Ich hoffe wirklich, dass sie in der Zukunft mehr Filmchancen bekommt. Ich weiß, wie viel es ihr bedeutet.#",
   //************************
-  //Sophia NPC 
+  //Sophia NPC //TODO
   //************************
   "Sophia.CharacterDialogue.001": "Eek! Ein Fremder!$2#$e#W-warte. Bist du nicht @, der neue Bauer?$0#$b#E-entschuldigung. Ich werde ein wenig nervös bei Leuten, die ich noch nicht getroffen habe...$1#$b#Mein Name ist Sophia. Ich bin die Besitzerin des Blaumond-Weinguts.$9#$e#Nun ja, ich werde dich wohl mal wiedersehen, denke ich.$1",
   "Sophia.CharacterDialogue.002": "Ooo. Ein Feenstein! Das ist mein Lieblingsding auf der ganzen Welt. Danke!$1",
@@ -3806,7 +3806,7 @@
   "ice.Sophia.2": "Ich möchte einen Schneemann bauen!$9#$b#Komm schon! Lass uns einen machen, Dummkopf.$1#$e#Aww. Okay. Nach dem Angelwettbewerb dann!$1",
   "winterstar.Sophia.1": "Wer ist ein guter Junge!? Du bist es!$9#$e#Hast du schon ein Geschenk bekommen?$1",
   "winterstar.Sophia.2": "Dieses Jahr gibt es mehr Desserts als herzhafte Gerichte!$1",
-  //Sophia Event Dialogue WIP nur 4 Heart bis jetzt
+  //Sophia Event Dialogue //WIP nur 4 Heart bis jetzt
   "Sophia.IntroEvent.01": "!!!$2",
   "Sophia.IntroEvent.02": "O-oh. @?$2#$b#Bist nur du?$0",
   "Sophia.IntroEvent.03": "Entschuldigung. Ich bin immer so schreckhaft. $1",
@@ -4536,6 +4536,7 @@
   "ice.Olivia.2": "Es ist ziemlich kalt hier draußen, nicht wahr, Liebling? $2#$b# Wenn wir nach Hause gehen, lassen Sie uns in einigen Decken gemütlich machen. Ich werde für uns etwas gewürzten Wein erhitzen. $4",
   "winterstar.Olivia.1": "Fröhliche Wintersonnenwende, Liebling!$3#$e#Ist es nicht wunderbar, wie glücklich alle an einem Tag wie diesem sind?$1",
   "winterstar.Olivia.2": "Diese Jahreszeit lässt mich so dankbar für meine Familie sein. $3#$b#Ich bin froh, dass du in mein Leben gekommen bist, @. $4",
+  //Olivia Event //TODO
   "Olivia.2hearts.01": "Schatz, ich verstehe einfach nicht, warum dieser Prozess endlos ist. $2",
   "Olivia.2hearts.02": "Ich versuche es ja, Mama. Es gibt nicht viele Jobs hier, soweit außerhalb der Stadt.$2",
   "Olivia.2hearts.03": "Denkst du, dass du zurück nach Zuzu City ziehen wirst?$0",
@@ -4627,7 +4628,7 @@
   "Olivia.8hearts.23": "Entschuldigung, @! Ich hatte heute Abend alle Hände voll zu tun. Es gibt so viele Leute!$0",
   "Olivia.8hearts.24": "Haha!",
   "Olivia.8hearts.25": "Was möchtest du trinken?$1",
-  "Olivia.8hearts.26": "$q -1 null#*** ** **KNEIPE ZUM STERNENFALL COCKTAIL KARTE** ** ***#$r -1 0 emily_event1#'SHOOTING COMET' - Zutaten: Whiskey, Limettensaft, Minzblätter, Zucker#$r -1 0 emily_event2#'LUNAR HORIZON' - Zutaten: Gin, Zuckersirup, Limettensaft, Sprudelwasser#$r -1 0 emily_event3#'ROSETTE NEBULA' - Zutaten: Wodka, Cranberry-Saft, Cointreau, Limettensaft#$r -1 0 emily_event4#'THE BIG BANG' - Zutaten: weißer Rum, dunkler Rum, Orangen-Curacao, Orgeat-Sirup, Zitronensaft#$r -1 0 emily_event5#'HAZY SUNRISE' - Zutaten: Orangensaft, Zitronensaft, Soda, Grenadine-Sirup",
+  "Olivia.8hearts.26": "$q -1 null#*** ** **KNEIPE ZUM STERNENFALL COCKTAIL KARTE** ** ***#$r -1 0 emily_event1#'Kometensturm' - Zutaten: Whiskey, Limettensaft, Minzblätter, Zucker#$r -1 0 emily_event2#'LUNAR HORIZON' - Zutaten: Gin, Zuckersirup, Limettensaft, Sprudelwasser#$r -1 0 emily_event3#'ROSETTE NEBULA' - Zutaten: Wodka, Cranberry-Saft, Cointreau, Limettensaft#$r -1 0 emily_event4#'THE BIG BANG' - Zutaten: weißer Rum, dunkler Rum, Orangen-Curacao, Orgeat-Sirup, Zitronensaft#$r -1 0 emily_event5#'HAZY SUNRISE' - Zutaten: Orangensaft, Zitronensaft, Soda, Grenadine-Sirup",
   "Olivia.8hearts.27": "Hier, Pam!",
   "Olivia.8hearts.28": "Ich komme gleich mit Ihrem Getränk zurück, @!$0",
   "Olivia.8hearts.29": "Oh, verstehe ich!",
@@ -7254,7 +7255,7 @@
   "Gunther.8hearts2.01": "Ah, hallo Herr @. Ich bin froh, dass Sie gekommen sind.$0^Ah, hallo Frau @. Ich bin froh, dass Sie gekommen sind.$0",
   "Gunther.8hearts2.02": "Ich habe das Museum seit Jahren nicht mehr so voll gesehen. Und das alles dank deiner Bemühungen.$1",
   "Gunther.8hearts2.03": "Als Zeichen meines Dankes möchte ich dir einen besonderen Schatz von mir geben. $0#$b#Du wirst ihn bald per Post erhalten. $1",
-  "Gunther.RustyKey.01": "Oh, guten Morgen Herr @!$5^, oh, guten Morgen Frau @!$5#$b#. Ich hoffe, es ist nicht zu früh...$1#$b#Ich wollte nur vorbeikommen und mich persönlich bei Ihnen bedanken für all die wunderbaren Artefakte und Mineralien, die Sie entdeckt haben... Sie haben so viel für eine Person getan!$1#$b#Tatsächlich habe ich gerade einen Brief vom Büro des Regionalen Sekretärs für Artefakte erhalten! Wir werden mit dem begehrten 'Goldenen Schaufel'-Preis für unsere bedeutenden Beiträge auf dem Gebiet geehrt!$5#$b#Und das alles dank Ihnen!$1",
+  "Gunther.RustyKey.01": "Oh, guten Morgen Herr @!$5^, oh, guten Morgen Frau @!$5#$b# Ich hoffe, es ist nicht zu früh...$1#$b#Ich wollte nur vorbeikommen und mich persönlich bei Ihnen bedanken für all die wunderbaren Artefakte und Mineralien, die Sie entdeckt haben... Sie haben so viel für eine Person getan!$1#$b#Tatsächlich habe ich gerade einen Brief vom Büro des Regionalen Sekretärs für Artefakte erhalten! Wir werden mit dem begehrten 'Goldenen Schaufel'-Preis für unsere bedeutenden Beiträge auf dem Gebiet geehrt!$5#$b#Und das alles dank Ihnen!$1", //TODO
   "Gunther.RustyKey.02": "Ich habe auch vielversprechende Neuigkeiten...$5#$b#Der Regionalsekretär der Artefakte hat dem Museum eine beträchtlich große Spende gegeben.$5#$b#Du wirst bald einen Teil davon per Post erhalten.$1",
   "Gunther.RustyKey.03": "Wir werden uns bald wiedersehen...$5#$b#Guten Tag, Herr @.^Guten Tag, Frau @.$1",
   "Gunther.RustyKey.04": "Es wird langsam Zeit, dass ich diese Beine strecke und öfter nach draußen gehe. $5",
@@ -8184,7 +8185,7 @@
   "Leo.5heart.09": "Es ist eine wunderschöne Welt, Freunde...",
   "Leo.5heart.10": "...und ich bin froh, ein Teil davon zu sein!$h",
   //************************
-  //MARU NPC TODO
+  //MARU NPC
   //************************
   "Maru.Dialogue.01": "Lass uns das hier eingeben und sehen, was passiert!$0#$b#Oh, es ist falsch...$2#$b#Aber das ist okay! Ich kann das später herausfinden.$1",
   "Maru.Dialogue.02": "Hmm...$0#$b#Das ist korrekt! Danke, @!$1",
@@ -9559,48 +9560,48 @@
   "String.536": "Linus weiß sicherlich, wie man Schinken langsam röstet.",
   "String.537": "Diese Statuen rufen die Kultur der Tiki hervor, eines der indigenen Völker der Farninseln.",
   "String.538": "Du siehst etwas im Wasser bewegen.^^Hmm, was auch immer es war, es ist weg. Es muss deine Einbildung gewesen sein.",
-  //Town-Fair TODO
-  "String.539": "Tourist: \"Ich glaube, ich habe bisher etwa 4.000 Kalorien an Essen gegessen... Absolut. Verdammt. Wert. Diese BBQ-Soße ist der Wahnsinn, Mann!\"",
+  //Town-Fair //FERTIG
+  "String.539": "Tourist: \"Ich glaube, ich habe bisher etwa 4.000 Kalorien gegessen... Total verrückt, aber es lohnt sich! Diese BBQ-Soße ist einfach der Wahnsinn, Mann!\"",
   "String.540": "Goliath: \"HEY, DU. ICH SEHE, DASS DU JEMANDEN IM AUGE HAST, DEN DU MAGST. DU KANNST DAS NICHT VOR MIR VERSTECKEN. ICH, GOLIATH, SEHE ALLES. DIESES KRAFTSPIEL WIRD SICHER EINDRUCK HINTERLASSEN, WENN DU DIE KRAFT HAST! HAHAHA!!\" ",
-  "String.541": "Clown: \"Beeindruckt, dass ich einen Ball jonglieren kann? Vielleicht würde ich, wenn ich weitere 200g pro Stunde bezahlt bekomme, mit beiden Händen zwei Bälle jonglieren.\"",
-  "String.542": "Tourist: \"Alle diese Grange-Displays sind beeindruckend. Es ist erstaunlich, wie gut jeder hier im Sternentautal seine Expertise präsentiert.\"",
-  "String.543": "Tourist: \"Ich besuche jedes Jahr das Sternentautal für das Volksfest. Dieses Mal habe ich den kleinen Timothy mitgebracht!\"",
-  "String.544": "Tourist: \"Hey, du bist der Besitzer von diesem Bauernhof da unten, oder? Ich habe vor einer Weile über dich in der Zeitung gelesen. Du hast diesen Hof gut aufgeräumt! Mach weiter so.\"",
-  "String.545": "Rebecca: \"Hallo! Mein Name ist Rebecca. Ich bin eine Freundin dieser beiden Trottel hier, hehe. Ich lebe in Zuzu City und bin für das Sternentautal-Volksfest hierhergekommen!\"",
-  "String.546": "Tourist: \"Hey Kumpel. Ich mache eine Pause von diesem manipulierten Schleuder-Spiel.\"",
-  "String.547": "Tourist: \"Ein Shooting Comet Cocktail? Ich könnte jetzt wirklich einen davon gebrauchen. Dieses Festival macht mich durstig.\"",
-  "String.548": "Tourist: \"Ich habe gerade meine Zukunft von dieser gruseligen Dame hier vorhersagen lassen. Sie hat mir gesagt, dass ich in den Minen umgebracht werde... worum geht es hier eigentlich?\"",
+  "String.541": "Clown: \"Beeindruckt, dass ich einen Ball jonglieren kann? Wenn ich noch 200g mehr pro Stunde bekäme, würde ich vielleicht zwei Bälle gleichzeitig mit beiden Händen jonglieren.\"",
+  "String.542": "Tourist: \"Alle diese Auslagen sind beeindruckend. Es ist erstaunlich, wie gut jeder hier im Sternentautal sein Können zeigt.\"",
+  "String.543": "Tourist: \"Ich besuche das Sternentautal jedes Jahr für das Volksfest. Diesmal habe ich den kleinen Timothy mitgebracht!\"",
+  "String.544": "Tourist: \"Hey, du bist der Besitzer von dem Hof da unten, nicht wahr? Ich habe vor einer Weile über dich in der Zeitung gelesen. Du hast den Hof echt gut aufgeräumt! Mach weiter so.\"",
+  "String.545": "Rebecca: \"Hallo! Mein Name ist Rebecca. Ich bin eine Freundin dieser beiden Trottel hier, hehe. Ich lebe in Zuzu City und bin für das Volksfest im Sternentautal hierhergekommen!\"", //Offiziell "Sternentautaler-Volksfest" aber so klingt es besser
+  "String.546": "Tourist: \"Hey Kumpel. Ich mache eine Pause von diesem manipulierten Schleuderspiel.\"",
+  "String.547": "Tourist: \"Ein Kometensturm-Cocktail? Ich könnte jetzt wirklich einen davon gebrauchen. Dieses Festival macht mich durstig.\"",
+  "String.548": "Tourist: \"Ich habe mir gerade von dieser unheimlichen Frau hier die Zukunft vorhersagen lassen. Sie hat mir gesagt, dass ich in den Minen sterben werde... was soll das bedeuten?\"",
   "String.549": "Tourist: \"Möchtest du diesen Kürbis mit nach Hause nehmen, Schatz?\"",
-  "String.550": "Arbeiter: \"Oh, hey. Ich mache gerade eine \"schnelle\" Pause vom Bewegen dieser Fässer. Kannst du glauben, dass ich nur 300g pro Stunde dafür bezahlt werde? pfft...\"",
+  "String.550": "Arbeiter: \"Oh, hey. Ich mache gerade eine \"kurze\" Pause vom Schleppen dieser Fässer. Kannst du glauben, dass ich nur 300g pro Stunde dafür bekomme? pfft...\"",
   "String.551": "Tourist: \"Dieses Käserad ist riesig! Ich frage mich, ob diese Dame bereit wäre, es zu verkaufen?\"",
-  "String.552": "Tourist: \"Ohhh! Das ist der Kürbis, den wir mit nach Hause nehmen sollten. Er wird den perfekten Jack-o-Lantern machen, Schatz!\"",
+  "String.552": "Tourist: \"Ohhh! Das ist der Kürbis, den wir mit nach Hause nehmen sollten. Er wird eine perfekte Kürbislaterne, Schatz!\"",
   "String.553": "Tourist: \"Alter... Dieser Kürbis sieht nicht natürlich aus.\"",
   "String.554": "Tourist: \"Maaaann, dieser Kürbis ist riesig!\"",
-  "String.555": "Tourist: \"Ich muss sagen, Stardew Valley ist zu dieser Jahreszeit wunderschön. Ich bin extra aus Chestervale gekommen, um einen Kürbis zu bekommen! Die besten Ernten werden hier in diesem Tal angebaut. Der Boden ist aufgrund eines Meteoritenschauers von vor langer Zeit extrem reichhaltig!\"",
+  "String.555": "Tourist: \"Ich muss sagen, das Sternentautal ist zu dieser Jahreszeit wunderschön. Ich bin extra aus dem Chester-Tal gekommen, um einen Kürbis zu bekommen! Hier im Tal werden die besten Feldfrüchte angebaut. Der Boden ist wegen eines Meteoritenschauers vor langer Zeit extrem fruchtbar!\"",
   "String.556": "Tourist: \"*seufz*... Ich bin furchtbar im Dartwerfen. Wieder 15g weg.\"",
-  "String.557": "Gil: \"Ich sehe, du hast dich von der Menge entfernt, Bauer... oder sollte ich Abenteurer sagen? Du bist tief in die Minen vorgedrungen, oder so hat es mir Marlon erzählt. Das ist so gut wie jede andere Gelegenheit... Du machst die Gilde stolz. Danke. Jetzt solltest du zurückgehen und dich amüsieren, Abenteurer.\"",
+  "String.557": "Gil: \"Ich sehe, du hast dich von der Menge entfernt, Bauer... oder sollte ich Abenteurer sagen? Du bist tief in die Minen vorgedrungen, wie mir Marlon erzählt hat. Dies ist eine ebenso gute Gelegenheit wie jede andere... Du machst die Gilde stolz. Danke. Jetzt solltest du zurückgehen und dich amüsieren, Abenteurer.\"",
   "String.558": "Dieser gruselige alte kahle Mann wirft überall Müll herum...",
-  "String.559": "Jemand hat ihr Popcorn auf den Boden geworfen, anstatt es in den Müll zu werfen.",
-  "String.560": "Es ist eine Getränkedose, aber nicht von Joja-Marke.",
-  "String.561": "Pierre hat eine außergewöhnliche Scheunenausstellung. Dies sind die Ernten, die er das ganze Jahr über in seinem Hinterhof angebaut hat.",
-  "String.562": "Marnies Scheunenausstellung ist bemerkenswert. Diese Kunsthandwerksprodukte sind unglaublich.",
-  "String.563": "Willy hat einen Dorado gefangen!? Wow! Das erfordert ernsthafte Fähigkeiten.",
-  "String.564": "Dieser Kürbis ist riesig. Viel Glück für jeden, der versucht, diesen nach Hause zu bringen.",
+  "String.559": "Jemand hat sein Popcorn auf den Boden geworfen, anstatt es in den Müll zu werfen.",
+  "String.560": "Es ist eine Getränkedose, aber nicht von der Joja-Marke.",
+  "String.561": "Pierre hat eine außergewöhnliche Auslage. Dies sind die Feldfrüchte, die er das ganze Jahr über in seinem Garten angebaut hat.",
+  "String.562": "Marnies Auslage ist bemerkenswert. Diese Handwerkswaren sind außergewöhnlich.",
+  "String.563": "Willy hat eine Goldmakrele gefangen!? Wow! Dafür braucht man echt viel Geschick.",
+  "String.564": "Dieser Kürbis ist riesig. Viel Glück an alle, die versuchen, den nach Hause zu schleppen.",
   "String.565": "Touristen können Kürbisse mit nach Hause nehmen.",
-  "String.566": "Ja. Das ist der beste Kürbis hier.",
-  "String.567": "Dieses Paar, das am Fluss sitzt, hat eine hitzige Auseinandersetzung... besser sie alleine lassen.",
+  "String.566": "Ja, das ist der beste Kürbis hier.",
+  "String.567": "Das Paar unten am Fluss hat eine hitzige Auseinandersetzung... besser, man lässt sie in Ruhe.",
   "String.568": "Sie versucht, die Schaukel zu benutzen. Du solltest vielleicht aus dem Weg gehen, sonst tritt sie dich.",
-  "String.569": "Tourist: \"Hey! Ich werde das mit nur einer Hand erklimmen!\"",
+  "String.569": "Tourist: \"Hey! Ich werde das hier mit nur einer Hand erklimmen!\"",
   "String.570": "Sebastians Motorrad.",
   "String.571": "Jemand hat hier kürzlich Kickball gespielt.",
-  "String.572": "Clint zeigt hochwertige Bronze-, Eisen- und Goldbarren. Außerdem gibt es einige Waffen, die er hergestellt hat, sowie einen Schild! Diese sind hervorragend!",
-  "String.573": "Gruseliger Mann: \"Du hast geschummelt, um mit mir zu reden, oder? Nun, wenn du versucht hast, durch das Reden mit mir ein Geheimnis zu finden, Pech gehabt.\"",
-  "String.574": "Andys Grange-Ausstellung ist gefüllt mit Wildpflanzen, Honig und Erzeugnissen.",
-  "String.575": "Es ist Marlon's Schwert.",
+  "String.572": "Clint zeigt hochwertige Bronze-, Eisen- und Goldbarren. Außerdem hat er einige Waffen und einen Schild hergestellt! Diese sind hervorragend!",
+  "String.573": "Gruseliger Mann: \"Du hast gecheatet, um mit mir zu reden, nicht wahr? Nun, wenn du versucht hast, ein Geheimnis durch ein Gespräch mit mir zu entdecken, Pech gehabt.\"",
+  "String.574": "Andys Auslage ist gefüllt mit Wildpflanzen, Honig und Feldfrüchten.",
+  "String.575": "Marlon's Schwert.",
   "String.576": "Susan präsentiert ihre Erzeugnisse und Säfte!",
-  "String.577": "Tourist: \"Hallo, Liebling. Das ist eine schöne Stadt.\"",
-  "String.578": "Sophia präsentiert gealterten Blaumond-Wein.",
-  "String.579": "Freya: \"Ah! Es ist großartig, Stardew Valley wieder zu besuchen. Wie geht es der Gilde in diesen Tagen?\"",
+  "String.577": "Tourist: \"Hallo, Liebes. Das ist eine schöne Stadt.\"",
+  "String.578": "Sophia präsentiert gereiften Blaumond-Wein.",
+  "String.579": "Freya: \"Ah! Es ist großartig, das Sternentautal wieder zu besuchen. Wie läuft es derzeit bei der Gilde?\"",
   "String.580": "Ricken: \"Hmm? Kann ich dir bei etwas helfen?\"",
   //Spirits-Eve-Festival
   "String.581": "Diese Truhe ist falsch. Du wurdest hereingelegt.",
@@ -10186,7 +10187,7 @@
   "IceFishing.02": "Wettbewerber, euer Ziel ist es, so viele Fische wie möglich in zwei Minuten mit den bereitgestellten Angelruten zu fangen.#$b#Ihr müsst eure Fische hier fangen, aus diesen Löchern im Eis.",
   "IceFishing.03": "Nun, ist jeder bereit?",
   "IceFishing.04": "Los!",
-  //Grandpas Shed quest
+  //Grandpas Shed quest //WIP GrandpasShed4.01
   "GrandpasShedQuest.01": "Die Scheune von Opa",
   "GrandpasShedQuest.02": "Wenn ich diese Materialien sammle, wird Robin die alte Scheune meines Großvaters renovieren. In dem Gebäude gibt es eine Truhe, in der ich sie ablegen kann.",
   "GrandpasShedQuest.03": "Hartholz abliefern.",
