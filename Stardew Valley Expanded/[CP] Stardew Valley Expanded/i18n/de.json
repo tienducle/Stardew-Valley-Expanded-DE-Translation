@@ -184,7 +184,7 @@
   "Charlie.DumpsterDive": "%Bawk?...",
   //Gil
   "Gil.ShopDialogue": "Leg einfach dein Geld auf die Theke.",
-  //Claire
+  //Claire //TODO
   "Claire.GreenRain": "Selbst an einem so bizarren Tag wie heute muss ich immer noch zur Arbeit erscheinen...$0",
   "Claire.GreenRainFinished": "Das Wetter im Tal ist ziemlich einzigartig...$0",
   "Claire.GreenRain2": "Es gibt so viele neue Bäume in der Stadt. Es ist fast wie ein Dschungel.$0",
@@ -214,7 +214,7 @@
   "Lance.marriedWizard": "*kichert* Ich hatte schon immer eine Ahnung bezüglich dir und Magnus Rasmodius. Herzlichen Glückwunsch euch beiden. Grüß ihn von mir.$5",
   "Lance.roommatesKrobus": "Ich habe Neuigkeiten von einem engen Freund gehört, dass du mit einer Schattenperson zusammenlebst.$0#$b#Es steckt wirklich mehr in dir, als man auf den ersten Blick sieht..$5",
   "Lance.GiftStardropTea": "Ah, das ist eine unerwartete Freude. Meine Geschmacksknospen werden sich nun auf eine wunderbare Reise begeben!$5",
-  //Magnus
+  //Magnus //TODO
   "Magnus.GreenRainFinished": "Ich darf nicht gestört werden. Diese nächsten Monde sind von äußerster Wichtigkeit...",
   "Magnus.Gift769": "Ah, Leeressenzen! Immer nützlich als Zutat für Zauber und Rituale. Danke.$1",
   "Magnus.GiftVoidShard": "Was haben wir hier? Dieser Splitter ist in reine Dunkelheit gehüllt... Ich muss ihn untersuchen.$0",
@@ -238,7 +238,7 @@
   "Morgan.marriedMagnus": "Du und mein Lehrer seid jetzt verheiratet? Bedeutet das, dass ich mehr frei von meinen Studien bekomme!?$1",
   "Morgan.divorcedMagnus": "Magnus hat schon lange ein Temperament. Wenn ich eine falsche Sache sage oder tue, bekomme ich riesigen Ärger...$0#$e#Was ist zwischen euch passiert?$0",
   "Morgan.roommatesKrobus": "Du und der kleine schwarze Bohnen-Krobus lebt zusammen? Das ist so cool! Kann ich manchmal vorbeikommen, um hallo zu sagen?$1",
-  //Olivia
+  //Olivia //TODO
   "Olivia.GreenRain": "...%noturn$7",
   "Olivia.GreenRainFinished": "Ich bin einfach erleichtert, dass alles wieder normal ist...$0",
   "Olivia.GreenRain2": "Der Regen hat wieder diesen seltsamen grünen Farbton... ist es sicher?%noturn$2",
@@ -255,34 +255,34 @@
   "Olivia.marriedSophia": "Ich freue mich für dich und Sophia, Liebes. Es scheint, als wären die größten Farmen im Tal jetzt eins und dasselbe!$3",
   "Olivia.divorcedVictor": "Victor verlässt sein Zimmer jetzt kaum noch... Es ist eine absolute Schande, dass ihr beide in eurer Ehe keinen Kompromiss finden konntet.$2#$e#Ich dachte, ihr beide wärt perfekt füreinander. Was ist passiert, @? Kann ich dich das überhaupt fragen?$2",
   "Olivia.Theateroneweek": "Pelican Town ist lebendiger und städtischer als je zuvor, seitdem das Theater gebaut wurde, und ich könnte nicht begeisterter darüber sein!$1",
-  //Sophia
-  "Sophia.GreenRain": "Was ist heute nur mit dem Wetter los? Mein Fernseher und Radio funktionieren nicht...$2",
-  "Sophia.GreenRainFinished": "Dieser seltsame Regen hat Wunder für mein Weinreben-Gerüst gewirkt! Sie sehen jetzt alle so viel gesünder aus!$1",
+  //Sophia //FERTIG
+  "Sophia.GreenRain": "W-was ist heute nur mit dem Wetter los? Mein Fernseher und Radio funktionieren nicht...$2",
+  "Sophia.GreenRainFinished": "Dieser seltsame Regen hat Wunder für meine Weinreben bewirkt! Sie sehen jetzt alle so viel gesünder aus!$1",
   "Sophia.GreenRain2": "Ich wollte heute Anime schauen, aber mein Fernseher zeigt nur grünes Rauschen...$2",
-  "Sophia.Gift577": "Oooo ein Feen-Stein! Das ist meine Lieblingsart von Stein! Vielen Dank dafür.$1",
-  "Sophia.Gift595": "Diese Feenrosen sind so hübsch... *schnüff* *schnüff* und sie riechen gut! Vielen Dank!$9",
-  "Sophia.GiftPuppyfish": "Schau dir nur dieses Gesicht an, es ist so süß! Ich kann es kaum erwarten, mit ihnen zu spielen.$1",
-  "Sophia.GiftFairyBox": "In dieser Schachtel ist ein kleiner Feenfreund!? Ich kann es kaum erwarten, sie zu öffnen!$1",
-  "Sophia.GiftGrampletonOrangeChicken": "Wow, Grampleton-Orangenhuhn! Ich war tatsächlich ein bisschen hungrig. Ich werde mich jetzt darüber hermachen und jeden Bissen genießen!$9",
-  "Sophia.GiftBigBarkBurger": "N-nein! W-was hast du dem armen Welpenfisch angetan!?$5#$b#*schnief*...$6",
-  "Sophia.Gift459": "Tut mir leid, ich mag Met wirklich nicht...$2",
+  "Sophia.Gift577": "Oooo, ein Feenstein! Das ist einer meiner Lieblingsarten von Steinen! Vielen Dank dafür.$1", //wiki Feenstein.
+  "Sophia.Gift595": "Diese Feenrosen sind so hübsch... *schnüff* *schnüff* und sie duften so gut! Vielen Dank!$9",
+  "Sophia.GiftPuppyfish": "Schau dir nur dieses Gesicht an, es ist so süß! Ich kann es kaum erwarten, mit ihm zu spielen.$1",
+  "Sophia.GiftFairyBox": "In dieser Kiste ist eine kleine Fee!? Ich kann es kaum erwarten, sie zu öffnen!$1", //Feen-Kiste ist die offizielle übersetzung
+  "Sophia.GiftGrampletonOrangeChicken": "Wow, Grampleton-Orangen-Hühnchen! Ich war tatsächlich ein bisschen hungrig. Ich werde mich jetzt darüber hermachen und jeden Bissen genießen!$9",
+  "Sophia.GiftBigBarkBurger": "N-nein! W-was hast du dem armen Welpenfisch nur angetan!?$5#$b#*schnief*...$6",
+  "Sophia.Gift459": "Tut mir leid, ich mag Met nicht...$2",
   "Sophia.Gift346": "Bier tut meinem Bauch weh...$2",
-  "Sophia.GiftStardropTea": "Oooh, dieser Tee riecht so süß! Ich werde versuchen, mich zu mäßigen, damit ich mir nicht den Mund verbrenne. Danke!$9",
-  "Sophia.GiftBDPos": "Du hast dich an meinen Geburtstag erinnert! Ich bin sprachlos. Ich hatte gehofft, dass ich so etwas bekommen würde!$9",
+  "Sophia.GiftStardropTea": "Oooh, dieser Tee riecht so süß! Ich werde versuchen, ihn langsam zu trinken, damit ich mir nicht den Mund verbrenne. Danke!$9",
+  "Sophia.GiftBDPos": "Du hast an meinen Geburtstag gedacht! Ich bin sprachlos. Ich hatte gehofft, dass ich so etwas bekommen würde!$9",
   "Sophia.GiftBDNeg": "Oh, ähm, danke? Das ist nicht das, was ich mir als Geburtstagsgeschenk vorgestellt habe...$2",
-  "Sophia.cropMatured398": "Ich habe gehört, du ziehst Trauben auf deinem Hof an? Stellst du auch Wein her!?$1#$b#Wenn du Tipps brauchst, kann ich dir ein paar Hinweise geben.$9",
-  "Sophia.wonEggHunt": "Ich konnte während der Schnitzeljagd keine Eier finden. Ich denke, alle waren schneller als ich...$2",
-  "Sophia.firstVisitSewer": "Hey, ich habe gesehen, wie du den Abwasserkanal über den Fluss betreten hast, während ich draußen gearbeitet habe.$0#$b#Ist das der Grund, warum du so stinkst?$1",
-  "Sophia.wonGrange": "Dein Stand auf der Landwirtschaftsausstellung war so gut gemacht! Ich muss nächstes Jahr mehr Mühe geben.$1#$e#Vielleicht sollte ich ein paar Muscheln hinzufügen, um meinen Stand vielfältiger zu gestalten...$9",
+  "Sophia.cropMatured398": "Ich habe gehört, dass du Trauben auf deinem Hof anbaust? Stellst du auch Wein her!?$1#$b#Wenn du Tipps brauchst, kann ich dir ein paar Hinweise geben.$9",
+  "Sophia.wonEggHunt": "Ich konnte während der Eiersuche keine Eier finden. Ich glaube, alle waren schneller als ich...$2",
+  "Sophia.firstVisitSewer": "Hey, ich habe gesehen, wie du den Abwasserkanal betreten hast, während ich draußen gearbeitet habe.$0#$b#Ist das der Grund, warum du so stinkst?$1", //Fluss wurde entfernt, da der Satz für mich keinen Sinn ergab, weil sie ja auf der selben Flussseite wohnt?!?
+  "Sophia.wonGrange": "Deine Auslage auf der Bauernhofschau war so gut zusammengestellt! Ich muss mir nächstes Jahr mehr Mühe geben.$1#$e#Vielleicht sollte ich ein paar Muscheln hinzufügen, um meine Auslage vielfältiger zu gestalten...$9",
   "Sophia.DumpsterDive": "Bist du nicht ein bisschen zu groß für einen Müllpanda?$2",
   "Sophia.datingSophia": "Hey, du...$4",
-  "Sophia.marriedVictor": "Also seid ihr und Victor jetzt verheiratet? Er war immer ein netter Freund für mich. Ich freue mich für euch beide!$1",
+  "Sophia.marriedVictor": "Also, du und Victor seid jetzt verheiratet? Er war immer ein guter Freund für mich. Ich freue mich für euch beide!$1",
   "Sophia.divorcedVictor": "Victor hat mir erzählt, dass ihr beide einen schweren Streit hattet...$2",
   "Sophia.BuiltStable": "Ich habe gehört, dass du jetzt ein Pferd auf deinem Hof hast! Kann ich es irgendwann mal reiten? Ich lerne schnell.$1",
-  "Sophia.datingSophiatwoweeks": "Es sind ein paar Wochen vergangen, seit wir angefangen haben, uns zu daten. Ist es nicht verrückt, wie schnell die Zeit vergehen kann?$4#$e#*smooch*$9",
-  "Sophia.DatingOneYear": "Werde ich für immer deine Freundin sein? Ich dachte, wir wären vielleicht mittlerweile... etwas mehr geworden?$2",
-  "Sophia.Theateroneweek": "Ich kann es kaum erwarten, die nächste Vorstellung von 'Journey of the Prairie King' zu sehen! Es ist großartig, dass unsere kleine Stadt jetzt ein Theater hat.$1",
-  //Victor
+  "Sophia.datingSophiatwoweeks": "Es sind ein paar Wochen vergangen, seit wir angefangen haben, uns zu daten. Ist es nicht verrückt, wie schnell die Zeit verfliegt?$4#$e#*kuss*$9",
+  "Sophia.DatingOneYear": "Werde ich für immer nur deine Freundin sein? Ich dachte, dass wir inzwischen vielleicht... etwas mehr wären?$2",
+  "Sophia.Theateroneweek": "Ich kann es kaum erwarten, die nächste Vorstellung von 'Reise des Prärie-Königs' zu sehen! Es ist toll, dass unsere kleine Stadt jetzt ein Kino hat.$1",
+  //Victor //TODO
   "Victor.GreenRain": "In unserer Bibliothek gibt es ein Buch über grünen Regen... Ich muss es nur finden!$1#$e#Wo ist es? Ist das es? Nein. Hmm...$2",
   "Victor.GreenRainFinished": "Laut meinem Buch ist grüner Regen einfach ein seltenes natürliches Phänomen, das es so nur im Sternentautal während der Sommerzeit zu sehen gibt. Es gibt nichts, worüber man sich Sorgen machen muss!$1",
   "Victor.GreenRain2": "Nun, ich schätze, es ist ein guter Tag, um drinnen zu bleiben, bis dieses seltsame Wetter vorüberzieht.$0",
@@ -305,21 +305,21 @@
   "Victor.divorcedSophia": "Wie konntest du nur, @? Sophia wird nach diesem Vorfall nie wieder dieselbe sein. Du hast ihr Herz gebrochen!$5#$e#%Victor ignoriert dich.",
   "Victor.divorcedOlivia": "Meine Mutter nimmt die Scheidung nicht sehr gut auf...$2#$e#Ich glaube, es ist klug, wenn wir eine Pause vom Reden miteinander machen. Es ist einfach gerade nicht sehr passend. Ich hoffe, du verstehst das.$0#$e#%Victor ignoriert dich.",
   "Victor.Mine120": "Hast du irgendwelche Geschichten von deinen Abenteuern in den Minen, @? Ich habe von einer vertrauenswürdigen Quelle gehört, dass du ganz unten angekommen bist!$1#$e#...$0#$e#Ja, es war Marlon.$1",
-  //Andy
-  "Andy.GreenRain": "Yoba ist gekommen, um uns zu holen, Bauer. Mach jetzt Frieden mit dir selbst, wenn du es nicht bereits getan hast...$2",
-  "Andy.GreenRainFinished": "Es stellt sich heraus, dass der Regen meinen Pflanzen geholfen hat! Yoba hat auf uns aufgepasst.",
-  "Andy.GiftStardropTea": "Ich trinke normalerweise keinen Tee, aber verdammt nochmal.$0#$b#*schlürft*...$6#$b#...#$b#Das ist unglaublich! Vielen Dank!$3",
-  "Andy.Gift240": "Wie hast du gewusst, dass ich am Verhungern war? Diese Mahlzeit hier ist das, wovon wir Bauern leben!$3",
-  "Andy.GiftButterfish": "Ich kann diesen Kerl mit etwas gutem Futter zubereiten! Ich weiß das zu schätzen!$3",
-  "Andy.GiftBDPos": "Wenn du in meinem Alter bist, wirst du auch vergessen, wann du Geburtstag hast.$0#$b#Danke, dass du mich daran erinnert hast, Bauer.$8#$e#%Andy lächelt dich an.",
+  //Andy //FERTIG
+  "Andy.GreenRain": "Yoba ist gekommen, um uns zu holen, Bauer. Schließe jetzt Frieden mit dir selbst, wenn du es nicht schon getan hast...$2",
+  "Andy.GreenRainFinished": "Es hat sich herausgestellt, dass der Regen meinen Pflanzen gut getan hat! Yoba hat auf uns aufgepasst.",
+  "Andy.GiftStardropTea": "Ich trinke normalerweise keinen Tee, aber verdammt nochmal.$0#$b#*schlürft*...$6#$b#...#$b#Der ist unglaublich! Mein aufrichtiger Dank!$3",
+  "Andy.Gift240": "Wie hast du gewusst, dass ich am Verhungern war? Dieses Essen hier ist genau das, wovon wir Bauern leben!$3",
+  "Andy.GiftButterfish": "Den Kerl kann ich zu einem leckeren Gericht verarbeiten! Ich weiß das zu schätzen!$3",
+  "Andy.GiftBDPos": "Wenn du erst mal in meinem Alter bist, wirst du auch vergessen, wann du Geburtstag hast.$0#$b#Danke, dass du mich daran erinnert hast, Bauer. $8#$e#%Andy lächelt dich an.",
   "Andy.GiftBDNeg": "Was zum Teufel ist das!? Sehe ich etwa aus wie ein Narr?$5#$e#Herzlichen Glückwunsch zum Geburtstag.[167]$5",
-  "Andy.Giftalcohol": "Wie hast du gewusst, dass ich durstig war? Ich schätze das Getränk, Bauer.$1",
-  "Andy.DumpsterDive": "Um Himmels willen, was machst du da!?$7#$b#...$5#$e#%Andy ignoriert dich jetzt.",
+  "Andy.Giftalcohol": "Wie hast du gewusst, dass ich durstig war? Ich weiß das Getränk zu schätzen, Bauer. $1",
+  "Andy.DumpsterDive": "Um Yobas willen, was treibst du da!??$7#$b#...$5#$e#%Andy ignoriert dich jetzt.",
   "Andy.wonEggHunt": "Nicht fair gegenüber den Kindern, Bauer. Du und die anderen während dieser Eiersucherei.$0",
-  "Andy.marriedSophia": "Du und das Mädchen vom Weingut... Hah.$1#$e#Behandle sie gut. Sie hat mir als landwirtschaftliche Nachbarin immer Freundlichkeit gezeigt.$0",
-  "Andy.marriedVictor": "Der reiche Junge und der Bauer. Haha!$1#$b#Ich wusste es in meinen Knochen.$3",
+  "Andy.marriedSophia": "Du und das Mädchen vom Weingut... Hah.$1#$e#Behandle sie gut. Sie war immer freundlich zu mir als Nachbarin.$0",
+  "Andy.marriedVictor": "Der reiche Junge und der Bauer. Haha!$1#$b#Ich hab's in meinen Knochen gespürt.$3",
   "Andy.cropMatured400": "Machen dir diese Erdbeeren dort irgendwas Gutes? Lewis sagte, er hat einige aus deinem Versandkasten geholt!$0#$e#Sie können auf dem Markt einen guten Preis erzielen!$1",
-  "Andy.wonGrange": "Herzlichen Glückwunsch zum Gewinn des Wettbewerbs für die Grangenausstellung, Bauer!$0",
+  "Andy.wonGrange": "Glückwunsch zum Gewinn der Bauernhofschau, Bauer!$0",
   "Andy.BuiltStable": "Marnie kam vorbei und hat mir erzählt, dass du jetzt ein Pferd besitzt$0#$b#Ich muss dich wohl ab jetzt 'Cowboy' nennen^Ich muss dich wohl ab jetzt 'Cowgirl' nennen!$1",
   //Apples
   "Apples.GreenRain": "*meep* Regen! Lecker!!!$1#$e#*schlürf*... *schlürf*...$0",
@@ -333,7 +333,7 @@
   "Gunther.Giftancient": "Dieses Objekt ist sehr alt und erzählt seine eigene Geschichte... Ich kann es kaum erwarten, einen freien Moment zu haben, um es zu untersuchen! Danke.$0",
   "Gunther.DumpsterDive": "Bitte! Hier spielen Kinder!$3",
   "Gunther.VisitIslandNorth": "Bitte richte Professor Snail meine Grüße aus! Er ist sehr angesehen in unserem Fachgebiet.$0#$e#Ginger Island beherbergt viele Geheimnisse, die nur darauf warten, entdeckt zu werden!$1",
-  //Martin
+  //Martin //TODO Zeile 112
   //"Martin.GreenRain": "*sigh* This is what I get for using all my sick days.$2", - No longer used, Martin's parents keep him home. 
   "Martin.GiftStardropTea": "Auf keinen Fall, ist das eine Art seltener Tee? Mmmm...$0#$b#*schlürft* Oh, wow! Das schmeckt wirklich gut. Danke, @!$5",
   "Martin.Gift350": "Hey, das ist meine Lieblingsart von Saft! Vielen Dank, @.$0",
@@ -540,7 +540,7 @@
   "DesertFestival_Claire_marriage": "Ich würde hier draußen ohne Sonnencreme nicht allzu lange durchhalten. Obwohl ich zugeben muss, dass die Wärme der Sonne ziemlich angenehm ist!$1",
   "DesertFestival_Wizard_marriage": "Es gibt eine unbestreitbare Anziehungskraft des Wüstenfestivals, die sich einer Erklärung entzieht.#$e#Was auch immer sein Wesen sein mag, es lässt sich nicht leugnen, dass Magie jeden Moment durchdringt.",
   /// - PREVIOUSLY IN JA - TRANSLATORS CAN COPY EXISTING ITEMS FROM JA TO CP i18n FILE
-  //Big Craftables //TODO Da sind einige sachen noch in englisch.... so viel arbeit....
+  //Big Craftables //ach das kann alles "Farm" bleiben ich will mich nicht darum kümmern.
   "big-craftables.adventurer-gear.name": "Ausrüstung für Abenteurer",
   "big-craftables.adventurer-gear.description": "Zwei Paar Stiefel und ein kleiner Dolch.",
   "big-craftables.amethyst-node.name": "Amethystader",
@@ -933,7 +933,7 @@
   "object.undeadfish.description": "Sieht für mich nicht tot aus.",
   "object.void-delight.name": "Leere Freude",
   "object.void-delight.description": "Es wimmelt von Nichts-Energie.",
-  "object.void-eel.name": "Leer-Aal",
+  "object.void-eel.name": "Leer-Aal", //TODO "Void" wurde in der offiziellen Übersetzung zu "Schatten" geändert. daher müssen alle Vorkommen von "Leere" auf "Schatten" geändert werden
   "object.void-eel.description": "???",
   "object.void-pebble.name": "Leerestein",
   "object.void-pebble.description": "Obwohl klein, ist es dicht und heiß anzufassen.",
@@ -1039,7 +1039,7 @@
   "Minnow": "Minnow",
   "Butterfish": "Butterfisch",
   "VoidEel": "Leereel",
-  "Puppyfish": "Puppyfisch",
+  "Puppyfish": "Welpenfisch",
   "KingSalmon": "Königslachs",
   "Frog": "Frosch",
   "Kittyfish": "Kittyfisch",
@@ -4343,7 +4343,7 @@
   "Olivia.Gifts.Disliked": "Oh? Das gefällt mir nicht...",
   "Olivia.Gifts.Hated": "Das ist wirklich unangemessen. Ich werde das sofort wegwerfen!",
   "Olivia.Gifts.Neutral": "Das ist ein durchdachtes Geschenk, Liebling. Danke.",
-  //Olivia Engagement Dialogue 
+  //Olivia Engagement Dialogue //TODO HELP!
   "Olivia.Engagement.1": "Ich liebe dich, @.$3.",
   "Olivia.Spousevary.01": "Das Kalligraphieporträt an der Wand bedeutet 'Weisheit'.$3#$e#Wir alle erlangen sie durch unsere eigenen Erfahrungen im Leben.$3",
   "Olivia.Spousevary.02": "Guten Morgen, meine Liebe. Du bist früh auf so positiev .$3",
@@ -5507,7 +5507,7 @@
   "Morris.Townhouse.1": "Stadthausprojekt",
   "Morris.Townhouse.2": "Morris baut ein modernes Haus im Tal, aber er kann keine Eisenstäbe auftreiben. Er verspricht eine große Geldbelohnung, wenn ich ihm helfe!",
   "Morris.Townhouse.3": "Liefere 60 'Eisenbarren' an Morris.",
-  //Events
+  //Events //TODO 2Hearts zum teil?
   "Morris.Townhouse1.01": "Guten Morgen, @$1#$b#ich wollte etwas mit dir besprechen...$4#$b#Komm in dein eigenem Tempo in mein Büro bei Joja-Markt vorbei.$0",
   "Morris.Townhouse2.01": "Bitte, komm herein!$0",
   "Morris.Townhouse2.02": "Danke, dass du mich getroffen hast, @.$4#$b#Ich habe große Neuigkeiten zu teilen...$0",
@@ -8953,7 +8953,7 @@
   "Mail.SVEadvertisement2": "Liebe/r Einwohner/in:^^In unserer Zeit im Sternentautal hat Joja sich bemüht, ein aktives Mitglied der Gemeinschaft zu werden. Aber wir können es nicht ohne deine Hilfe schaffen! Wenn du dich dafür entscheidest, bei Jojas Konkurrenten wie Pierre's Gemischtwarenladen einzukaufen, wirst du keine Garantie für konsistente Qualität haben. Und ohne deine Unterstützung werden wir nicht in der Lage sein, unsere großzügigen Spenden an lokale Wohltätigkeitsorganisationen weiterzuführen.^^^^Kaufe bei Joja-Markt ein und hilf dabei, deine Gemeinschaft großartig zu halten!^^Joja-Markt: Wir schätzen deine Unterstützung.",
   "Mail.RobinKitchenLetter": "Lieber Bauer @,^^Du könntest irgendwann mehr Platz brauchen! Da kann ich helfen. Wenn du mir einige Rohstoffe bringst und eine Gebühr zahlst, kann ich dein Haus erweitern. Die erste Erweiterung, die ich anbiete, beinhaltet eine Küche. Mit einer Küche kannst du alle Rezepte kochen, die du gelernt hast!^^Wie auch immer, ich hoffe, du fühlst dich langsam zu Hause im Sternentautal!^^   Deine lokale Zimmermeisterin,^   Robin",
   "Mail.JasThankYouLetter": "An Bauer @,^^Tante Marnie hat gesagt, ich soll einen Dankesbrief schreiben. Also... danke, dass du mich im Wald gefunden und nach Hause gebracht hast. Ich werde nicht mehr so weit in den Wald gehen.^^  -Jas[#]Jas' Dankesbrief",
-  "Mail.winter_7": "Hallo @,^^Morgen treffen wir uns alle bei Andy zu Hause und gehen dann gemeinsam zum Angelplatz im Wald, um das Fest des Eises zu feiern.^^Es ist eine Feier des Winters... es wird Schneemänner, Eisskulpturen und einen Eisangelwettbewerb geben!^Komm zwischen 9 Uhr und 14 Uhr vorbei, wenn du teilnehmen möchtest.^  -Bürgermeister Lewis",
+  "Mail.winter_7": "Hallo @,^^Morgen treffen wir uns alle bei Andy zu Hause und gehen dann gemeinsam zum Angelplatz im Wald, um das Fest des Eises zu feiern.^Es ist eine Feier des Winters... es wird Schneemänner, Eisskulpturen und einen Eisangelwettbewerb geben!^Komm zwischen 9 Uhr und 14 Uhr vorbei, wenn du teilnehmen möchtest.^  -Bürgermeister Lewis", //jetzt sollte der Brief auf einer seite sein
   "Mail.OliviaDatingLetter": "Liebe @,^^Ich habe Gefühle bezüglich unserer Beziehung, die wir gerade begonnen haben. Ich muss dir einige Dinge sagen. Kannst du mich besuchen, wenn du Zeit hast?^^ -Olivia[#]Zweite Gefühle",
   "Mail.OliviaPartyLetter": "Hallo Schatz,^^Ich veranstalte heute Abend eine Hausparty in meinem Haus. Die meisten Stadtbewohner werden da sein, zusammen mit meinem besonderen Gast: dem Gouverneur!! Ich würde mich sehr freuen, wenn du kommen könntest, @. Die Party beginnt um 18:00 Uhr. Sei nicht zu spät!^^ - Deine Liebe, Olivia[#]Olivia's House Party",
   "Mail.MarlonLetterCherryBomb": "@,^^Die Minen sind gefährlich. Diese Kirschbomben werden dir während deiner Expeditionen helfen.^^Sei vorsichtig.^^   -Marlon %item object 286 5 %%[#]Kirschbomben von Marlon",
