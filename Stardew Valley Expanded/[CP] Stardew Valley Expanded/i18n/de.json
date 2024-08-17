@@ -19,7 +19,7 @@
   "Config.StrongerMonsters.name": "Stärkere Monster",
   "Config.OlderSophiaPortraits.name": "Ältere Sophia-Porträts",
   "Config.VanillaSandyPortraits.name": "Vanilla Sandy-Porträts",
-  "Config.MatureEvents.name": "Erwachsene Ereignisse",
+  "Config.MatureEvents.name": "Sensible Ereignisse",
   "Config.ShorterPathToBlueMoonVineyard.name": "Kürzerer Weg zu Blaumond-Weingut",
   "Config.UseGaldoranThemeAllTimes.name": "Nutze das Galdoran-Thema durchgehend",
   "Config.DisableGaldoranTheme.name": "Deaktiviere Galdoran-Thema",
@@ -44,7 +44,7 @@
   "Config.StrongerMonsters.description": "Monster erhalten eine erhebliche Verstärkung des an Spieler verursachten Schadens (doppelt), mit leichten Erhöhungen der HP. Schattenbruten und Mumien erhalten große HP- und Schadensverstärkungen.",
   "Config.OlderSophiaPortraits.description": "Lässt Sophias Porträts älter aussehen!",
   "Config.VanillaSandyPortraits.description": "Entfernt SVE Sandy-Porträts und gibt anderen Mods Vorrang bei der Bearbeitung der Vanilla-Sandy-Porträts.",
-  "Config.MatureEvents.description": "Fügt 10 zusätzliche Ereignisse hinzu, die extrem ernste Themen, dunkle Untertöne und moralische Mehrdeutigkeit enthalten. Wenn Spieler SVE mit diesen Ereignissen spielen möchten, müssen sie durch Umstellen der Konfiguration auf \"true\" zustimmen.",
+  "Config.MatureEvents.description": "Fügt 10 zusätzliche Ereignisse hinzu, die extrem ernste Themen, dunkle Untertöne und moralische Mehrdeutigkeit enthalten. Wenn der Spieler SVE mit diesen Ereignissen spielen möchten, muss dieser durch Umstellen der Konfiguration auf \"true\" zustimmen.",
   "Config.ShorterPathToBlueMoonVineyard.description": "Verschiebt den Warp-Punkt von Zundersaftwald > Blaumond-Weingut näher an den Fairhaven-Hof, um die Reisezeit zu verkürzen.",
   "Config.UseGaldoranThemeAllTimes.description": "Ändert die Benutzeroberfläche der Sternentautal-Region in die Benutzeroberfläche der Galdoran-Region in allen Orten.",
   "Config.DisableGaldoranTheme.description": "Deaktiviert die Galdoran-Benutzeroberfläche in allen Bereichen. Nützlich, wenn Spieler bereits eine Mod haben, welche die Benutzeroberfläche verändert.",
@@ -395,7 +395,7 @@
   "Susan.GiftBDNeg": "Nun, das ist eine ungewöhnliche Wahl für ein Geburtstagsgeschenk...$2",
   "Susan.DumpsterDive": "Liebes, das ist ja widerlich...$2",
   "Susan.cropMatured254": "Lewis hat mir erzählt, dass deine Melonen auf dem %farm endlich reif sind! Ich behalte immer einige von meiner Ernte als Zutat für Pinke Torte.$0", //
-  "Susan.wonGrange": "Dein Stand hat allen gezeigt, wie talentiert du bist und wozu der %farm fähig ist. Du hast es verdient zu gewinnen, Liebes!$4#$e#Nächstes Jahr wird Smaragd-Hof dir Konkurrenz machen!$1",
+  "Susan.wonGrange": "Dein Auslage hat allen gezeigt, wie talentiert du bist und wozu der %farm Hof fähig ist. Du hast es verdient zu gewinnen, Liebes!$4#$e#Nächstes Jahr wird Smaragd-Hof dir Konkurrenz machen!$1",
   //New Festival Dialogue
   //Victor
   "Victor.Egg2": "Wieder Eiersuche dieses Jahr, was?$1#$e#Was machen sie eigentlich danach mit all diesen Eiern?",
@@ -3788,7 +3788,7 @@
   "Sophia.Movies.13": "Ich weiß nicht so recht, was ich davon halten soll. Ich bin nur wegen der Snacks hier. $1",
   "Sophia.Movies.14": "Mmm. Ein bisschen langweilig...$2",
   "Sophia.Movies.15": "Ich denke, ich würde das mit 5 von 10 bewerten. $0",
-  //Sophia Festivals
+  //Sophia Festivals //TODO
   "eggfestival.Sophia.1": "Ich werde nervös bei großen Menschenmengen...$2",
   "eggfestival.Sophia.2": "Hey, du! Möchtest du mit mir etwas essen gehen? $4#$e# Ich hatte bereits einen Teller. Dies wird mein Zweiter sein. $9",
   "flowerdance.Sophia.1": "Ich bin hier für den kostenlosen Kuchen.$1",
@@ -6626,33 +6626,33 @@
   "Susan.Movies.12": "Es ist nicht mein Lieblingsgenre, aber ich werde es versuchen.$0",
   "Susan.Movies.13": "Ich werde schläfrig...$2",
   "Susan.Movies.14": "*gähn* Danke, dass du mich eingeladen hast, @.$0.",
-  //Susan Festival Dialogue
-  "Susan.Egg": "Jas und Vincent sind so aufgeregt, um die Eier in der Stadt zu suchen. Ich hoffe, sie finden viele!$1#$e#Ich denke darüber nach, mir eine zweite Portion Schinken und Gemüse zu holen.$0",
-  "Susan.Flower": "Was für ein schöner Tag für das Blumenfest. $4#$e# Planst du, mit jemandem zu tanzen? $1",
+  //Susan Festival Dialogue //FERTIG
+  "Susan.Egg": "Jas und Vincent freuen sich schon darauf, in der Stadt nach Eiern zu suchen. Ich hoffe, sie finden viele!$1#$e#Ich überlege, ob ich mir noch eine zweite Portion Schinken und Gemüse hole.$0",
+  "Susan.Flower": "Was für ein schöner Tag für das Blumenfest. $4#$e# Hast du vor, mit jemandem zu tanzen? $1", //klingt besser
   "Susan.Luau.1": "Es ist schön, den Gouverneur im Tal zu haben. Bürgermeister Lewis hat so hart gearbeitet, um das Luau perfekt zu machen. $0#$e# Ich frage mich, ob der langsam geröstete Schinken, den Linus macht, bald fertig ist. $1",
   "Susan.Luau.2": "Seit Morris gewählt wurde, hat sich in der Stadt wirklich viel verändert. $0#$b#Ich versuche immer noch, mich an alles zu gewöhnen. Das Leben ist jetzt so anders. $2",
-  "Susan.Moonlight": "Ich habe schreckliche Angst vor großen Wassermassen. Ich bleibe hier am Strand, wo es sicher ist.$0",
+  "Susan.Moonlight": "Ich habe schreckliche Angst vor offenen Gewässern. Ich bleibe hier am Strand, wo es sicher ist.$0",
   "Susan.Fair": "Ich freue mich, dass ich allen meine besten Erzeugnisse und Handwerkswaren präsentieren kann. $4#$b#Der Smaragd-Hof hatte ein starkes Jahr!$1",
-  "Susan.Spirit": "Also das sind Schattenbruten? Sie sehen bedrohlich aus...$2",
-  "Susan.Ice": "Als ich jünger war, haben mein Vater und ich gerne zusammen gefischt. Seitdem habe ich überhaupt nicht mehr gefischt. $0#$b#Ich denke, du wirst im Wettbewerb großartig abschneiden, @. $1#$e#Viel Glück, Liebling!$4",
+  "Susan.Spirit": "Also das sind Schattenbestien? Sie sehen bedrohlich aus...$2",
+  "Susan.Ice": "Als ich jünger war, haben mein Vater und ich gerne zusammen gefischt. Seitdem habe ich überhaupt nicht mehr gefischt. $0#$b#Ich denke, du wirst im Wettbewerb großartig abschneiden, @. $1#$e#Viel Glück, Liebes!$4",
   "Susan.WinterStar": "Er hat das Geschenk geliebt, das ich ihm gegeben habe! Ich wusste, dass er es zu schätzen wissen würde.$1",
-  //Susan Events
+  //Susan Events //WIP "Susan.4hearts.01"
   "Susan.Intro.01": "Hallo! Ich bin Susan, die Besitzerin vom Smaragd-Hof am Bahnhof. $4#$b#Seit Joja den Felssturz verursacht hat, war ich dort oben allein gefangen und habe einen Lagerkoller bekommen. $0#$b#Freut mich, dich endlich kennenzulernen, @. $1",
   "Susan.Intro.02": "Schau doch beim Smaragd-Hof vorbei, wenn du Zeit hast!$1",
-  "Susan.Intro.03": "Ich bin dankbar, dass Joja den Felssturz beseitigt hat. Lewis und ich haben uns so viel Mühe gegeben, um sie dazu zu bringen, die Felsen zu entfernen. $2#$b#Joja weigert sich immer noch, sich zu entschuldigen...$3#$e#Ich werde dich bald wiedersehen, Liebling!$1#$b#Es ist schön, einen anderen Bauern im Tal zu haben.$0",
-  "Susan.2hearts.01": "@! Hallo!$1#$b#Ich erfrische meine kleinen Kerle mit patentiertem hausgemachtem Dünger.$0#$b#Stickstoff, Kalium und Phosphor sind ein Teil dessen, was das Produkt von Smaragd-Hof köstlich macht.$4#$b#Fügen Sie einfach Sonnenschein, Wasser und etwas Liebe hinzu und Sie haben eine profitable Saison!$1",
-  "Susan.2hearts.02": "Smaragd-Hof ist im Vergleich zum %farm Hof klein. Ich kann mir nicht vorstellen, so viel Platz zu verwalten.$0",
-  "Susan.2hearts.03": "Wie schaffst du es, dich um all dieses Land zu kümmern?#Ehrlich gesagt, weil ich nie Pausen mache.#Ich automatisiere das Gießen mit Sprinklern.",
-  "Susan.2hearts.04": "Oh! Ich habe versucht, Sprinkler herzustellen, aber ich kann die Rohrleitung einfach nicht richtig hinbekommen. $0#$b#Ich bin erstaunt, dass du solch anspruchsvolle Geräte herstellen kannst. $4",
-  "Susan.2hearts.05": "Mit so vielen Hectar, die der %farm Hof zur Verfügung hat, ist Automatisierung wahrscheinlich zwingend notwendig, wenn du den gesamten Platz nutzen möchtest.$1#$b#Ich denke nicht, dass es für eine Person möglich wäre, alles zu pflegen, es sei denn, du hast ein paar Landarbeiter eingestellt, die dir dabei helfen.$0#$b#Die meisten Bauernhöfe in der Nähe von Pelikan Stadt sind klein genug, um selbstständig zu sein, aber die Obstgärten in Chestervale stellen saisonale Hilfe für die Ernte ein.$1",
-  "Susan.2hearts.06": "Ich muss mit dem Düngen fertig werden, bevor die Hitze am Nachmittag zuschlägt. Wir sprechen uns bald!$1",
-  "Susan.2hearts.07": "Susan war heute in einer fröhlichen Stimmung!",
-  "Susan.2hearts.08": "Vielen Dank, dass du mich früher besucht hast, @.$1#$e#Die Art und Weise, wie du einen so großen Bauernhof führst, motiviert mich, größere Träume zu verfolgen.$4#$e#Hab einen schönen Tag, Liebling!$1",
-  "Susan.2hearts.NoBreaks.01": "Ich habe bemerkt, dass du jedes Wochenende arbeitest und manchmal tagelang nicht in die Stadt gehst. Treib dich nicht zu sehr an, Liebling. $2#$b# Ein oder zwei Tage frei zu nehmen wird nicht das Ende der Welt sein. $0",
-  "Susan.2hearts.NoBreaks.02": "Vielleicht können wir irgendwann einen Ausflug nach Grampleton machen? Ich würde dich gerne meinem Handwerkslehrer vorstellen.$1",
-  "Susan.2hearts.NoBreaks.03": "Ich muss mit dem Düngen fertig werden, bevor die Hitze am Nachmittag zuschlägt. Wir sprechen uns bald!$1",
-  "Susan.2hearts.NoBreaks.04": "Susan war heute in einer fröhlichen Stimmung!",
-  "Susan.2hearts.NoBreaks.05": "Vielen Dank, dass du mich früher besucht hast, @!$1#$b#Mein Handwerkslehrer heißt Charlotte. Sie ist eine erfahrene Holzarbeiterin. Du solltest sie irgendwann treffen!$0",
+  "Susan.Intro.03": "Ich bin dankbar, dass Joja den Felssturz beseitigt hat. Lewis und ich mussten viel durchmachen, um sie dazu zu bringen, diese Felsen zu entfernen. $2#$b#Joja weigert sich immer noch, sich zu entschuldigen...$3#$e#Ich werde dich bald wiedersehen, Liebes!$1#$b#Es ist schön, einen weiteren Bauern im Tal zu haben.$0",
+  "Susan.2hearts.01": "@! Hallo!$1#$b#Ich frische meine kleinen Schützlinge mit patentiertem, selbstgemachtem Dünger auf.$0#$b#Stickstoff, Kalium und Phosphor sind Teil dessen, was die Produkte vom Smaragd-Hof so köstlich machen.$4#$b#Gib einfach Sonnenschein, Wasser und etwas Liebe dazu, und schon hast du eine erfolgreiche Saison!$1",
+  "Susan.2hearts.02": "Der Smaragd-Hof ist im Vergleich zum %farm Hof klein. Ich kann mir nicht vorstellen, so viel Platz zu verwalten.$0",
+  "Susan.2hearts.03": "Wie schaffst du es, dich um all dieses Land zu kümmern?#Um ehrlich zu sein, weil ich mir nie eine Pause gönne.#Ich automatisiere das Gießen mit Sprinklern.",
+  "Susan.2hearts.04": "Oh! Ich habe versucht, Sprinkler herzustellen, aber das Leitungssystem kriege ich einfach nicht richtig hin. $0#$b#Ich bin erstaunt, dass du so anspruchsvolle Geräte herstellen kannst. $4",
+  "Susan.2hearts.05": "Bei der Größe des %farm Hofs ist Automatisierung wahrscheinlich unerlässlich, wenn du den gesamten Platz nutzen möchtest.$1#$b#Ich glaube nicht, dass es für eine Person möglich wäre, alles zu bewirtschaften, es sei denn, du stellst ein paar Landarbeiter ein, die dir helfen.$0#$b#Die meisten Höfe in der Nähe von Pelikan Stadt sind klein genug, um ohne Hilfe auszukommen, aber die Obstgärten in Chestervale stellen für die Ernte saisonale Arbeitskräfte ein.$1",
+  "Susan.2hearts.06": "Ich muss noch düngen, bevor die Nachmittagshitze kommt. Wir sprechen uns bald!$1",
+  "Susan.2hearts.07": "Susan war heute in fröhlichen Stimmung!",
+  "Susan.2hearts.08": "Vielen Dank, dass du mich vorhin besucht hast, @.$1#$e#Die Art und Weise, wie du einen so großen Hof führst, motiviert mich, größere Träume zu verfolgen.$4#$e#Hab einen schönen Tag, Liebes!$1",
+  "Susan.2hearts.NoBreaks.01": "Ich habe bemerkt, dass du jedes Wochenende durcharbeitest und manchmal tagelang nicht in die Stadt gehst. Übertreib es nicht, Liebes. $2#$b# Ein oder zwei Tage frei zu nehmen, wird nicht das Ende der Welt sein. $0",
+  "Susan.2hearts.NoBreaks.02": "Vielleicht können wir irgendwann mal einen Ausflug nach Grampleton machen? Ich würde dich gerne meinem Handwerksmeisterin vorstellen.$1", //alternativ vorschläge?
+  "Susan.2hearts.NoBreaks.03": "Ich muss noch düngen, bevor die Nachmittagshitze kommt. Wir sprechen uns bald!$1",
+  "Susan.2hearts.NoBreaks.04": "Susan war heute in fröhlichen Stimmung!",
+  "Susan.2hearts.NoBreaks.05": "Vielen Dank, dass du mich vorhin besucht hast, @.$1#$b#Meine Handwerksmeisterin heißt Charlotte. Sie ist eine erfahrene Holzarbeiterin. Du solltest sie irgendwann mal kennenlernen!$0",
   "Susan.4hearts.01": "Oh hallo @.$1#$b#Ich bin dankbar, dass du dir Zeit genommen hast, um mich zu besuchen!$4",
   "Susan.4hearts.02": "Ich ernte meine Trauben. Ich benutze handgefertigte Fässer, um sie zu Wein zu reifen.$0#$b#Im Moment braue ich nur kleine Chargen, aber vielleicht wird Smaragd-Hof wie der Blaumond-Weingut eine vollwertige Kellerei. Viel Geld im Wein!$1",
   "Susan.4hearts.03": "#Ich bin sicher, dass Smaragd-Hof großartig abschneiden wird.#Was kannst du mir über die Höhle da oben erzählen?",
@@ -7255,7 +7255,7 @@
   "Gunther.8hearts2.01": "Ah, hallo Herr @. Ich bin froh, dass Sie gekommen sind.$0^Ah, hallo Frau @. Ich bin froh, dass Sie gekommen sind.$0",
   "Gunther.8hearts2.02": "Ich habe das Museum seit Jahren nicht mehr so voll gesehen. Und das alles dank deiner Bemühungen.$1",
   "Gunther.8hearts2.03": "Als Zeichen meines Dankes möchte ich dir einen besonderen Schatz von mir geben. $0#$b#Du wirst ihn bald per Post erhalten. $1",
-  "Gunther.RustyKey.01": "Oh, guten Morgen Herr @!$5^, oh, guten Morgen Frau @!$5#$b# Ich hoffe, es ist nicht zu früh...$1#$b#Ich wollte nur vorbeikommen und mich persönlich bei Ihnen bedanken für all die wunderbaren Artefakte und Mineralien, die Sie entdeckt haben... Sie haben so viel für eine Person getan!$1#$b#Tatsächlich habe ich gerade einen Brief vom Büro des Regionalen Sekretärs für Artefakte erhalten! Wir werden mit dem begehrten 'Goldenen Schaufel'-Preis für unsere bedeutenden Beiträge auf dem Gebiet geehrt!$5#$b#Und das alles dank Ihnen!$1", //TODO
+  "Gunther.RustyKey.01": "Oh, guten Morgen Herr @!$5^, oh, guten Morgen Frau @!$5#$b# Ich hoffe, es ist nicht zu früh...$1#$b#Ich wollte nur vorbeikommen und mich persönlich bei Ihnen bedanken für all die wunderbaren Artefakte und Mineralien, die Sie entdeckt haben... Sie haben so viel für eine Person getan!$1#$b#Tatsächlich habe ich gerade einen Brief vom Büro des Regionalen Sekretärs für Artefakte erhalten! Wir werden mit dem begehrten 'Goldenen Schaufel'-Preis für unsere bedeutenden Beiträge auf dem Gebiet geehrt!$5#$b#Und das alles dank Ihnen!$1",
   "Gunther.RustyKey.02": "Ich habe auch vielversprechende Neuigkeiten...$5#$b#Der Regionalsekretär der Artefakte hat dem Museum eine beträchtlich große Spende gegeben.$5#$b#Du wirst bald einen Teil davon per Post erhalten.$1",
   "Gunther.RustyKey.03": "Wir werden uns bald wiedersehen...$5#$b#Guten Tag, Herr @.^Guten Tag, Frau @.$1",
   "Gunther.RustyKey.04": "Es wird langsam Zeit, dass ich diese Beine strecke und öfter nach draußen gehe. $5",
@@ -10128,7 +10128,7 @@
   "String.1042": "Diese Büsche wachsen im Sommer rote Tollkirschen.",
   //GranpasFarm
   "String.1043": "Das wäre ein großartiger Ort für eine kleine Brücke.",
-  //Festivals
+  //Festivals //TODO
   "EggFestival.Winner.Kids": "Jas und Vincent!",
   "EggFestival.Winner.Sophia": "Sophia!",
   "EggFestival.01": "Wow, schau dir all diese Eier an!$h#$b#Wenn ich nur diese Kinder dazu bringen könnte, Abfall so effizient aufzusammeln, hätten wir die sauberste Stadt auf dieser Seite des Edelsteinmeeres! *kichern*$h",
@@ -10187,7 +10187,7 @@
   "IceFishing.02": "Wettbewerber, euer Ziel ist es, so viele Fische wie möglich in zwei Minuten mit den bereitgestellten Angelruten zu fangen.#$b#Ihr müsst eure Fische hier fangen, aus diesen Löchern im Eis.",
   "IceFishing.03": "Nun, ist jeder bereit?",
   "IceFishing.04": "Los!",
-  //Grandpas Shed quest //WIP GrandpasShed4.01
+  //Grandpas Shed quest //FERTIG
   "GrandpasShedQuest.01": "Die Scheune von Opa",
   "GrandpasShedQuest.02": "Wenn ich diese Materialien sammle, wird Robin die alte Scheune meines Großvaters renovieren. In dem Gebäude gibt es eine Truhe, in der ich sie ablegen kann.",
   "GrandpasShedQuest.03": "Hartholz abliefern.",
@@ -10202,20 +10202,20 @@
   "GrandpasShed2.06": "Besuche mich in meiner Werkstatt und wir können mehr über die Einzelheiten sprechen.$0",
   "GrandpasShed2.07": "Immer wenn du die Reparatur dieser Scheune besprechen möchtest, findest du mich in meiner Werkstatt. $0",
   "GrandpasShed3.01": "Hey! Ich weiß, welche Materialien ich brauche! Also lasst uns direkt zur Sache kommen. $1#$b#Ich schätze, dass ich 150 Stück Hartholz, 600 Stück Stein, 50 Eisenbarren und 20 Batteriepacks brauche...$0",
-  "GrandpasShed3.02": "Es gibt viel verrottetes Holz und Rost. Das ist, was das Alter im Laufe der Jahre mit einem Gebäude machen kann. $0",
-  "GrandpasShed3.03": "Es besteht kein Druck bei diesem Projekt, @. Sammle die Materialien, wie es dir am besten passt!$1#$b#Ich habe eine Truhe im Gebäude für dich platziert, damit du die Materialien ablegen kannst, sobald du sie beschaffst.$0",
-  "GrandpasShed3.04": "Ich werde meine handwerklichen Fähigkeiten mit diesem Projekt auf die Probe stellen!$1#$e#Ich fertige eine spezielle Aufbewahrungstruhe für das Projekt an. Wir werden mehr als nur Hartholz benötigen, um das Schuppen zu renovieren.$0",
+  "GrandpasShed3.02": "Da ist viel verrottetes Holz und Rost. So etwas passiert eben, wenn ein Gebäude im Laufe der Jahre altert. $0",
+  "GrandpasShed3.03": "Es gibt keinen Zeitdruck bei diesem Projekt, @. Sammle die Materialien, wie es dir am besten passt! $1#$b#Ich habe eine Truhe im Gebäude für dich aufgestellt, damit du die Materialien dort ablegen kannst, sobald du sie beschafft hast.$0",
+  "GrandpasShed3.04": "Ich werde meine handwerklichen Fähigkeiten mit diesem Projekt auf die Probe stellen!$1#$e#Ich fertige eine spezielle Aufbewahrungstruhe für das Projekt an. Wir werden mehr als nur Hartholz benötigen, um den Schuppen zu renovieren.$0",
   "GrandpasShed4.01": "Ich habe alle Materialien überprüft, die du gesammelt hast. Gute Arbeit!$1#$b#Du hast deinen Teil erledigt, jetzt werde ich meinen machen. Ich arbeite schnell, also sollte die Scheune morgen renoviert sein!$0",
   "GrandpasShed4.02": "%Robin ist beschäftigt.",
   "GrandpasShed5.01": "Hey @!$1",
-  "GrandpasShed5.02": "Also... was denkst du?$0#$b#Du hast vielleicht neue Fenster auf dem Dach gesehen.#$b#Es gibt jetzt einen tollen Platz, um dort Pflanzen anzubauen.",
-  "GrandpasShed5.03": "Ich hätte es nicht reparieren können, ohne all die Materialien, die du gesammelt hast. $1#$b#Ich hatte tatsächlich viel Spaß und habe einige neue Dinge gelernt. $0",
-  "GrandpasShed5.04": "Dieser untere Stock wäre ideal zum Reifen von Wein...$0",
+  "GrandpasShed5.02": "Also... was denkst du?$0#$b#Du hast vielleicht die neuen Fenster auf dem Dach gesehen.#$b#Es gibt jetzt einen tollen Platz, um dort Pflanzen anzubauen.",
+  "GrandpasShed5.03": "Ich hätte es ohne all die Materialien, die du gesammelt hast, nicht reparieren können. $1#$b#Ich hatte tatsächlich viel Spaß und habe dabei auch einiges Neues gelernt. $0",
+  "GrandpasShed5.04": "Dieser untere Stock wäre ideal, um Wein reifen zu lassen...$0",
   "GrandpasShed5.05": "Nun, genieße die renovierte Scheune @!$1",
-  "GrandpasShed5.06": "Oh, ich habe fast vergessen! Es gibt bereits einige Pflanzen im Obergeschoss, ein Geschenk von Susan. Sie dachte, du würdest es zu schätzen wissen, einige Pflanzen zu haben, um dein Gewächshaus zu starten!$1#$e#Mmm, ich frage mich, ob sie ihr eigenes Gewächshaus haben möchte?$0",
-  "GrandpasShed.Warning.01": "Hallo! Ich bin FlashShifter, der Entwickler von Stardew Valley Expanded. Wenn Sie diese Nachricht erhalten, gibt es etwas, worüber ich mit Ihnen sprechen muss...",
-  "GrandpasShed.Warning.02": "Die Questreihe von Opa's Schuppen hat in der SVE 1.12.13 Aktualisierung eine große Überarbeitung erhalten, was bedeutet, dass die Materialien, die du bisher gespendet hast, für immer verloren sind...",
-  "GrandpasShed.Warning.03": "Aber gib die Hoffnung nicht auf! Du kannst das CJB Cheats Menü installieren und diese verlorenen Ressourcen zurückbekommen! Ich entschuldige mich für die Unannehmlichkeiten!",
+  "GrandpasShed5.06": "Oh, ich habe fast vergessen! Im Obergeschoss gibt es bereits einige Pflanzen, ein Geschenk von Susan.  Sie dachte, du würdest es schätzen, ein paar Pflanzen zu haben, um dein Gewächshaus in Betrieb zu nehmen.$1#$e#Mmm, ich frage mich, ob sie ihr eigenes Gewächshaus haben möchte?$0",
+  "GrandpasShed.Warning.01": "Hallo! Ich bin FlashShifter, der Entwickler von Stardew Valley Expanded. Wenn Sie diese Nachricht erhalten, gibt es etwas, worüber ich mit Ihnen sprechen muss...", //kann ignoriert werden
+  "GrandpasShed.Warning.02": "Die Questreihe von Opa's Schuppen hat in der SVE 1.12.13 Aktualisierung eine große Überarbeitung erhalten, was bedeutet, dass die Materialien, die du bisher gespendet hast, für immer verloren sind...", //kann ignoriert werden
+  "GrandpasShed.Warning.03": "Aber gib die Hoffnung nicht auf! Du kannst das CJB Cheats Menü installieren und diese verlorenen Ressourcen zurückbekommen! Ich entschuldige mich für die Unannehmlichkeiten!", //kann ignoriert werden
   //JojaDay
   "JojaDay.Intro.01": "Hallo, @. Ich wollte vorbeischauen und dir sagen, dass morgen 'Joja Day' im Joja-Markt stattfinden wird! $1#$b# Es wird exklusive Dekorationen zum Verkauf geben und bis 20 Prozent Rabatt auf Samen bis 20:00 Uhr! $4#$b# Es wäre eine Freude, wenn du dabei wärst! $1",
   "JojaDay.Intro.02": "Ab sofort wird es im Joja-Markt am 22. jeden Jahreszeiten einen Verkauf geben!",
