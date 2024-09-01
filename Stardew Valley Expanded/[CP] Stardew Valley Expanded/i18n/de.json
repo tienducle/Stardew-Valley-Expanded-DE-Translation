@@ -20,7 +20,7 @@
   "Config.OlderSophiaPortraits.name": "Ältere Sophia-Porträts",
   "Config.VanillaSandyPortraits.name": "Vanilla Sandy-Porträts",
   "Config.MatureEvents.name": "Sensible Ereignisse",
-  "Config.ShorterPathToBlueMoonVineyard.name": "Kürzerer Weg zu Blaumond-Weingut",
+  "Config.ShorterPathToBlueMoonVineyard.name": "Kürzerer Weg zum Blaumond-Weingut",
   "Config.UseGaldoranThemeAllTimes.name": "Nutze das Galdoran-Thema durchgehend",
   "Config.DisableGaldoranTheme.name": "Deaktiviere Galdoran-Thema",
   "Config.WarpLocation.name": "Warp-Ort",
@@ -57,7 +57,7 @@
   "DisplayName.GrandpasShed": "Opas Schuppen",
   "DisplayName.Hotspring": "Heiße Quelle",
   "DisplayName.FarmQuarry": "Hofsteinbruch",
-  "DisplayName.HardwoodGlade": "Harthain",
+  "DisplayName.HardwoodGlade": "Hartholz-Hain",
   "DisplayName.FarmCave": "Hofhöhle",
   "DisplayName.EnchantedGrove": "Verzauberter Hain",
   "DisplayName.GrampletonSuburbs": "Grampleton Vororte",
@@ -5885,17 +5885,17 @@
   "Andy.Movies.04": "Heh. Der Film war in Ordnung. Die schauspielerischen Fähigkeiten könnten etwas verbessert werden.$1",
   "Andy.Movies.05": "Angenommen, ich werde diesem Genre eine Chance geben...$2",
   "Andy.Movies.06": "War kein Fan von dem Film. Hat einige Erinnerungen zurückgebracht, über die ich nicht nachdenken möchte...$2",
-  //Festival Dialogue
-  "Andy.Egg": "Das Essen bei diesen Festivals ist nicht so schlecht. $1#$e# Es würde noch besser schmecken, wenn Pierre und Lewis meine Ernte verwenden würden. $2",
-  "Andy.Flower": "Ich habe während unseres Spaziergangs hier einiges an Lauch gefunden! Dieses Zeug ist besser als das meiste Essen hier.$1#$e#Nichts wie ein Bier mit einem Lauch.$0",
-  "Andy.Luau": "Bürgermeister Lewis unterhält sich während des gesamten Festivals mit dem Gouverneur. Worüber reden diese beiden?$2#$e#Ich hoffe, sie reden nicht über mich. Wahrscheinlich hat er nichts Gutes zu sagen.$2",
-  "Andy.Moonlight": "Wenn diese Quallen nicht in den nächsten 10 Minuten auftauchen, bin ich hier weg. Ich verschwende doch nicht meinen Abend.$2",
-  "Andy.Fair": "Ich weiß, dass ich keine Chance habe zu gewinnen. Ich möchte nur allen zeigen, wie hart ich in dieser Saison gearbeitet habe. $0#$e#Ich bin stolz auf das, was ich tue. $1",
-  "Andy.Spirit.01": "Pierres gewürzter Kürbis-Apfelwein ist unglaublich! Ich wünschte, er würde mir erlauben, ihn zu kaufen!$1#$e#Er sollte zumindest etwas davon an Gus verkaufen, damit ich ihn in der Kneipe bekommen kann.$2#$e#Viel Glück in diesem Labyrinth, Bauer. Ich habe einige Schreie aus dieser Richtung gehört.$0",
-  "Andy.Spirit.02": "Diese hier gebratenen Pilze sind erstaunlich. Gus hat sich wirklich übertroffen. $0#$e#Ich habe gehört, dass der Stadtbach fehlt...$2",
-  "Andy.Ice": "Ich habe gehört, wie Willy über dich gesprochen hat. Es wird ein knappes Spiel zwischen euch beiden sein. $0#$e#Viel Glück beim Fischen, @. $1",
-  "Andy.WinterStar": "Das Beste an heute ist das kostenlose Essen und Trinken. Ich kümmere mich nicht viel um Geschenke geben. $2",
-  // Andy Events //WIP "Andy.4hearts.01"
+  //Festival Dialogue //FERTIG
+  "Andy.Egg": "Das Essen bei diesen Festen ist gar nicht mal so schlecht. $1#$e# Es würde noch besser schmecken, wenn Pierre und Lewis meine Feldfrüchte verwenden würden. $2",
+  "Andy.Flower": "Hab auf dem Weg hierher ein paar Lauche gefunden! Dieses Zeug ist besser als das meiste Essen hier.$1#$e#Nichts geht über ein Bier mit 'nem Lauch.$0",
+  "Andy.Luau": "Bürgermeister Lewis quatscht das ganze Festival über mit dem Gouverneur. Worüber reden die beiden bloß? $2#$e# Ich hoffe, die reden nicht über mich. Der hat wahrscheinlich nichts Gutes zu sagen.$2",
+  "Andy.Moonlight": "Wenn diese Quallen nicht in den nächsten 10 Minuten auftauchen, haue ich hier ab. Ich verschwende doch nicht meinen Abend.$2",
+  "Andy.Fair": "Ich weiß, dass ich nicht den Hauch einer Chance habe zu gewinnen. Ich möchte nur allen zeigen, wie hart ich in dieser Saison gearbeitet habe. $0#$e#Ich bin stolz auf das, was ich tue. $1", //näher am englischen
+  "Andy.Spirit.01": "Pierres gewürzter Kürbis-Apfelwein ist echt klasse! Ich wünschte, er würde mir was davon verkaufen!$1#$e#Er sollte zumindest etwas davon an Gus verkaufen, damit ich ihn in der Kneipe bekomme.$2#$e#Viel Glück in dem Labyrinth da, Bauer. Hab ein paar Schreie aus der Richtung gehört.$0",
+  "Andy.Spirit.02": "Diese gebratenen Pilze sind großartig. Gus hat sich wirklich selbst übertroffen. $0#$e#Hab' irgendwas davon gehört, dass der Stadtbrunnen verschwunden sein soll...$2",
+  "Andy.Ice": "Ich hab' mitbekommen, dass Willy über dich geredet hat. Es wird ein knappes Duell zwischen euch beiden. $0#$e#Viel Glück beim Angeln, @. $1",
+  "Andy.WinterStar": "Das Beste heute ist das kostenlose Essen und Trinken. Ich geb' nicht viel auf das Geschenke machen. $2",
+  // Andy Events //WIP "Andy.8hearts.01"
   "Andy.Intro.01": "Ah, der neue Bauer! Wie geht's dir an diesem schönen, sonnigen Tag?$0#$b#Du hast mich gerade beim Pflegen meiner Felder erwischt. Ich verteile gerade neuen Joja-Dünger auf meinem Feld.$0#$b#Ich nehme immer Joja-Dünger. Der macht meine Pflanzen stärker und gesünder.$1",
   "Andy.Intro.02": "Also, du fängst ja gerade auf dem %farm Hof an. Ich habe was für dich, das dir den Einstieg erleichtern sollte.$0",
   "Andy.Intro.03": "Ich hab noch einige Erdbeersamen rumliegen! Die Erdbeeren vom Fairhaven-Hof haben einen guten Ruf in Grampleton und Chestervale. $1",
@@ -5930,36 +5930,36 @@
   "Andy.2hearts.TalkAndy.01": "Danke, @. Ich weiß das sehr zu schätzen$1",
   "Andy.2hearts.TalkAndy.02": "Ich werde jetzt mit dem Entwurf beginnen. Einen Schönen Tag noch, @$0",
   "Andy.2hearts.TalkAndy.03": "Was gibt's jetzt? Lewis wird einen neuen Antrag ausarbeiten? Gut. Dieser alte Knacker macht endlich mal etwas richtig.$0#$e#Ich habe Arbeit zu erledigen, @. Lass mich in Ruhe.$2#$e#%Andy ignoriert dich jetzt.",
-  "Andy.4hearts.01": "Hallo Susan!$0",
-  "Andy.4hearts.02": "Oh, Andy! Ich sehe dich nicht oft bei Pierre's.$0",
-  "Andy.4hearts.03": "Ich hole mein Lieblings-Jerky ab.$0#$b#Apropos, könntest du mir die Tasche dort schnappen?$3",
-  "Andy.4hearts.03A": "Joja hat viele gute und günstige Sachen, aber sie haben nicht mein Lieblings-Jerky im Sortiment. $0#$b#Apropos, könntest du mir die Tasche dort schnappen? $3",
-  "Andy.4hearts.04": "Sicher!",
-  "Andy.4hearts.05": "Vielen Dank!$3#$b#Nichts schlägt diese Marke hier.$1",
-  "Andy.4hearts.06": "Hallo Leute!$1",
-  "Andy.4hearts.07": "Hallo, Liebling. Kaufst du heute Vorräte? $0",
-  "Andy.4hearts.08": "Ja, Pierre hat immer das, was ich brauche!",
-  "Andy.4hearts.09": "Ah, @ ist auch hier. $3",
-  "Andy.4hearts.10": "Hey!",
-  "Andy.4hearts.10A": "Hey, du!",
-  "Andy.4hearts.10B": "Hey, Dummkopf!",
-  "Andy.4hearts.11": "Vergiss mich nicht!$1",
-  "Andy.4hearts.12": "Haha! Schau mal einer an! Alle Bauern aus dem Sternentautal sind hier!$1",
-  "Andy.4hearts.13": "Juhu, wir!",
-  "Andy.4hearts.14": "Ich muss sagen, im Pierres Gemischtwarenladen gibt es ein stärkeres Gemeinschaftsgefühl.$0",
+  "Andy.4hearts.01": "Hey, Susan!$0", //andy
+  "Andy.4hearts.02": "Oh, Andy! Ich sehe dich nicht so oft bei Pierre im Laden.$0", //SUSAN
+  "Andy.4hearts.03": "Ich hole mein Lieblings-Jerky ab.$0#$b#Ach, kannst du mir die Packung da drüben reichen?$3", //andy
+  "Andy.4hearts.03A": "Joja hat viele gute und günstige Produkte, aber sie führen nicht mein Lieblings-Jerky. $0#$b#Ach, kannst du mir die Packung da drüben reichen? $3", //andy
+  "Andy.4hearts.04": "Sicher!", //susan
+  "Andy.4hearts.05": "Vielen Dank!$3#$b#Nichts kommt an diese Marke ran.$1", //andy
+  "Andy.4hearts.06": "Hallo Leute!$1", //sophia
+  "Andy.4hearts.07": "Hallo, Süße. Kaufst du heute Vorräte ein? $0", //susan
+  "Andy.4hearts.08": "Ja, Pierre hat immer das, was ich brauche!", //sophia
+  "Andy.4hearts.09": "Ah, @ ist auch hier. $3", //andy
+  "Andy.4hearts.10": "Hey!", //sophia
+  "Andy.4hearts.10A": "Hey, du!", //sophia
+  "Andy.4hearts.10B": "Hey, Dussel!", //sophia
+  "Andy.4hearts.11": "Vergiss mich nicht!$1", //marine
+  "Andy.4hearts.12": "Haha! Na, sieh mal einer an! Alle Bauern aus dem Sternentautal, direkt hier!$1", //andy
+  "Andy.4hearts.13": "Juhu, wir alle zusammen!", //sophia
+  "Andy.4hearts.14": "Ich muss sagen, bei Pierre im Laden fühlt man sich mehr als Teil der Gemeinschaft.$0",
   "Andy.6hearts.01": "...$8",
-  "Andy.6hearts.02": "Jerry und Elizabeth lebten früher hier. Das war ihr Weingut. $0",
-  "Andy.6hearts.03": "Sie waren gute Freunde von mir.$0",
-  "Andy.6hearts.04": "Erinnerst du dich an die große Rezession? Du hattest immer noch deinen Bürojob dort. $0",
-  "Andy.6hearts.05": "Dieser Abschwung auf dem Markt hatte verheerende Auswirkungen auf die Nachfrage nach Ernten, insbesondere nach Kunsthandwerk.$8#$b#Jerry und Elizabeth hielten so lange wie möglich durch, gaben aber letztendlich auf.$8",
-  "Andy.6hearts.06": "Jerry, du verdammter Yoba-Narr. $2",
-  "Andy.6hearts.07": "Ich habe ihnen gesagt, dass sie nicht ihr ganzes verdammtes Geld für dieses Projekt ausgeben sollen, sonst würden sie...",
-  "Andy.6hearts.08": "Ich war selbst kurz vor dem Bankrott. Zum Glück wusste ich, wo ich nach gutem Futter suchen musste. $0#$b#Dieses Futter hat mich gerettet. Yoba hat auf mich aufgepasst. $2",
+  "Andy.6hearts.02": "Jerry und Elizabeth haben früher hier gelebt. Das war mal ihr Weingut. $0",
+  "Andy.6hearts.03": "Das waren gute Freunde von mir.$0",
+  "Andy.6hearts.04": "Weißt noch die große Rezession? Du hattest damals noch diesen Bürojob da. $0",
+  "Andy.6hearts.05": "Dieser Einbruch auf dem Markt hatte verheerende Auswirkungen auf die Nachfrage nach Anbauprodukten, besonders nach Handwerkswaren.$8#$b#Jerry und Elizabeth haben so lange durchgehalten, wie es ging, aber schließlich mussten sie aufgeben.$8",
+  "Andy.6hearts.06": "Jerry, du Yobaverdammter Narr. $2", //"Gottverdammter", wobei "Gott" durch "Yoba" ersetzt wird
+  "Andy.6hearts.07": "Ich hab ihnen gesagt, dass sie nicht ihr ganzes verdammtes Geld in dieses Projekt stecken sollen, sonst würden sie...",
+  "Andy.6hearts.08": "ch war selbst kurz vorm Bankrott. Zum Glück wusste ich, wo ich nach guten Wildpflanzen suchen musste. $0#$b#Diese Wildpflanzen haben mich gerettet. Yoba hat auf mich aufgepasst. $2",
   "Andy.6hearts.09": "Das Gleiche ist mit Alexa passiert. Dieses kleine Bauernhaus südlich vom Fairhaven-Hof...$0",
-  "Andy.6hearts.10": "Nun lebt da drin ein verrücktes Monster von einer Maus, die Hüte verkauft. $2#$b#Ich denke, dass der Zauberer etwas damit zu tun hat. Ich sehe immer wieder blinkende Lichter von seinem Turm aus. $2",
+  "Andy.6hearts.10": "Jetzt haust da so'n verrücktes Monstervieh von 'ner Maus drin, das Hüte verkauft. $2#$b#Ich glaub, der Zauberer steckt dahinter. Ich seh immer wieder Lichter von seinem Turm blitzen. $2",
   "Andy.6hearts.11": "...$8",
-  "Andy.6hearts.12": "Ich muss alleine etwas nachdenken. Warum ich hierher kam. Alleine. Jetzt geh.$8",
-  "Andy.6hearts.13": "Ich schreibe an Jerry. Wir bleiben in Kontakt. Er und Elizabeth haben vor kurzem ein Kind bekommen.$0#$b#Sie leben jetzt in Chestervale. Nicht der beste Teil der Ferngill Republic, aber es ist billig.$2#$e#Ich gehe zu ihrem alten Weingut, um nachzudenken. Früher habe ich sie besucht, nachdem ich mit dem Farmen fertig war.$0#$e#... Ich vermisse sie.$8",
+  "Andy.6hearts.12": "Ich muss mal alleine nachdenken. Warum ich hier rausgekommen bin. Alleine. Jetzt geh.$8",
+  "Andy.6hearts.13": "Ich schreib Jerry. Wir halten Kontakt.. Er und Elizabeth haben vor kurzem ein Kind bekommen.$0#$b#Sie leben jetzt in Chestervale. Nicht der beste Teil der Ferngill-Republik, aber es ist billig.$2#$e#Ich geh oft zu ihrem alten Weingut, um nachzudenken. Früher hab ich sie besucht, wenn ich mit der Hofarbeit durch war.$0#$e#... Ich vermiss sie.$8",
   "Andy.8hearts.01": "Hey, Bauer! Du hast mich mitten beim Sammeln erwischt. $1#$b#Heute gibt es viele gute Sachen. Der Regen hilft ihnen beim Wachsen. $0",
   "Andy.8hearts.02": "Ich genieße es, im Wald nach Futter zu suchen. Wenn ich könnte, würde ich das zu meinem Vollzeitjob machen. $1#$b# Allerdings gibt es nicht viel Geld beim Füttern. Ich wäre nicht besser dran als dieser Linus-Typ. Ich persönlich genieße es, in einem beheizten Haus mit einem Kühlschrank zu schlafen. $2",
   "Andy.8hearts.03": "Sag mal, bist du beschäftigt? Ich habe ein paar Dinge, über die ich mit dir reden möchte. $0",
@@ -6977,13 +6977,13 @@
   "Marlon.Gifts.Disliked": "Hmm... da muss ich leider wirklich passen. Tut mir Leid.",
   "Marlon.Gifts.Hated": "Das passt mir leider nicht.",
   "Marlon.Gifts.Neutral": "Danke.",
-  //Marlon Vanilla Speech Bubbles
+  //Marlon Vanilla Speech Bubbles //FERTIG
   "Marlon.Vanilla.01": "Er ist zurück!",
   "Marlon.Vanilla.02": "Sie ist zurück!",
-  "Marlon.Vanilla.03": "Braucht ihr ein neues Schwert?",
+  "Marlon.Vanilla.03": "Brauchst du ein neues Schwert?",
   "Marlon.Vanilla.04": "Grüße.",
   "Marlon.Vanilla.05": "Guten Abend.",
-  //Marlon Movie Dialogue
+  //Marlon Movie Dialogue //TODO
   "Marlon.Movies.01": "Horrorfilme testen meine Integrität. Lass uns unsere Plätze besorgen. $0",
   "Marlon.Movies.02": "Kein Jump-Scare wird mich erreichen...$2",
   "Marlon.Movies.03": "Vielen Dank für die Einladung, @. Das war sehr angenehm.$0",
@@ -6995,7 +6995,7 @@
   "Marlon.Movies.09": "Ich war vertieft in den Film. Vielen Dank für die Einladung, @.",
   "Marlon.Movies.10": "Nun gut. Lass uns den Film anschauen, @.$1",
   "Marlon.Movies.11": "Hmm. Ich habe nicht allzu viel Aufmerksamkeit geschenkt.$0",
-  //Marlon Festival Dialogue
+  //Marlon Festival Dialogue //TODO
   "Marlon.Egg": "Selbst mit meinem schlechten Bein verpasse ich nie ein Stadtfest.",
   "Marlon.Flower": "Marnie sieht heute hübsch aus...",
   "Marlon.Luau": "Ich werde hier bei den Bäumen zurück sein... die Luft ist viel kühler.",
@@ -7003,7 +7003,7 @@
   "Marlon.Spirit": "Es hat eine gewaltige Anstrengung erfordert, um diese Monster zu fangen. $2#$b#Der größte Teil des Verdienstes geht an die Abenteurer des Schlossdorfes. #$e#Komm nicht zu nah an den Käfig.",
   "Marlon.Ice": "Wenn du Frostschleime entdeckst, benachrichtige mich.$0#$e#Wir sind tief im Wald. Alles kann dort draußen im Wald sein.",
   "Marlon.WinterStar": "Hey, guten Nachmittag.",
-  //Marlon Event Dialogue
+  //Marlon Event Dialogue //TODO
   "Marlon.Initiation.01": "Du hast dich bewiesen!",
   "Marlon.Initiation.02": "Du hast dich mit größtem Mut in die Minen gewagt, @!#$b#Wir könnten jemanden mit deinen Fähigkeiten gebrauchen. Möchtest du der Abenteurergilde beitreten?",
   "Marlon.Initiation.03": "@...$2#$b#Schwörst du unter Eid, die Menschheit von Monstern zu beschützen und dich mit all deiner Kraft dazu einzusetzen, die Traditionen, Werte und Ideologie des Abenteurerclubs hochzuhalten?$0",
@@ -7106,7 +7106,7 @@
   "Marlon.Boat2.05": "Hmm? Wofür sind die Monster-Teile? Ich fürchte, ich bin nicht befugt, das zu sagen. $0#$e# Von dem, was mir gesagt wurde, sind die Highlands ein gefährlicher Ort. $0",
   "Marlon.Boat3.01": "Ich habe mir die Monster-Teile angesehen, die du geliefert hast. Großartige Arbeit. #$b#Treffen wir uns am Gildensteg, wenn du bereit bist.",
   //************************
-  //GUNTHER NPC
+  //GUNTHER NPC //TODO
   //************************
   //Regular dialogue
   "Gunther.CharacterDialogue.001": "Ich kann nicht behaupten, dass ich im Geringsten überrascht war, als Robin mir sagte, dass du für die Finanzierung von Pams neuem Zuhause verantwortlich warst.$1",
@@ -7699,7 +7699,7 @@
   "Leah.Dialogue.06": "Kannst du mir ein paar Tipps zu diesem Kunstwerk geben, Elliott?$0",
   "Leah.Dialogue.07": "Fühlst du die Meeresbrise auf deinem Gesicht? $1",
   "Leah.Summit.01": "Du bist auch hierher gewandert, @?$0.",
-  //Leah Events
+  //Leah Events //TODO
   "Leah.event.01": "@! Hallo!$0#$b#Es ist heute ein schöner Tag! Ich bin vorbeigekommen, um meine grünen Bohnen zu überprüfen, und sie sind bereit zur Ernte.$0#$b#Gus und Pierre waren auch vor kurzem hier und haben sich um ihre Ernten gekümmert.$0",
   "Leah.event.02": "Der Gemeinschaftsgarten von Pelikan Stadt ist ziemlich schick, findest du nicht auch, @?$0",
   "Leah.Event.02A": "#Der Gemeinschaftsgarten ist eine nette Idee.#Es ist süß, aber mein Bauernhof kann 40x mehr halten.",
@@ -7738,14 +7738,14 @@
   "Leah.ArtShow.09": "Und der letzte heißt 'Holzschnitzerei 3'. Es ist eine Feier meines Lieblings-Skulpturmaterials... Holz.",
   "Leah.ArtShow.10": "Nun, das sind meine Skulpturen!$l#$b#Oh! Eine letzte Sache.",
   "Leah.ArtShow.11": "Ich möchte meinem besonderen Freund danken, @.#$b#Er hat mir die Idee für diese Show gegeben und den Mut, sie durchzuziehen. Ich weiß, das klingt kitschig, aber es ist wahr.^Sie hat mir die Idee für diese Show gegeben und den Mut, sie durchzuziehen. Ich weiß, das klingt kitschig, aber es ist wahr.",
-  "Leah.ArtShow.12": "Ich bin stolz auf dich, Leah! Ereignisse wie diese hauchen unserem kleinen Dorf wirklich Leben ein!$h",
+  "Leah.ArtShow.12": "Ich bin stolz auf dich, Leah! Ereignisse wie diese hauchen unserem kleinen Dorf wirklich Leben ein!$h", //Lewis
   "Leah.ArtShow.13": "Großartige Sache!",
-  "Leah.ArtShow.14": "Ich liebe deine Kunst, Leah! 'Post-Dimensionaler Nullraum' ist mein Favorit.$h",
-  "Leah.ArtShow.15": "Großartige Verwendung von Holz!",
-  "Leah.ArtShow.16": "Danke, dass du das machst!$h",
-  "Leah.ArtShow.17": "Exquisites Kunstwerk, Leah!$3",
+  "Leah.ArtShow.14": "Ich liebe deine Kunst, Leah! 'Post-Dimensionaler Nullraum' ist mein Favorit.$h", //dimetrius
+  "Leah.ArtShow.15": "Großartige Verwendung von Holz!", //Robin
+  "Leah.ArtShow.16": "Danke, dass du das machst!$h", //Penny
+  "Leah.ArtShow.17": "Exquisites Kunstwerk, Leah!$3", //olivia
   "Leah.ArtShow.18": "Danke, alle!$h",
-  "Leah.ArtShow.19": "Lassen Sie uns nun mit dem Bieten auf diese wunderbaren Kunstwerke beginnen... Eine wunderbare Ergänzung für Ihr Zuhause!$h#$b#Höre ich 5000g für das Rosa?",
+  "Leah.ArtShow.19": "Lassen Sie uns nun mit dem Bieten auf diese wunderbaren Kunstwerke beginnen... Eine wunderbare Ergänzung für Ihr Zuhause!$h#$b#Höre ich 5000g für das Rosa?", //Lewis
   "Leah.ArtShow.20": "Wow! Ich bin erschöpft.#$b#Meine Show war ein echter Erfolg, oder?$h",
   //************************
   //ELLIOTT NPC 
@@ -9253,7 +9253,7 @@
   "String.244": "Die Truhe ist entsperrt. Du öffnest die Truhe, um zu sehen, was drin ist und deine Neugier zu befriedigen... nur um eine weitere verschlossene Truhe zu finden...",
   "String.245": "Es ist Marnies Werkbank.",
   "String.246": "Es ist eine Art Maschine, die zur Holzverarbeitung verwendet wird.",
-  //SophiaHouse
+  //SophiaHouse //TODO
   "String.247": "Sind das bewegliche Kisten?",
   "String.248": "'STEVEN GALAXY: VOLUME 5'",
   "String.249": "Du schaust in den Kühlschrank... Wow, hier gibt es viel Orangen-Hähnchen. Sophia muss dieses Zeug lieben.",
@@ -10985,7 +10985,7 @@
   "Movie.SpouseInvite.04": "Willst du einen Film mit mir sehen? Klar!$1",
   "Movie.SpouseInvite.05": "Möchtest du einen Film im Kino sehen? Ich wäre begeistert. $0",
   "Movie.SpouseInvite.06": "*chuckle* Ich treffe dich im Kino. $5",
-  //Special Orders
+  //Special Orders //TODO
   //Emily Special Order
   "SpecialOrder.Emily.01": "Liefer einen Diamanten an Emily.",
   //Andy Special Order
@@ -11044,11 +11044,11 @@
   "Sophia.OrderEvent2.Married.04": "Lass uns den Garten noch ein bisschen genießen, alberner...$4",
   "Sophia.OrderEvent2.Married.05": "Ich kann jetzt Iridium-Sprinkler und Düsen aus Sophias Bestellbuch kaufen!",
   "Sophia.OrderEvent2.Married.06": "Ich muss Scarlett bald einladen. Ich weiß einfach, dass sie den Garten lieben wird!$1#$e#Es wird auch ein großartiger Ort für ein Cosplay-Fotoshooting sein!$4#$e#*Umarmungen* Ich liebe dich!$9",
-  //Marlon Special Order
+  //Marlon Special Order //TODO
   "Marlon.SpecialOrder.01": "Ein geheimnisvolles Abenteuer",
-  "Marlon.SpecialOrder.02": "Ich suche jemanden, der geschickt im Handwerk ist und keine Fragen stellt. Jobdetails werden nach Annahme mitgeteilt.",
+  "Marlon.SpecialOrder.02": "Ich suche jemanden, der geschickt im Handwerk ist und keine Fragen stellt. Auftragsdetails werden nach Annahme mitgeteilt.",
   "Marlon.SpecialOrder.03": "Liefere Kirschbomben bei Marlons Truhe ab.",
-  "Marlon.SpecialOrder.04": "Lass Bomben fallen.",
+  "Marlon.SpecialOrder.04": "Liefere Bomben ab",
   "Marlon.SpecialOrder.05": "Liefere Mega-Bomben ab.",
   "Marlon.OrderEvent.01": "Diese Bomben sind in außergewöhnlichem Zustand. Vielen Dank für Ihren Service, @.$1#$b#Ein Zauberer aus Schlossdorf wird jeden Moment hier eintreffen, um sie abzuholen.$0",
   "Marlon.OrderEvent.02": "Grüße Marlon und Freunde...$0",
