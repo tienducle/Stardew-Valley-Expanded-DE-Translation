@@ -5,6 +5,7 @@
 [Stardew Valley Expanded](https://www.nexusmods.com/stardewvalley/mods/3753)
 
 ###### Optional
+- [Frontier Farm](https://www.nexusmods.com/stardewvalley/mods/3753?tab=files)
 - [Grandpa's Farm](https://www.nexusmods.com/stardewvalley/mods/3753?tab=files)
 - [Immersive Farm 2 Remastered](https://www.nexusmods.com/stardewvalley/mods/3753?tab=files)
 
@@ -22,6 +23,8 @@ Stardew Valley
     ├── Stardew Valley Expanded - German Translation
     ├── Stardew Valley Expanded
     │   └── [CP] Stardew Valley Expanded
+    ├── Frontier Farm
+    │   └── [CP] Frontier Farm
     ├── Grandpa's Farm
     │   └── [CP] Grandpa's Farm
     └── Immersive Farm 2 Remastered
