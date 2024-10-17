@@ -51,7 +51,7 @@
   "Config.ChallengingMarshlands": "Erhöhtes Spawnen von Geisterwellen und Sumpfgolems im verbotenen Labyrinth. Spieler können noch mehr Futter finden.",
   "Config.ChallengingBadlands": "Erhöht das Auftauchen von Monstern und die Schwierigkeit, die purpurnen Ödlande zu durchqueren, drastisch - die wahre Prüfung für Abenteurer. Dieser Schalter ist sehr ressourcenintensiv, daher wird ein starker PC empfohlen.",
   "Config.ChallengingHighlandsCavern": "Erhöht das Spawnen von Monstern. Spieler können noch mehr Edelsteine und Mineralien finden.",
-  
+
   //Location Names
   "DisplayName.MiscellaneousLocations": "Verschiedene Orte",
   "DisplayName.Shops": "Geschäfte",
@@ -907,7 +907,7 @@
   "Marlon.Gift.MarshTonic": "@, du könntest ernsthafte Probleme bekommen, wenn jemand vom Ministerium erfährt, dass du mit diesen Tonika hantierst. Ich würde es mir nochmal überlegen, sie weiterhin zu brauen.$1",
   "Magnus.Gift.MarshTonic": "Meine Ex-Frau braute auch immer Tränke wie diesen... ebenso mächtig und genauso illegal.$2",
 
-  //1.15 Dusty
+  //1.15 Misc
   "Dusty.DisplayName": "Dusty",
   "AdventureGuild.Hours": "Geöffnet von 12:00 Uhr bis 2:00 Uhr",
 
@@ -979,7 +979,7 @@
   "LocationData.Summit": "Gipfel",
   "LocationData.ForbiddenMaze": "Verbotenes Labyrinth",
 
-  //Rejects Bouquets //TODO
+  //Rejects Bouquets
   "Andy.RejectBouquet": "...Äh? Ich weiß nicht, was dir das in den Kopf gesetzt hat, aber vergiss es. Das wird nicht passieren.",
   "Apples.RejectBouquet": "Hm...?$1#$e#Apples... versteht nicht.$1#$e#Apples starrt dich leer an. Vielleicht war das keine gute Idee.",
   "Gunther.RejectBouquet": "Hm? Oh, ein Strauß. Das bedeutet, du bist... oh. Oh. Es tut mir leid, @, aber ich bin nicht auf diese Weise an dir interessiert.",
@@ -1000,7 +1000,7 @@
   "Charlie.DumpsterDive": "%Bawk?...",
   //Gil
   "Gil.ShopDialogue": "Leg einfach dein Geld auf die Theke.",
-  //Claire //TODO
+  //Claire
   "Claire.GreenRain": "Selbst an einem so bizarren Tag wie heute muss ich immer noch zur Arbeit erscheinen...$0",
   "Claire.GreenRainFinished": "Das Wetter im Tal ist ziemlich einzigartig...$0",
   "Claire.GreenRain2": "Es gibt so viele neue Bäume in der Stadt. Es ist fast wie ein Dschungel.$0",
@@ -1031,7 +1031,7 @@
   "Lance.marriedWizard": "*kichert* Ich hatte schon immer eine Ahnung bezüglich dir und Magnus Rasmodius. Herzlichen Glückwunsch euch beiden. Grüß ihn von mir.$5",
   "Lance.roommatesKrobus": "Ich habe Neuigkeiten von einem engen Freund gehört, dass du mit einer Schattenperson zusammenlebst.$0#$b#Es steckt wirklich mehr in dir, als man auf den ersten Blick sieht..$5",
   "Lance.GiftStardropTea": "Ah, das ist eine unerwartete Freude. Meine Geschmacksknospen werden sich nun auf eine wunderbare Reise begeben!$5",
-  //Magnus //TODO
+  //Magnus
   "Magnus.GreenRainFinished": "Ich darf nicht gestört werden. Diese nächsten Monde sind von äußerster Wichtigkeit...",
   "Magnus.Gift769": "Ah, Leeressenzen! Immer nützlich als Zutat für Zauber und Rituale. Danke.$1",
   "Magnus.GiftVoidShard": "Was haben wir hier? Dieser Splitter ist in reine Dunkelheit gehüllt... Ich muss ihn untersuchen.$0",
@@ -1055,7 +1055,7 @@
   "Morgan.marriedMagnus": "Du und mein Lehrer seid jetzt verheiratet? Bedeutet das, dass ich mehr frei von meinen Studien bekomme!?$1",
   "Morgan.divorcedMagnus": "Magnus hat schon lange ein Temperament. Wenn ich eine falsche Sache sage oder tue, bekomme ich riesigen Ärger...$0#$e#Was ist zwischen euch passiert?$0",
   "Morgan.roommatesKrobus": "Du und der kleine schwarze Bohnen-Krobus lebt zusammen? Das ist so cool! Kann ich manchmal vorbeikommen, um hallo zu sagen?$1",
-  //Olivia //TODO
+  //Olivia
   "Olivia.GreenRain": "...%noturn$7",
   "Olivia.GreenRainFinished": "Ich bin einfach erleichtert, dass alles wieder normal ist...$0",
   "Olivia.GreenRain2": "Der Regen hat wieder diesen seltsamen grünen Farbton... ist es sicher?%noturn$2",
@@ -1100,7 +1100,7 @@
   "Sophia.datingSophiatwoweeks": "Es sind ein paar Wochen vergangen, seit wir angefangen haben, uns zu daten. Ist es nicht verrückt, wie schnell die Zeit verfliegt?$4#$e#*kuss*$9",
   "Sophia.DatingOneYear": "Werde ich für immer nur deine Freundin sein? Ich dachte, dass wir inzwischen vielleicht... etwas mehr wären?$2",
   "Sophia.Theateroneweek": "Ich kann es kaum erwarten, die nächste Vorstellung von 'Reise des Prärie-Königs' zu sehen! Es ist toll, dass unsere kleine Stadt jetzt ein Kino hat.$1",
-  //Victor //TODO
+  //Victor
   "Victor.GreenRain": "In unserer Bibliothek gibt es ein Buch über grünen Regen... Ich muss es nur finden!$1#$e#Wo ist es? Ist das es? Nein. Hmm...$2",
   "Victor.GreenRainFinished": "Laut meinem Buch ist grüner Regen einfach ein seltenes natürliches Phänomen, das es so nur im Sternentautal während der Sommerzeit zu sehen gibt. Es gibt nichts, worüber man sich Sorgen machen muss!$1",
   "Victor.GreenRain2": "Nun, ich schätze, es ist ein guter Tag, um drinnen zu bleiben, bis dieses seltsame Wetter vorüberzieht.$0",
@@ -1151,7 +1151,7 @@
   "Gunther.Giftancient": "Dieses Objekt ist sehr alt und erzählt seine eigene Geschichte... Ich kann es kaum erwarten, einen freien Moment zu haben, um es zu untersuchen! Danke.$0",
   "Gunther.DumpsterDive": "Bitte! Hier spielen Kinder!$3",
   "Gunther.VisitIslandNorth": "Bitte richte Professor Snail meine Grüße aus! Er ist sehr angesehen in unserem Fachgebiet.$0#$e#Ginger Island beherbergt viele Geheimnisse, die nur darauf warten, entdeckt zu werden!$1",
-  //Martin //TODO Zeile 112
+  //Martin
   //"Martin.GreenRain": "*sigh* This is what I get for using all my sick days.$2", - No longer used, Martin's parents keep him home. 
   "Martin.GiftStardropTea": "Auf keinen Fall, ist das eine Art seltener Tee? Mmmm...$0#$b#*schlürft* Oh, wow! Das schmeckt wirklich gut. Danke, @!$5",
   "Martin.Gift350": "Hey, das ist meine Lieblingsart von Saft! Vielen Dank, @.$0",
@@ -1244,8 +1244,8 @@
   "Lance.Christmas2": "Der Geist dieser Stadt fühlt sich bei diesem Fest am stärksten, denke ich.$1#$e#Es ist die Art von Kameradschaft, die nur eine kleine Stadt hervorbringen kann, wo jeder sich um den anderen kümmert.",
   //Claire
   "Claire.Egg2": "Teufelseier, Spiegeleier, pochierte Eier, Ei im Loch...$1#$e#Ich mag Eier.",
-  "Claire.Flower2": "Ich habe früher Tanz studiert...$1#$e#Naja, ich habe jedenfalls einen Kurs besucht.",
-  "Claire.Luau2": "Ich hoffe, die Reise des Gouverneurs hierher war von nichts beeinträchtigt.$1#$e#Normalerweise stellen sie Söldner an, um den Weg im Voraus zu räumen.",
+  "Claire.Flower2": "Hier gibt es so viele verschiedene Arten von Wildblumen. Man könnte einen wunderschönen Blumenstrauß daraus machen.$0",
+  "Claire.Luau2": "Normalerweise rede ich nur mit Leuten, die ich kenne, aber vielleicht ändert sich das heute.$1",
   "Claire.Jellyfish2": "Zuzusehen, wie die Lichter der Quallen in der Dunkelheit verschwinden... es lässt mich immer ein wenig wehmütig fühlen.$1#$e#Nein, es ist nicht schlecht, nur... kompliziert.",
   "Claire.Fair2": "Ich kann nicht glauben, dass Marnie es schafft, sich um so viele Tiere zu kümmern!$1#$e#Ich bin sicher, Shane und Jas helfen ihr. Man kann sehen, wie gut sie versorgt sind.",
   "Claire.Halloween2": "Herbstessen ist das Beste, weil es so wärmend ist!$1#$e#Glühwein... Kürbisgewürze... heißer Apfelwein...$2#$e#Claire ist in Gedanken beim Essen verloren.",
@@ -1670,7 +1670,7 @@
   "object.glazed-butterfish.description": "Eine sehr herzhafte Mahlzeit.",
   "object.golden-ocean-flower.name": "Goldene Ozeanblume",
   "object.golden-ocean-flower.description": "Hinterlässt einen ewigen Effekt, wenn geschenkt.",
-  "object.goldenfish.name": "Goldfisch",
+  "object.goldenfish.name": "Leuchtfisch",
   "object.goldenfish.description": "Es leuchtet mit einer goldähnlichen Aurora.",
   "object.golden-key.name": "Goldener Schlüssel",
   "object.golden-key.description": "Vielleicht funktioniert es an einem Schloss hier in der Nähe?",
@@ -3279,7 +3279,7 @@
   "Wizard.funReturn.57": "Ich bin sicher, du hattest heute einen produktiven Tag. Nimm dir unbedingt die Zeit, dich heute Abend zu entspannen.$0",
 
 
-  // Wizard Magnus Event Dialogue //TODO
+  // Wizard Magnus Event Dialogue
   "Wizard.Basement.01": "Dieser Raum ist voller magischer Bücher...",
   "Wizard.Basement.02": "Du nimmst ein Buch und fängst an, den Inhalt zu lesen.",
   "Wizard.Basement.03": "Was machst du?#$b#Ich lasse nur diejenigen hier unten, denen ich vertraue.",
@@ -4168,7 +4168,7 @@
   "Claire.14hearts3.Leah": "Ich schätze, dass das Kino gesunde Snacks anbietet. $0#$e#Oh, was hast du von 'The Thief of Justice' gehalten? Es war nicht schlecht! $1",
   "Claire.14hearts3.Martin": "Hallo. Was hast du von dem Film gehalten, @? Hat Claire nicht großartige Arbeit geleistet?$0#$e#Ich hoffe wirklich, dass sie in der Zukunft mehr Filmchancen bekommt. Ich weiß, wie viel es ihr bedeutet.#",
   //************************
-  //Sophia NPC //TODO
+  //Sophia NPC 
   //************************
   "Sophia.CharacterDialogue.001": "Eek! Ein Fremder!$2#$e#W-warte. Bist du nicht @, der neue Bauer?$0#$b#E-entschuldigung. Ich werde ein wenig nervös bei Leuten, die ich noch nicht getroffen habe...$1#$b#Mein Name ist Sophia. Ich bin die Besitzerin des Blaumond-Weinguts.$9#$e#Nun ja, ich werde dich wohl mal wiedersehen, denke ich.$1",
   "Sophia.CharacterDialogue.002": "Ooo. Ein Feenstein! Das ist mein Lieblingsding auf der ganzen Welt. Danke!$1",
@@ -4542,7 +4542,7 @@
   "Sophia.funReturn.3": "Ich bin heute ein bisschen wund von der Arbeit im Weinberg.$0",
   "Sophia.funReturn.4": "Oh, ich bin froh, dass du zurück bist! Ich habe Dich so sehr vermisst.$1",
   "Sophia.funReturn.5": "Ich bin sooo müde, weil ich den ganzen Tag auf den Beinen war. Ich glaube, ich gehe heute Abend früh ins Bett.$1",
-  "Sophia.funReturn.6": "Hey, Du! Hier ist eine extra Flasche Wein aus der heutigen Lieferung![(O)Blue Moon Wine]$1",
+  "Sophia.funReturn.6": "Hey, Du! Hier ist eine extra Flasche Wein aus der heutigen Lieferung![FlashShifter.StardewValleyExpandedCP_Blue_Moon_Wine]$1",
   "Sophia.funReturn.7": "Möchtest du später vor dem Schlafengehen unsere Show weitersehen?$1",
   "Sophia.funReturn.8": "Überarbeite Dich nicht! Wenn du eine Kuschelpause brauchst, frag einfach.$1",
   "Sophia.funReturn.9": "Das Abendessen ist serviert![727 231 207 199]$1#$e#Ähm. Hattest du einen schönen Tag?$9",
@@ -4555,7 +4555,7 @@
   "Sophia.funReturn.16": "Oh. Du bist zurück.$1",
   "Sophia.funReturn.17": "*grummel* Mein Bauch spricht wieder mit mir.$1",
   "Sophia.funReturn.18": "Hey! Ich habe Fasern vom Unkrautjäten bekommen. Du liebst es, mit diesem Zeug zu basteln, oder?[771]$1",
-  "Sophia.funReturn.19": "Möchtest du eine Flasche Blue Moon Wein teilen?[(O)Blue Moon Wine]$9",
+  "Sophia.funReturn.19": "Möchtest du eine Flasche Blue Moon Wein teilen?[FlashShifter.StardewValleyExpandedCP_Blue_Moon_Wine]$9",
   "Sophia.funReturn.20": "Hey! Wie war dein Tag?$1",
   "Sophia.funReturn.21": "Hey... Ich habe ein Geschenk für Dich.$1#$e#Hier! Ich liebe Dich![688]$9#$e#Ich weiß, du benutzt 'Lichtmagie'. Dachte, vielleicht könnte ein Totem Dir helfen.$1#$e#Oh! Ich habe es von einem Zauberer aus dem Ausland gekauft.$9",
   "Sophia.funReturn.22": "Hey, Du! Ich hatte heute Lust auf Süßes, also habe ich ein Dessert gemacht![232 234 223 220]$1#$e#*Kuss*$9",
@@ -4592,7 +4592,7 @@
   "Sophia.Movies.13": "Ich weiß nicht so recht, was ich davon halten soll. Ich bin nur wegen der Snacks hier. $1",
   "Sophia.Movies.14": "Mmm. Ein bisschen langweilig...$2",
   "Sophia.Movies.15": "Ich denke, ich würde das mit 5 von 10 bewerten. $0",
-  //Sophia Festivals //TODO
+  //Sophia Festivals
   "eggfestival.Sophia.1": "Ich werde nervös bei großen Menschenmengen...$2",
   "eggfestival.Sophia.2": "Hey, du! Möchtest du mit mir etwas essen gehen? $4#$e# Ich hatte bereits einen Teller. Dies wird mein Zweiter sein. $9",
   "flowerdance.Sophia.1": "Ich bin hier für den kostenlosen Kuchen.$1",
@@ -5144,7 +5144,7 @@
   "Olivia.Gifts.Disliked": "Oh? Das gefällt mir nicht...",
   "Olivia.Gifts.Hated": "Das ist wirklich unangemessen. Ich werde das sofort wegwerfen!",
   "Olivia.Gifts.Neutral": "Das ist ein durchdachtes Geschenk, Liebling. Danke.",
-  //Olivia Engagement Dialogue //TODO HELP!
+  //Olivia Engagement Dialogue 
   "Olivia.Engagement.1": "Ich liebe dich, @.$3.",
   //Olivia spouseRoom dialogue
   "Olivia.spouseRoom.1": "Das Kalligraphie-Porträt an der Wand bedeutet 'Weisheit'.$3#$e#Wir alle gewinnen sie durch unsere eigenen Erfahrungen im Leben.$3",
@@ -6092,7 +6092,7 @@
   "Alesia.Guild.04": "Bist du mit Hast-Elixieren ausgestattet, @?$0",
   "Alesia.Guild.05": "Es ist erfrischend, das Tal wieder zu besuchen.$1",
   "Alesia.Guild.06": "Zögere nicht zu fragen, wenn du meinen Bogen brauchst.$0",
-  //Alesia Events //TODO
+  //Alesia Events
   "Alesia.Intro.01": "Oh! Du musst @ sein, der neue Abenteurer, von dem mir Marlon so viel erzählt hat.$1#$b#Mein Name ist Alesia. Ich komme aus Schlossdorf.$0",
   "Alesia.Intro.02": "Alesia lebte vor Jahren im Sternentautal. Sie ist eine talentierte Scharfschützin. #$b#Ich bat um ihre Hilfe. Schleime vermehrten sich an den Höhlendecken, zu hoch für mich, um sie mit einem Schwert zu erreichen. #$b#Ich bin nicht mehr so gut im Schießen wie früher. $2",
   "Alesia.Intro.03": "Du bist zu hart zu dir selbst, Marlon.$2#$b#Wenn du meinen Bogen wieder brauchst, zögere nicht zu fragen.#$b#Außerdem genieße ich den Besuch im Tal sehr.$1",
@@ -6250,7 +6250,7 @@
   "Morris.Townhouse.1": "Stadthausprojekt",
   "Morris.Townhouse.2": "Morris baut ein modernes Haus im Tal, aber er kann keine Eisenstäbe auftreiben. Er verspricht eine große Geldbelohnung, wenn ich ihm helfe!",
   "Morris.Townhouse.3": "Liefere 60 'Eisenbarren' an Morris.",
-  //Events //TODO 2Hearts zum teil?
+  //Events
   "Morris.Townhouse1.01": "Guten Morgen, @$1#$b#ich wollte etwas mit dir besprechen...$4#$b#Komm in dein eigenem Tempo in mein Büro bei Joja-Markt vorbei.$0",
   "Morris.Townhouse2.01": "Bitte, komm herein!$0",
   "Morris.Townhouse2.02": "Danke, dass du mich getroffen hast, @.$4#$b#Ich habe große Neuigkeiten zu teilen...$0",
@@ -6276,7 +6276,7 @@
   "Morris.Year1.08": "Joja ebnet den Weg zur Größe im Sternentautal. $0",
   "Morris.Year1.09": "Es ist nur eine Frage der Zeit, bis wir alle unter Joja vereint sind.$5",
   "Morris.Year1.10": "Es ist schwierig, mit Morris zu einer Lösung zu kommen. $0#$b#Immer wenn er sich unter Druck gesetzt fühlt, setzt er Gesetze durch, die offensichtlich das Ergebnis des Einflusses von Joja sind. $2#$e#Nur weil etwas das Gesetz ist, heißt das nicht, dass es richtig ist. Bürgermeister zu sein ist nicht immer einfach. $0#$e#Ich mag deinen Geist, @! Es ist erfrischend zu sehen. $1",
-  "Morris.2hearts.01": "Hallo, Damen! Schöner Tag!$1",
+  "Morris.2hearts.01": "Hallo, Ladies! Schönen Tag euch!$1",
   "Morris.2hearts.02": "Guten Tag, Morris.$0",
   "Morris.2hearts.03": "...$2",
   "Morris.2hearts.04": "Ah, Morris. Begrüßt du die Stadtbewohner? $0",
@@ -6849,7 +6849,7 @@
   "Martin.Fair": "Hallo @. Hast du deinen Stand eingerichtet? Er war leer, als ich ihn überprüft habe. $1#$e#Viel Glück beim Wettbewerb. $0",
   "Martin.Spirit.1": "Ich bin kurz davor aufzugeben und etwas zu essen zu holen. $2#$e# Gibt es Konsequenzen für das Schummeln? $1#$e# % du sagst Martin, dass er das Labyrinth nicht betrügen sollte. #$e# Okay... $4",
   "Martin.Spirit.2": "Gut, dass dieser Käfig hier ist...$0",
-  // Martin Event Dialogue //TODO
+  // Martin Event Dialogue
   "Martin.2hearts.01": "Komm schon, Kiddo. Ich habe nicht den ganzen Tag.$0",
   "Martin.2hearts.02": "Ja, gnädige Frau! Ich verstehe. Ich werde das jetzt für Sie abrechnen!",
   "Martin.2hearts.03": "Äh...$4#$b#Wie funktioniert das... Hmm.$4",
@@ -7348,7 +7348,7 @@
   "Susan.CharacterDialogue.109": "Ich habe heute Morgen meine Felder geräumt, um mich auf den Frühling vorzubereiten, und ich habe mehrere Schneeyamswurzeln ausgegraben. $0#$b#Ich denke, ich werde sie nach dem Waschen heute Abend zum Abendessen essen!$1#$e#Versuche ein paar auszugraben, solange du kannst, @. Sie schmecken geröstet mit etwas Butter und braunem Zucker großartig. $4",
   //schedule dialogue
   "Susan.NightMarket.001": "Vielleicht werde ich meine ozeanischen Ängste konfrontieren und mich dem Spaß am Dock anschließen. $1",
-  // Susan Gift Tastes //TODO
+  // Susan Gift Tastes
   "Susan.Gifts.Loved": "Das sieht köstlich aus! Danke!",
   "Susan.Gifts.Liked": "Oh, goodness! Für mich? Danke.",
   "Susan.Gifts.Disliked": "Das ist sehr nett von dir. Danke.",
@@ -7726,7 +7726,7 @@
   "Marlon.Vanilla.03": "Brauchst du ein neues Schwert?",
   "Marlon.Vanilla.04": "Grüße.",
   "Marlon.Vanilla.05": "Guten Abend.",
-  //Marlon Movie Dialogue //TODO
+  //Marlon Movie Dialogue
   "Marlon.Movies.01": "Horrorfilme testen meine Integrität. Lass uns unsere Plätze besorgen. $0",
   "Marlon.Movies.02": "Kein Jump-Scare wird mich erreichen...$2",
   "Marlon.Movies.03": "Vielen Dank für die Einladung, @. Das war sehr angenehm.$0",
@@ -7738,7 +7738,7 @@
   "Marlon.Movies.09": "Ich war vertieft in den Film. Vielen Dank für die Einladung, @.",
   "Marlon.Movies.10": "Nun gut. Lass uns den Film anschauen, @.$1",
   "Marlon.Movies.11": "Hmm. Ich habe nicht allzu viel Aufmerksamkeit geschenkt.$0",
-  //Marlon Festival Dialogue //TODO
+  //Marlon Festival Dialogue
   "Marlon.Egg": "Selbst mit meinem schlechten Bein verpasse ich nie ein Stadtfest.",
   "Marlon.Flower": "Marnie sieht heute hübsch aus...",
   "Marlon.Luau": "Ich werde hier bei den Bäumen zurück sein... die Luft ist viel kühler.",
@@ -7746,7 +7746,7 @@
   "Marlon.Spirit": "Es hat eine gewaltige Anstrengung erfordert, um diese Monster zu fangen. $2#$b#Der größte Teil des Verdienstes geht an die Abenteurer des Schlossdorfes. #$e#Komm nicht zu nah an den Käfig.",
   "Marlon.Ice": "Wenn du Frostschleime entdeckst, benachrichtige mich.$0#$e#Wir sind tief im Wald. Alles kann dort draußen im Wald sein.",
   "Marlon.WinterStar": "Hey, guten Nachmittag.",
-  //Marlon Event Dialogue //TODO
+  //Marlon Event Dialogue
   "Marlon.Initiation.01": "Du hast dich bewiesen!",
   "Marlon.Initiation.02": "Du hast dich mit größtem Mut in die Minen gewagt, @!#$b#Wir könnten jemanden mit deinen Fähigkeiten gebrauchen. Möchtest du der Abenteurergilde beitreten?",
   "Marlon.Initiation.03": "@...$2#$b#Schwörst du unter Eid, die Menschheit von Monstern zu beschützen und dich mit all deiner Kraft dazu einzusetzen, die Traditionen, Werte und Ideologie des Abenteurerclubs hochzuhalten?$0",
@@ -7849,7 +7849,7 @@
   "Marlon.Boat2.05": "Hmm? Wofür sind die Monster-Teile? Ich fürchte, ich bin nicht befugt, das zu sagen. $0#$e# Von dem, was mir gesagt wurde, sind die Hochlande ein gefährlicher Ort. $0",
   "Marlon.Boat3.01": "Ich habe mir die Monster-Teile angesehen, die du geliefert hast. Großartige Arbeit. #$b#Treffen wir uns am Gildensteg, wenn du bereit bist.",
   //************************
-  //GUNTHER NPC //TODO
+  //GUNTHER NPC
   //************************
   //Regular dialogue
   "Gunther.CharacterDialogue.001": "Ich kann nicht behaupten, dass ich im Geringsten überrascht war, als Robin mir sagte, dass du für die Finanzierung von Pams neuem Zuhause verantwortlich warst.$1",
@@ -8252,7 +8252,7 @@
   "Penny.String": "Hallo, Mutter.$1",
   "Penny.Dialogue.01": "Sam behandelt mich heute Abend. Ist das nicht nett? $0",
   "Penny.Dialogue.02": "Hast du schon diese Schieber ausprobiert?$1#$b#Die Soße, die Gus dazu serviert, ist köstlich.$0",
-  //Penny event dialogue //TODO BUG in 8hearts text wird nicht angezeigt. In der englischen version funktioniert es.
+  //Penny event dialogue
   "Penny.Teaching.01": "Oh, hallo @. Ich bereite mich auf die heutigen Lektionen vor. $0#$b#Vincent hat sich für die Herkunft der Dinosaurier interessiert, also habe ich mir eine lustige Idee ausgedacht, um sie in Mathematikaufgaben zu integrieren. $1",
   "Penny.Teaching.Relationship.01": "Oh, hallo Schatz. Ich bereite mich auf die heutigen Lektionen vor. $0#$b#Vincent hat sich für die Herkunft der Dinosaurier interessiert, also habe ich mir eine lustige Idee ausgedacht, um sie in Mathematikaufgaben zu integrieren. $1",
   "Penny.Teaching.02": "$q -1 null#Ich habe gestern Abend die Zeit aus den Augen verloren und Stunden damit verbracht, diese Lektion zu planen.#$r -1 0 penny_event1#Du bist sehr leidenschaftlich beim Unterrichten.#$r -1 0 penny_event2#Ich bin sicher, es wird Vincent sehr helfen.#$r -1 0 penny_event3#Lehrer zu sein scheint viel Arbeit zu sein.",
@@ -8274,7 +8274,7 @@
   "Penny.2hearts.08": "Das ist in Ordnung, Herr Mullner. Ich verstehe.",
   "Penny.2hearts.09": "#Es muss schwierig sein, alt zu werden...$u#$r -1 0 event_old1#Ich denke lieber nicht darüber nach.#$r -1 0 event_old2#Es ist einfach ein anderer Teil des Lebens.#$r -1 0 event_old3#Deshalb sollten wir unsere Ältesten respektieren.#$r -1 0 event_old4#Ich würde lieber jung sterben...",
   "Penny.2hearts.10": "Nun ja, es war schön, mit dir darüber zu reden, @. Ich sollte gehen. $u",
-  "Penny.8hearts.01": "Oh, @! Du tauchst gerade zum perfekten Zeitpunkt auf.", //TODO BUG
+  "Penny.8hearts.01": "Oh, @! Du tauchst gerade zum perfekten Zeitpunkt auf.",
   "Penny.8hearts.02": "Ich habe die Kinder auf einen kleinen Ausflug aufs Land mitgenommen.#$b#Du kennst dich doch mit dem Leben auf dem Land aus, oder?$h",
   "Penny.8hearts.03": "$q -1 null#Also, ich habe mich gefragt... könntest du heute mein Gastredner sein?#$r -1 10 event_speaker_yes#Ja, würde ich sehr gerne!#$r -1 0 event_speaker_yes#Klar.#$r -1 -1500 event_speaker_no#Nein... Ich kann Kinder nicht ausstehen.",
   "Penny.8hearts.04": "Jas! Vincent! Ich bitte um eure Aufmerksamkeit!",
@@ -8287,7 +8287,7 @@
   "Penny.8hearts.11": "Okay, lasst uns jetzt @ unsere volle Aufmerksamkeit schenken.",
   "Penny.8hearts.12": "#Das Landleben dreht sich alles um die Landwirtschaft.#Das Landleben dreht sich alles um das Sammeln von Wildpflanzen.",
   "Penny.8hearts.13": "#Dieses Tal ist randvoll mit wertvollen Mineralien.#Das Wasser hier ist voller frischer Meeresfrüchte.#Du wirst kein besseres Holz südlich von Grampleton finden.",
-  "Penny.8hearts.14": "Ja, Vincent?", //TODO ab hier funktioniert es normal
+  "Penny.8hearts.14": "Ja, Vincent?",
   "Penny.8hearts.15": "Mr. @, wirst du Miss Penny heiraten?$s^Ms. @... Ähm, hast du einen Freund?",
   "Penny.8hearts.16": "Vincent! Das ist keine angemessene Frage! Benimm dich, sonst muss ich dir alle deine Sternpunkte für den Tag wegnehmen. $a",
   "Penny.8hearts.fieldTripEnd.01": "Nun, das reicht wahrscheinlich für heute. Ihr beiden könnt jetzt spielen gehen.",
@@ -8442,7 +8442,7 @@
   "Leah.Dialogue.06": "Kannst du mir ein paar Tipps zu diesem Kunstwerk geben, Elliott?$0",
   "Leah.Dialogue.07": "Fühlst du die Meeresbrise auf deinem Gesicht? $1",
   "Leah.Summit.01": "Du bist auch hierher gewandert, @?$0.",
-  //Leah Events //TODO
+  //Leah Events
   "Leah.event.01": "@! Hallo!$0#$b#Es ist heute ein schöner Tag! Ich bin vorbeigekommen, um meine grünen Bohnen zu überprüfen, und sie sind bereit zur Ernte.$0#$b#Gus und Pierre waren auch vor kurzem hier und haben sich um ihre Ernten gekümmert.$0",
   "Leah.event.02": "Der Gemeinschaftsgarten von Pelikan Stadt ist ziemlich schick, findest du nicht auch, @?$0",
   "Leah.Event.02A": "#Der Gemeinschaftsgarten ist eine nette Idee.#Es ist süß, aber mein Bauernhof kann 40x mehr halten.",
@@ -8545,7 +8545,7 @@
   "Alex.Dialogue.06": "Schön! Die Sauna ist zu dieser Jahreszeit entspannend.$1",
   "Alex.Dialogue.07": "Manchmal treffe ich sie, wenn ich ins Fitnessstudio oder die Sauna gehe. Sie ist immer produktiv und beschäftigt.$1",
   "Alex.Dialogue.08": "Super! Das klingt nach einem verdammt anstrengenden Beintag!$1",
-  //Alex Event Dialogue //TODO
+  //Alex Event Dialogue
   "Alex.Event.01": "Hey, ich habe nicht erwartet, jemanden anzutreffen.$1#$b#Ich komme hierher, um das Fitnessstudio zu nutzen. Sie haben bessere Ausrüstung als ich in meinem Zimmer habe!#$b#Nicht zu vergessen, es gibt eine Sauna, um sich nach einem harten Training zu entspannen!$0",
   "Alex.Event.02": "Erinnerst du dich daran, als der Eingang zu diesem Ort blockiert war? $5",
   "Alex.Event.03": "Joja bewegte große Kisten von einem Zug und ein Lastwagen krachte in die Felsen, was zu einem Felssturz führte. $2#$b#Joja hat sich sicherlich Zeit gelassen, um ihren Fehler zu beheben. Susan war monatelang von Pelikan Stadt isoliert und niemand konnte zu ihr gelangen. $5",
@@ -8928,7 +8928,7 @@
   "Leo.5heart.09": "Es ist eine wunderschöne Welt, Freunde...",
   "Leo.5heart.10": "...und ich bin froh, ein Teil davon zu sein!$h",
   //************************
-  //MARU NPC //TODO
+  //MARU NPC
   //************************
   "Maru.Dialogue.01": "Lass uns das hier eingeben und sehen, was passiert!$0#$b#Oh, es ist falsch...$2#$b#Aber das ist okay! Ich kann das später herausfinden.$1",
   "Maru.Dialogue.02": "Hmm...$0#$b#Das ist korrekt! Danke, @!$1",
@@ -9006,7 +9006,7 @@
   "Caroline.Dialogue.07": "Oh, @! Wir haben eine neue Person in unseren Workout-Sessions!$0#$b#Ihr Name ist Claire. Sie schien nervös zu sein, als sie fragte, wie sie beitreten kann.$1#$e#Ich denke, sie wird sich gut einfügen.$0",
   "Caroline.Dialogue.08": "Ich genieße den Besuch des Gemeinschaftsgartens.$0",
   "Caroline.Dialogue.09": "*seufz* Pierre...$2",
-  //Carloine Event Dialouge. //TODO
+  //Carloine Event Dialouge.
   "Caroline.Event.00": "Hör auf mir zu sagen, wie ich mein Leben leben soll!$a",
   "Caroline.Event.01": "Hey, hör auf damit! Wir lassen dich hier kostenlos wohnen, bis du die Schule beendet hast. Es scheint, als ob du das überhaupt nicht zu schätzen weißt!$u",
   "Caroline.Event.02": "Hör auf, mich ein schlechtes Gewissen zu machen.$a#$b#Ich schätze es, dass du und Papa mir helfen, aber von mir zu erwarten, dass ich mich so anziehe, wie ihr es wollt, ist lächerlich.$a#$b#Ich bin kein kleines Mädchen mehr, Mama.$u",
@@ -9146,7 +9146,7 @@
   //************************
   "Harvey.Dialogue.01": "Oh, nun, hallo!$1",
   "Harvey.Dialogue.02": "Nun, Sie werden nicht enttäuscht sein. Sie sind von höchster Qualität und bestehen aus rein biologischen Zutaten.$1",
-  //Harvey Event Dialogue //TODO
+  //Harvey Event Dialogue
   "Harvey.Event.01": "AE-134.01 Kapseln...",
   "Harvey.Event.02": "150mg und 200mg...",
   "Harvey.Event.03": "Zwanzig 250mg Kapseln. Nehmen Sie eine Kapsel zweimal täglich mit Essen ein, nach dem Frühstück und Abendessen. Vermeiden Sie Alkohol. Im Kühlschrank aufbewahren...$0",
@@ -9336,7 +9336,7 @@
   //************************
   //BEAR NPC
   //************************
-  //Bear Events //TODO
+  //Bear Events
   "Bear.Event.01": "Dieser Geruch... komm näher...$2",
   "Bear.Event.02": "Heh... Es ist nicht jeden Tag, dass ich mit einem Menschen spreche. Sieht so aus, als hättest du ein bisschen 'Waldmagie' in dir...$3",
   "Bear.Event.03": "Nun... bezüglich meines Zettels... Hast du das gute Zeug mitgebracht?",
@@ -9367,7 +9367,7 @@
   "Jas.MatureEvent.07": "@! Suki ist heute hier!$0#$b#Sie hat mir eine Leckerei mitgebracht!$1",
   "Jas.MatureEvent.08": "#Das ist sehr süß von ihr.# Was hat sie dir gegeben?",
   "Jas.MatureEvent.1000021_Treat.01": "Dieses Mal hat sie mir einen Gotoro-Lutscher gegeben! Sie bringt mir immer etwas Neues.$1",
-  "Jas.MatureEvent.1000021_Treat.02": "Es macht mich traurig, dass wir gegen das Gotoro Imperium kämpfen. Ich dachte vielleicht, sie wären böse, aber Suki ist nett. Sie sind genau wie wir.$3",
+  "Jas.MatureEvent.1000021_Treat.02": "Ich bin traurig, dass wir gegen das Gotoro-Imperium kämpfen. Ich dachte, sie wären vielleicht böse, aber Suki ist nett.$3",
   "Jas.MatureEvent.1000021_Treat.03": "Warum müssen wir gegeneinander kämpfen, @?$3",
   "Jas.MatureEvent.1000021_Treat.04": "#Krieg ist kompliziert, aber hoffen wir, dass es bald wieder Frieden gibt.#Wir werden den Kampf beenden, den sie begonnen haben.",
   "Jas.MatureEvent.1000021_Treat.05": "...$2#$e#%Jas sieht traurig aus.",
@@ -9996,7 +9996,7 @@
   "String.244": "Die Truhe ist entsperrt. Du öffnest die Truhe, um zu sehen, was drin ist und deine Neugier zu befriedigen... nur um eine weitere verschlossene Truhe zu finden...",
   "String.245": "Es ist Marnies Werkbank.",
   "String.246": "Es ist eine Art Maschine, die zur Holzverarbeitung verwendet wird.",
-  //SophiaHouse //TODO
+  //SophiaHouse
   "String.247": "Sind das bewegliche Kisten?",
   "String.248": "'STEVEN GALAXY: VOLUME 5'",
   "String.249": "Du schaust in den Kühlschrank... Wow, hier gibt es viel Orangen-Hähnchen. Sophia muss dieses Zeug lieben.",
@@ -10871,7 +10871,7 @@
   "String.1042": "Diese Büsche wachsen im Sommer rote Tollkirschen.",
   //GranpasFarm
   "String.1043": "Das wäre ein großartiger Ort für eine kleine Brücke.",
-  //Festivals //TODO
+  //Festivals
   "EggFestival.Winner.Kids": "Jas und Vincent!",
   "EggFestival.Winner.Sophia": "Sophia!",
   "EggFestival.01": "Wow, schau dir all diese Eier an!$h#$b#Wenn ich nur diese Kinder dazu bringen könnte, Abfall so effizient aufzusammeln, hätten wir die sauberste Stadt auf dieser Seite des Edelsteinmeeres! *kichern*$h",
@@ -11727,7 +11727,7 @@
   "Movie.SpouseInvite.05": "Möchtest du einen Film im Kino sehen? Ich wäre begeistert. $0",
   "Movie.SpouseInvite.06": "*chuckle* Ich treffe dich im Kino. $5",
   "Movie.SpouseInvite.07": "Natürlich möchte ich einen Film mit dir sehen. Wir können Händchen halten und ganz romantisch sein.$4#$e#Also!? Welchen Film schauen wir?$1",
-  //Special Orders //TODO
+  //Special Orders
   //Emily Special Order
   "SpecialOrder.Emily.01": "Liefer einen Diamanten an Emily.",
   //Andy Special Order
@@ -11786,7 +11786,7 @@
   "Sophia.OrderEvent2.Married.04": "Lass uns den Garten noch ein bisschen genießen, alberner...$4",
   "Sophia.OrderEvent2.Married.05": "Ich kann jetzt Iridium-Sprinkler und Düsen aus Sophias Bestellbuch kaufen!",
   "Sophia.OrderEvent2.Married.06": "Ich muss Scarlett bald einladen. Ich weiß einfach, dass sie den Garten lieben wird!$1#$e#Es wird auch ein großartiger Ort für ein Cosplay-Fotoshooting sein!$4#$e#*Umarmungen* Ich liebe dich!$9",
-  //Marlon Special Order //TODO
+  //Marlon Special Order
   "Marlon.SpecialOrder.01": "Ein geheimnisvolles Abenteuer",
   "Marlon.SpecialOrder.02": "Ich suche jemanden, der geschickt im Handwerk ist und keine Fragen stellt. Auftragsdetails werden nach Annahme mitgeteilt.",
   "Marlon.SpecialOrder.03": "Liefere Kirschbomben bei Marlons Truhe ab.",
