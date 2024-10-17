@@ -48,7 +48,10 @@
   "Config.ShorterPathToBlueMoonVineyard.description": "Verschiebt den Warp-Punkt von Zundersaftwald > Blaumond-Weingut näher an den Fairhaven-Hof, um die Reisezeit zu verkürzen.",
   "Config.UseGaldoranThemeAllTimes.description": "Ändert die Benutzeroberfläche der Sternentautal-Region in die Benutzeroberfläche der Galdoran-Region in allen Orten.",
   "Config.DisableGaldoranTheme.description": "Deaktiviert die Galdoran-Benutzeroberfläche in allen Bereichen. Nützlich, wenn Spieler bereits eine Mod haben, welche die Benutzeroberfläche verändert.",
-
+  "Config.ChallengingMarshlands": "Erhöhtes Spawnen von Geisterwellen und Sumpfgolems im verbotenen Labyrinth. Spieler können noch mehr Futter finden.",
+  "Config.ChallengingBadlands": "Erhöht das Auftauchen von Monstern und die Schwierigkeit, die purpurnen Ödlande zu durchqueren, drastisch - die wahre Prüfung für Abenteurer. Dieser Schalter ist sehr ressourcenintensiv, daher wird ein starker PC empfohlen.",
+  "Config.ChallengingHighlandsCavern": "Erhöht das Spawnen von Monstern. Spieler können noch mehr Edelsteine und Mineralien finden.",
+  
   //Location Names
   "DisplayName.MiscellaneousLocations": "Verschiedene Orte",
   "DisplayName.Shops": "Geschäfte",
@@ -243,6 +246,12 @@
   "object.swamp-crab.description": "*schnipp* *schnipp*",
   "object.wolf-snapper.name": "Wolfschnapper",
   "object.wolf-snapper.description": "Das Alphatier der Sturmtaucher Brücke.",
+  "object.goldfish.name": "Goldfisch",
+  "object.goldfish.description": "Ein gewöhnlicher Haustierfisch, der leicht zu pflegen ist.",
+  "object.gar.name": "Knochenhecht",
+  "object.gar.description": "Ein langer, schlanker Raubfisch, der andere Fische frisst.",
+  "object.turretfish.name": "Pyramiden-Kofferfisch",
+  "object.turretfish.description": "Sie kann 200 Schuss pro Minute abgeben.",
   "object.camel-wool.name": "Kamelwolle",
   "object.camel-wool.description": "Wird oft in hochwertigen Textilien verwendet.",
   "object.yarn.name": "Garn",
@@ -900,6 +909,7 @@
 
   //1.15 Dusty
   "Dusty.DisplayName": "Dusty",
+  "AdventureGuild.Hours": "Geöffnet von 12:00 Uhr bis 2:00 Uhr",
 
   //New in SVE 1.14.36, replaces original Green Rain dilaogue. 
   "Martin.GreenRainFinished": "Meine Eltern wollten nicht, dass ich zur Arbeit gehe. Sie sagten etwas über seltsames Wetter im Tal.#$e#Hey, was ist mit dem ganzen Moos überall?",
@@ -5283,7 +5293,6 @@
   "ice.Olivia.2": "Es ist ziemlich kalt hier draußen, nicht wahr, Liebling? $2#$b# Wenn wir nach Hause gehen, lassen Sie uns in einigen Decken gemütlich machen. Ich werde für uns etwas gewürzten Wein erhitzen. $4",
   "winterstar.Olivia.1": "Fröhliche Wintersonnenwende, Liebling!$3#$e#Ist es nicht wunderbar, wie glücklich alle an einem Tag wie diesem sind?$1",
   "winterstar.Olivia.2": "Diese Jahreszeit lässt mich so dankbar für meine Familie sein. $3#$b#Ich bin froh, dass du in mein Leben gekommen bist, @. $4",
-  //Olivia Event //TODO
   "Olivia.2hearts.01": "Schatz, ich verstehe einfach nicht, warum dieser Prozess endlos ist. $2",
   "Olivia.2hearts.02": "Ich versuche es ja, Mama. Es gibt nicht viele Jobs hier, soweit außerhalb der Stadt.$2",
   "Olivia.2hearts.03": "Denkst du, dass du zurück nach Zuzu City ziehen wirst?$0",
