@@ -1974,7 +1974,7 @@
   "Victor.CharacterDialogue.017": "Ich bin nicht bereit für eine Verpflichtung wie diese. Es tut mir leid, @.$2#$e#Ich sagte, ich bin nicht bereit.$5",
   "Victor.CharacterDialogue.018": "@, ich... mag dich wirklich, aber...$2#$b#Ich glaube nicht, dass ich bereit bin, mit dir auszugehen. Es tut mir leid.$2",
   "Victor.CharacterDialogue.019": "Uhh... Ich werde so tun, als ob du das gerade nicht getan hast. $0#$e# Lass mich in Ruhe, @. $5",
-  "Victor.CharacterDialogue.020": "Versuchst du, mich zu betrügen, während du verheiratet bist!? Was stimmt nicht mit dir? $5#$e# du bist widerlich. Geh weg von mir. $5",
+  "Victor.CharacterDialogue.020": "Versuchst du, mich zu betrügen, während du verheiratet bist!? Was stimmt nicht mit dir? $5#$e# Du bist widerlich. Geh weg von mir. $5",
   "Victor.CharacterDialogue.021": "@? Was machst du? Was würde dein Ehepartner tun, wenn ich ihnen sagen würde, dass du das gerade bei mir versucht hast? $5#$e#Ich werde deinem Ehepartner nichts sagen. Bitte hör einfach auf. $2",
   "Victor.CharacterDialogue.022": "Du willst mich heiraten? Du bist bereits verheiratet, @. Bitte hör auf.$2#$e#@. Bist du betrunken oder so? Geh weg, bevor ich deinem Ehepartner sage.$0",
   "Victor.CharacterDialogue.023": "Ich denke, wir müssen mehr Zeit miteinander verbringen, bevor wir diesen Schritt machen können, @.$6#$e#Entschuldigung. Ich wollte nicht deine Stimmung trüben. Es ist wichtig, dass ich transparent darüber bin.$2",
@@ -2078,7 +2078,7 @@
   "Victor.CharacterDialogue.121": "Es ist heute ein kalter Tag. Halte dich warm eingepackt, @.$1.",
   "Victor.CharacterDialogue.122": "Meine Mutter serviert heute Abend Pilze zum Abendessen...$2#$e#Vielleicht könnten wir ein Abendessen bei dir zu Hause planen?$1#$e#Ich mache exquisite Spaghetti!$3",
   "Victor.CharacterDialogue.123": "Marlon war neulich mit mehreren Monsterjägern aus Schlossdorf unterwegs. $0#$b#Ich hätte schwören können, dass ich auch den Zauberer mit ihnen gesehen habe. $1#$e#Ich glaube, sie hatten eine geheime Besprechung oder so etwas. $6",
-  "Victor.CharacterDialogue.124": "Meine Mutter und ich sind von Zuzu City ins Sternentautal gezogen. $6#$b# Im Vergleich zur Stadtumgebung ist das Tal ruhig. $3#$e# du hast früher in Pine-Mesa City gelebt, oder? Du verstehst, was ich meine. $1",
+  "Victor.CharacterDialogue.124": "Meine Mutter und ich sind von Zuzu City ins Sternentautal gezogen. $6#$b# Im Vergleich zur Stadtumgebung ist das Tal ruhig. $3#$e# Du hast früher in Pine-Mesa City gelebt, oder? Du verstehst, was ich meine. $1",
   "Victor.CharacterDialogue.125": "Wirst du jemals ängstlich, wenn du dich auf Abenteuer begibst, @?$0#$e#...Ich habe das wahrscheinlich schon einmal gesagt, aber ich beneide wirklich deine Tapferkeit. Ich fühle mich manchmal so nutzlos.$2#$e#Ich sollte meinen eigenen Weg finden, um Bedeutung in der Welt zu schaffen? Weise Worte, wahrscheinlich. Mal sehen, ob ich auf sie höre.$3",
   "Victor.CharacterDialogue.126": "Schön, dich zu sehen, @. Ich habe Lust, morgen auf den Gipfel zu wandern.$1#$b#Die Aussicht dort oben ist zu dieser Jahreszeit unglaublich.$3",
   "Victor.CharacterDialogue.127": "Meine Mutter hat vor einigen Jahren das Malen als Hobby aufgenommen. $0#$b#Sie hat sich als Künstlerin sehr weiterentwickelt. $3#$b#Es zeigt wirklich, dass Übung den Meister macht. $1#$e#Schau dir nur an, wie viel du beim Farmen gelernt hast, seit du angefangen hast! $1#$e#Ich hoffe, du hast einen tollen Tag, @. $3",
@@ -3976,7 +3976,7 @@
   "Claire.6hearts.Theater.07": "$q -1 null#Das sieht nach einer Menge Spaß aus...#$r -1 0 claire_event22#Ja, sie treffen sich einmal pro Woche.#$r -1 0 claire_event23#Interessiert dich das?#$r -1 0 claire_event24#Es ist wirklich nichts Besonderes.",
   "Claire.6hearts.Joja.08": "Eure Gemeinde hat einen ganz besonderen Charakter...$9#$b#Ein ganz anderes Gefühl als mein Zuhause auf dem Land.$11",
   "Claire.6hearts.Theater.08": "Eure Gemeinde hat einen ganz besonderen Charakter...$13#$b#Ein ganz anderes Gefühl als mein Zuhause auf dem Land.$15",
-  "Claire.6hearts.Joja.09": "$q -1 null # Es gibt nicht viele Menschen da draußen...  #$r -1 0 claire_event4 # du solltest dich hier mehr einbringen. #$r -1 0 claire_event5 # Klingt nach einem friedlichen Leben.",
+  "Claire.6hearts.Joja.09": "$q -1 null # Es gibt nicht viele Menschen da draußen...  #$r -1 0 claire_event4 # Du solltest dich hier mehr einbringen. #$r -1 0 claire_event5 # Klingt nach einem friedlichen Leben.",
   "Claire.6hearts.Theater.09": "$q -1 null#Es gibt nicht viele Menschen da draußen... #$r -1 0 claire_event25#Du solltest dich hier mehr einbringen.#$r -1 0 claire_event26#Klingt nach einem friedlichen Leben.",
   "Claire.6hearts.Joja.10": "Ich... ich weiß nicht. Ich bin nur ein Außenseiter. $10",
   "Claire.6hearts.Theater.10": "Ich... ich weiß nicht. Ich bin nur ein Außenseiter. $13",
@@ -4168,7 +4168,7 @@
   "Claire.14hearts3.Leah": "Ich schätze, dass das Kino gesunde Snacks anbietet. $0#$e#Oh, was hast du von 'The Thief of Justice' gehalten? Es war nicht schlecht! $1",
   "Claire.14hearts3.Martin": "Hallo. Was hast du von dem Film gehalten, @? Hat Claire nicht großartige Arbeit geleistet?$0#$e#Ich hoffe wirklich, dass sie in der Zukunft mehr Filmchancen bekommt. Ich weiß, wie viel es ihr bedeutet.#",
   //************************
-  //Sophia NPC 
+  //Sophia NPC
   //************************
   "Sophia.CharacterDialogue.001": "Eek! Ein Fremder!$2#$e#W-warte. Bist du nicht @, der neue Bauer?$0#$b#E-entschuldigung. Ich werde ein wenig nervös bei Leuten, die ich noch nicht getroffen habe...$1#$b#Mein Name ist Sophia. Ich bin die Besitzerin des Blaumond-Weinguts.$9#$e#Nun ja, ich werde dich wohl mal wiedersehen, denke ich.$1",
   "Sophia.CharacterDialogue.002": "Ooo. Ein Feenstein! Das ist mein Lieblingsding auf der ganzen Welt. Danke!$1",
@@ -4600,7 +4600,7 @@
   "luau.Sophia.1": "Ich frage mich, wie die Suppe dieses Jahr schmecken wird? Ich hoffe, sie ist lecker!$1",
   "luau.Sophia.2": "Möchtest du nach dem Essen schwimmen gehen? $1#$e# Ich habe einen neuen Bikini. $4",
   "moonlight.Sophia.1": "Die Quallen sind so hübsch!$1#$b#Ich liebe es, sie jedes Jahr zu beobachten.$9",
-  "moonlight.Sophia.2": "Hey, du da. Siehst du den schwachen Glanz da draußen? $4#$e# Die Mondlichtquallen kommen an die Küste! $9#$e# % du hältst Sophias Hand. Sie lächelt dich an.",
+  "moonlight.Sophia.2": "Hey, du da. Siehst du den schwachen Glanz da draußen? $4#$e# Die Mondlichtquallen kommen an die Küste! $9#$e# % Du hältst Sophias Hand. Sie lächelt dich an.",
   "fair.Sophia.1": "Ich präsentiere meine besten gereiften Weine vom Blaumond-Weingut!$1#$e#Ich habe hart daran gearbeitet, diese herzustellen!$9#$e#Oh. Ähm. Was hast du auf deinem Stand?$1",
   "fair.Sophia.2": "Wir treten heute gegeneinander an.$1#$b#Möge der Beste gewinnen!$3#$e#Oh. Ähm. Ich liebe dich!$4#$b#Viel Glück!$9",
   "spirit.Sophia.1": "Ich bin in das Labyrinth gegangen und habe aufgegeben.$2#$e#Warum? Oh. Ich hatte Hunger.$1#$e#Hast du Pierres gewürzten Kürbis-Apfelwein probiert?$9",
@@ -5144,7 +5144,7 @@
   "Olivia.Gifts.Disliked": "Oh? Das gefällt mir nicht...",
   "Olivia.Gifts.Hated": "Das ist wirklich unangemessen. Ich werde das sofort wegwerfen!",
   "Olivia.Gifts.Neutral": "Das ist ein durchdachtes Geschenk, Liebling. Danke.",
-  //Olivia Engagement Dialogue 
+  //Olivia Engagement Dialogue
   "Olivia.Engagement.1": "Ich liebe dich, @.$3.",
   //Olivia spouseRoom dialogue
   "Olivia.spouseRoom.1": "Das Kalligraphie-Porträt an der Wand bedeutet 'Weisheit'.$3#$e#Wir alle gewinnen sie durch unsere eigenen Erfahrungen im Leben.$3",
@@ -5402,7 +5402,7 @@
   "Olivia.Dating.03": "Ich habe seit Jahren niemanden mehr getroffen. Nicht seit meinem Mann Edward...$2#$b#Er...$2",
   "Olivia.Dating.04": "Er ist vor einiger Zeit verstorben...$2",
   "Olivia.Dating.05": "Ich fühle mich schuldig, als ob ich ihn verrate. Ich weiß nicht, ob ich mit dir sein kann, @.$2.",
-  "Olivia.Dating.05A": "#Du musst deinem Herzen folgen.# du hast recht. Wir sollten das abbrechen.",
+  "Olivia.Dating.05A": "#Du musst deinem Herzen folgen.# Du hast recht. Wir sollten das abbrechen.",
   "Olivia.Dating.06": "...Okay.$2#$b#Wir... sollten aufhören, bevor wir zu sehr investiert sind.$2#$b#Ich wusste von Anfang an, dass das keine gute Idee wäre. Es gibt zu viel... Ballast in meinem Leben.$2#$b#Das...klärt einiges für mich.$0#$b#Bitte schließen Sie die Tür hinter sich. $2",
   "Olivia.Dating.07": "*seufz*... Überreiche mir einen verwelkten Blumenstrauß, um unsere Beziehung offiziell zu beenden, @. [277]$2#$e#%Olivia sieht traurig aus.",
   "Olivia.Dating.Happy.01": "...$2#$b#...$0#$b#...$3#$b#Du hast recht. Ich muss meinem Herzen folgen und meinen Gefühlen vertrauen. Edward... er würde wollen, dass ich glücklich bin.$2#$b#Und ich bin glücklich... mit dir.$3#$b#Ich weiß tief in meinem Inneren, dass er nicht wollen würde, dass ich so leide.$2#$b#Es wird Zeit, dass ich mir selbst wieder erlaube, zu fühlen. Ich bin froh, dass es mit jemandem so liebevollen wie dir ist, @.$3",
@@ -5500,7 +5500,7 @@
   "Apples.CharacterDialogue.010": "Apples findet besonderen Stein! Gib ihn dir! [390]$1#$e#%Apples sieht erfreut aus, dir den Stein zu geben.",
   "Apples.CharacterDialogue.011": "Hast du Bär kennengelernt?$0#$b#Er lebt in einer Höhle in der Nähe von Apples!$1#$e#Bär verkauft dir viele schöne Dinge!$0",
   "Apples.CharacterDialogue.012": "Apples finden seltene Samen! Nimm, nimm! [347]$1#$e#Es wird zu leckerem Obst wachsen!$0",
-  "Apples.CharacterDialogue.013": "Kannte der neue Freund Leute, die auf dem Weingut lebten? $2#$e#% du erklärst Apples, dass du es nicht getan hast. #$e#...$2",
+  "Apples.CharacterDialogue.013": "Kannte der neue Freund Leute, die auf dem Weingut lebten? $2#$e#% Du erklärst Apples, dass du es nicht getan hast. #$e#...$2",
   "Apples.CharacterDialogue.014": "Großer Mann mit blauer Mütze besucht einige Tage. $0#$e#Apples verstecken sich vor dem großen Mann. $2",
   "Apples.CharacterDialogue.015": "Es gab vor langer Zeit eine Schlacht im Wald. $2#$e# Findest du alte scharfe Stöcke? $0",
   "Apples.CharacterDialogue.016": "Blume für Apples-Freund![427]$0#$e#Apples findet viele Blumen.$1",
@@ -5966,7 +5966,7 @@
   "Scarlett.Emerald.03": "Sie reifen nicht alle zur gleichen Zeit, daher ist es wichtig, jeden einzelnen zu überprüfen!$1",
   "Scarlett.Emerald.04": "Hallo, @!$0.",
   "Scarlett.Emerald.05": "Hallo, Liebling. Scarlett hilft mir heute auf dem Feld zu arbeiten. $0#$b#Diese Hopfen werden sich nicht von selbst in Pale Ales verwandeln!$1",
-  "Scarlett.Emerald.06": "*kichern* du hast es gesagt!$1",
+  "Scarlett.Emerald.06": "*kichern* Du hast es gesagt!$1",
   "Scarlett.Emerald.07": "Ich denke, es ist eine gute Zeit für eine Pause. Ich werde für uns alle frische Limonade machen. $0",
   "Scarlett.Emerald.08": "Ich glaube nicht, dass ich jemals jemanden getroffen habe, der einen grüneren Daumen hat als Susan.$0#$b#Ich lerne so viel über Landwirtschaft, während ich unter ihr arbeite!$1",
   "Scarlett.Emerald.09": "$q -1 null#Ich glaube nicht, dass ich dich das schon gefragt habe. Was magst du daran, ein Bauer zu sein?#$r -1 0 scarlett_event7#Ich mag es, auf meinem Grundstück volle kreative Freiheit zu haben.#$r -1 0 scarlett_event8#Das Anbauen von Feldern mit Nahrungsmitteln ist spirituell befriedigend.#$r -1 0 scarlett_event9#Ich liebe es, mich um meine Tiere zu kümmern.#$r -1 0 scarlett_event10#Es gibt immer Arbeit zu tun. Ich ziehe es vor, beschäftigt zu bleiben.",
@@ -6017,14 +6017,14 @@
   "Scarlett.6hearts.13": "Treyvon: Ich weiß, dass solche Dinge für dich schwierig sein können...",
   "Scarlett.6hearts.14": "Ja...$2.",
   "Scarlett.6hearts.15": "Treyvon: Aber wenn du nicht den Besitz anderer Leute respektieren kannst, wie kann ich dir vertrauen, dass du verantwortungsbewusst mit meinem Lastwagen umgehst?",
-  "Scarlett.6hearts.16": "Was? Meinst du das ernst gerade? $6#$b# du bist schrecklich! $3",
+  "Scarlett.6hearts.16": "Was? Meinst du das ernst gerade? $6#$b# Du bist schrecklich! $3",
   "Scarlett.6hearts.17": "Ugh. Ich gehe nach unten. Ich möchte nicht mehr darüber reden.$3",
   "Scarlett.6hearts.18": "Hey! Warte mal eine Sekunde!",
   "Scarlett.6hearts.19": "Ein paar Minuten später...",
   "Scarlett.6hearts.20": "@. Du weißt schon, dass ich dich komplett sehen kann, oder? $2",
   "Scarlett.6hearts.21": "$q -1 null#Sei ehrlich. Hast du mich belauscht?#$r -1 50 scarlett_event5#Ja, das habe ich. Es tut mir leid.#$r -1 -125 scarlett_event6#Nein, habe ich nicht. Du hast alles falsch verstanden!",
   "Scarlett.6hearts.22": "Ich muss dort drin wie ein echter Idiot gewirkt haben, oder?$2",
-  "Scarlett.6hearts.23": "*seufz* du solltest etwas über mich wissen...$2",
+  "Scarlett.6hearts.23": "*seufz* Du solltest etwas über mich wissen...$2",
   "Scarlett.6hearts.24": "Pass auf. Ich habe ADHS. Ich habe die Diagnose vor ein paar Jahren bekommen. Wer konnte das erahnen?$7#$b#Ich habe Schwierigkeiten, mich zu konzentrieren und Leuten zuzuhören. Mein Gehirn ist einfach... anders.$5#$b#Also, es ist nicht so, dass ich absichtlich nicht sauber mache. Ich bemerke es einfach nicht.$2#$b#Und dann reagiere ich manchmal etwas eingeschnappt...$2",
   "Scarlett.6hearts.25": "Ich habe in der High School aufgrund meiner Verfassung viel gekämpft. Und deshalb weiß ich, dass ich durchfallen würde, wenn ich es versuchen würde, trotz dessen, was mein Papa sagt.$2#$b#Ich weiß, dass er es immer gut meint, und ich liebe ihn dafür. Aber ich muss mir selbst vertrauen.$2#$b#Außerdem bin ich sowieso mehr der praktische Typ. Und das hilft mir.$0",
   "Scarlett.6hearts.26": "*seufz* Ich möchte wirklich gerne mit dem Truck meines Papas eine Spritztour machen. Und jetzt habe ich das Gefühl, dass ich mehrere Schritte zurückgegangen bin...$7",
@@ -6045,7 +6045,7 @@
   "Scarlett.8hearts2.10": "*keuchen* Es ist so hübsch... Schau dir all die Mangroven an!$1",
   "Scarlett.8hearts2.11": "Ich weiß nicht, wie es euch beiden geht, aber mir wird hier oben langsam kalt.$0#$b#Lasst uns etwas zu essen holen und nach Hause gehen!$1",
   //************************
-  // CAMILLA NPC 
+  // CAMILLA NPC
   //************************
   "Camilla.CharacterDialogue.001": "Überrascht, mich zu sehen? $5#$e# Razzy und ich haben heute wichtige Angelegenheiten zu besprechen. $0",
   "Camilla.CharacterDialogue.002": "Hallo, Liebling. Bist du gekommen, um Castle Village zu helfen? $0#$e#Heute lungern mehr Monster als gewöhnlich herum...$2",
@@ -6171,7 +6171,7 @@
   "Morris.CharacterDialogue.044": "*gähn* Ich habe letzte Nacht nicht geschlafen. Zu viel Arbeit zu erledigen. $0#$e#% Morris gähnt erneut.",
   "Morris.CharacterDialogue.045": "Ich habe einen großen Teil meines letzten Gehaltsschecks ausgegeben, um Verbesserungen am Joja-Laden vorzunehmen. $0#$b#Das Unternehmen wird mir keinen weiteren Cent geben, um Renovierungen durchzuführen. $3",
   "Morris.CharacterDialogue.046": "Es gibt mehrere Märkte, in die Joja im Sternentautal eintreten könnte, wenn wir expandieren wollen. $4#$e# Vielleicht könnten wir Fisch oder Möbel verkaufen? $1",
-  "Morris.CharacterDialogue.047": "Ich genieße es, Entwicklungspläne zu entwerfen. Die effektivste Verwendung von Geldern zu finden, ist lohnend. $0#$e# du machst das Gleiche auf dem %farm Hof, oder? Der Beginn einer neuen Jahreszeit ist eine ziemliche Aufgabe. $1",
+  "Morris.CharacterDialogue.047": "Ich genieße es, Entwicklungspläne zu entwerfen. Die effektivste Verwendung von Geldern zu finden, ist lohnend. $0#$e# Du machst das Gleiche auf dem %farm Hof, oder? Der Beginn einer neuen Jahreszeit ist eine ziemliche Aufgabe. $1",
   "Morris.CharacterDialogue.048": "Ich frage mich, wie viele Kunden Joja dieses Jahr gewinnen wird. $4#$e# Unsere Familie wird jede Saison größer. $1",
   "Morris.CharacterDialogue.049": "...Ich habe nachgedacht, @. Wir nennen Joja eine Familie, aber ich bin mir nicht sicher, ob das noch stimmt.$2#$e#%Morris sieht besorgt aus.",
   "Morris.CharacterDialogue.050": "Joja's Melonen-Samen werden sicherlich Ihre Gewinne steigern, @. Ich empfehle den Kauf sehr!$1",
@@ -6636,8 +6636,8 @@
   "Andy.Fair": "Ich weiß, dass ich nicht den Hauch einer Chance habe zu gewinnen. Ich möchte nur allen zeigen, wie hart ich in dieser Saison gearbeitet habe. $0#$e#Ich bin stolz auf das, was ich tue. $1",
   "Andy.Spirit.01": "Pierres gewürzter Kürbis-Apfelwein ist echt klasse! Ich wünschte, er würde mir was davon verkaufen!$1#$e#Er sollte zumindest etwas davon an Gus verkaufen, damit ich ihn in der Kneipe bekomme.$2#$e#Viel Glück in dem Labyrinth da, Bauer. Hab ein paar Schreie aus der Richtung gehört.$0",
   "Andy.Spirit.02": "Diese gebratenen Pilze sind großartig. Gus hat sich wirklich selbst übertroffen. $0#$e#Hab' irgendwas davon gehört, dass der Stadtbrunnen verschwunden sein soll...$2",
-  "Andy.Ice": "Ich hab' mitbekommen, dass Willy über dich geredet hat. Es wird ein knappes Duell zwischen euch beiden. $0#$e#Viel Glück beim Angeln, @. $1",
-  "Andy.WinterStar": "Das Beste heute ist das kostenlose Essen und Trinken. Ich geb' nicht viel auf das Geschenke machen. $2",
+  "Andy.Ice": "Ich hab mitbekommen, dass Willy über dich geredet hat. Es wird ein knappes Duell zwischen euch beiden. $0#$e#Viel Glück beim Angeln, @. $1",
+  "Andy.WinterStar": "Das Beste heute ist das kostenlose Essen und Trinken. Ich kann nicht viel mit dem Geschenke machen anfangen. $2",
   // Andy Events
   "Andy.Intro.01": "Ah, der neue Bauer! Wie geht's dir an diesem schönen, sonnigen Tag?$0#$b#Du hast mich gerade beim Pflegen meiner Felder erwischt. Ich verteile gerade neuen Joja-Dünger auf meinem Feld.$0#$b#Ich nehme immer Joja-Dünger. Der macht meine Pflanzen stärker und gesünder.$1",
   "Andy.Intro.02": "Also, du fängst ja gerade auf dem %farm Hof an. Ich habe was für dich, das dir den Einstieg erleichtern sollte.$0",
@@ -6847,7 +6847,7 @@
   // Martin Festival Dialogue
   "Martin.Flower": "Meine Mutter hat mir gesagt, dass ich aus dem Haus gehen und Kontakte knüpfen soll. $4#$e# Zumindest ist Claire hier...$6",
   "Martin.Fair": "Hallo @. Hast du deinen Stand eingerichtet? Er war leer, als ich ihn überprüft habe. $1#$e#Viel Glück beim Wettbewerb. $0",
-  "Martin.Spirit.1": "Ich bin kurz davor aufzugeben und etwas zu essen zu holen. $2#$e# Gibt es Konsequenzen für das Schummeln? $1#$e# % du sagst Martin, dass er das Labyrinth nicht betrügen sollte. #$e# Okay... $4",
+  "Martin.Spirit.1": "Ich bin kurz davor aufzugeben und etwas zu essen zu holen. $2#$e# Gibt es Konsequenzen für das Schummeln? $1#$e# % Du sagst Martin, dass er das Labyrinth nicht betrügen sollte. #$e# Okay... $4",
   "Martin.Spirit.2": "Gut, dass dieser Käfig hier ist...$0",
   // Martin Event Dialogue
   "Martin.2hearts.01": "Komm schon, Kiddo. Ich habe nicht den ganzen Tag.$0",
@@ -6947,7 +6947,7 @@
   "Morgan.CharacterDialogue.007": "Wirst du diesen Sommer Sternfrüchte anbauen? $1",
   "Morgan.CharacterDialogue.008": "Um. Hallo. $5#$e#...$0#$e#%Morgan hat keine Lust zu reden.",
   "Morgan.CharacterDialogue.009": "Magnus bringt mir bei, welche magischen Eigenschaften mystische, alte Pflanzen haben. $3#$e# Er erzählt mir, dass das Tal vor langer Zeit voll von ihnen war. $1",
-  "Morgan.CharacterDialogue.010": "Hallo. $0#$e# du bist ein bisschen seltsam. $1",
+  "Morgan.CharacterDialogue.010": "Hallo. $0#$e# Du bist ein bisschen seltsam. $1",
   "Morgan.CharacterDialogue.011": "Magnus wird mir bald eine Prüfung geben. Ich bin bereit, sie zu bestehen!$1#$e#Ich möchte Menschen schützen.$1",
   "Morgan.CharacterDialogue.012": "Hallo, @! Geht es dir heute gut?$1#$e#Ähm. Hier! Ich habe einen Trank für dich gebraut![773]$1",
   "Morgan.CharacterDialogue.013": "Du besuchst oft.$5#$e#Bist du auch ein Magier?$0#$b#Ich spüre deine Magie.$1",
@@ -6955,7 +6955,7 @@
   "Morgan.CharacterDialogue.015": "Magst du meinen Hut?$1#$e#Magnus hat ihn für mich gemacht!$3",
   "Morgan.CharacterDialogue.016": "Magnus hat mir gesagt, dass es im Wald tief im Inneren Waldgeister gibt. $1#$b#Ihre magischen Kräfte sind mit dem Tal verwoben. $3",
   "Morgan.CharacterDialogue.017": "Hast du auf deinem Hof etwas Magisches erlebt? $0#$e#Oh, verstehe!$1",
-  "Morgan.CharacterDialogue.018": "Ich habe einen wirklich seltsamen Elixier getrunken, um meine Bindung zu den Waldgeistern zu stärken. $2#$e# du hast auch einen getrunken?! $5",
+  "Morgan.CharacterDialogue.018": "Ich habe einen wirklich seltsamen Elixier getrunken, um meine Bindung zu den Waldgeistern zu stärken. $2#$e# Du hast auch einen getrunken?! $5",
   "Morgan.CharacterDialogue.019": "Ich lerne, wie man Tränke braut!$1#$b#Vielleicht kann ich dir eines Tages Tränke machen, um dir bei deinen Abenteuern zu helfen!$3",
   "Morgan.CharacterDialogue.020": "Marlon besucht morgen!$1#$b#Er ist so cool!$3#$e#Warum bist du nicht mehr wie er?$0",
   "Morgan.CharacterDialogue.021": "Ich frage mich, wie es Mom und Dad geht...$9#$e#Gah!$5#$e#%Morgan ist schockiert.",
@@ -7470,7 +7470,7 @@
   "Edmund.CharacterDialogue.004": "%Edmund: Ich habe mich beworben, um im Schlossdorf zu leben. Ich hoffe, mein Anschreiben überzeugt Camilla.#$e#%Edmund: Die Erfolgsquote ist niedrig. So etwa 25 Prozent. Verrückt, oder?",
   "Edmund.CharacterDialogue.005": "%Edmund: Hey, schön dich zu sehen.#$e#%Edmund: Ich plane meine Bein-Workouts so, dass sie mit der Patrouillenpflicht zusammenfallen. Bin ich nicht schlau?",
   "Edmund.CharacterDialogue.006": "%Edmund: Wir haben eine weitere Ozeanhöhle voller Monster gefunden.#$e#%Edmund: *seufzt* Jetzt ist es unser Problem.",
-  "Edmund.CharacterDialogue.007": "%Edmund: du rennst mit so viel Entschlossenheit herum...#$e#%Edmund: Ich kann dich nicht durchschauen.",
+  "Edmund.CharacterDialogue.007": "%Edmund: Du rennst mit so viel Entschlossenheit herum...#$e#%Edmund: Ich kann dich nicht durchschauen.",
   "Edmund.Patch.01": "%Edmund: Die Geographie hier ist sehr unterschiedlich von der, woher ich komme.",
   //Emin NPC
   "Emin.CharacterDialogue.001": "%Emin: Ich habe einen speziellen Totem benutzt, der von unserem Zauberer hergestellt wurde, um hierher zu teleportieren!",
@@ -7550,7 +7550,7 @@
   "Hank.CharacterDialogue.010": "%Hank: Ich probiere diesen neuen Diätplan aus. Es läuft gut.#$e#%Hank: Hast du schon mal von der Keto-Diät gehört? Dabei schneidet man alle Kohlenhydrate aus und ersetzt sie durch Protein und Fett.",
   "Hank.CharacterDialogue.011": "%Hank: Ich möchte irgendwann einen Pool auf unserem Grundstück installieren. Es würde ein Vermögen kosten, aber ich denke, es wäre das wert. #$e#%Hank: Stell dir alle Poolpartys vor, die wir haben könnten! Wir wären das coolste Haus in den Vororten.",
   "Hank.CharacterDialogue.012": "%Hank: Scarlett ist heute zu Hause, falls du nach ihr suchst.",
-  "Hank.CharacterDialogue.013": "%Hank: du wirst südlich von Grampleton kein besseres Hartholz finden.#$e#%Hank: Viele Leute ergreifen in der Region die Forstwirtschaft als Beruf.",
+  "Hank.CharacterDialogue.013": "%Hank: Du wirst südlich von Grampleton kein besseres Hartholz finden.#$e#%Hank: Viele Leute ergreifen in der Region die Forstwirtschaft als Beruf.",
   "Hank.CharacterDialogue.014": "%Hank: Die neue Gridball-Saison beginnt bald. Kannst du glauben, dass sie Jackie getauscht haben? Völlige Narren!",
   "Hank.CharacterDialogue.015": "%Hank: Ich möchte nicht, dass du in unserem Zimmer herumschnüffelst, okay?#$e#%Hank: Wir schätzen unsere Privatsphäre.",
   "Hank.CharacterDialogue.016": "%Hank: Als ich in deinem Alter war, habe ich viele seltsame Jobs gemacht.#$e#%Hank: Auf eine seltsame Art und Weise mache ich immer noch dasselbe, aber professionell!",
@@ -7572,13 +7572,13 @@
   "Treyvon.CharacterDialogue.001": "%Treyvon: Ich besitze einen Großhandel im Stadtzentrum von Grampleton. Ich nenne es \"Treyvons Essentials\".#$e#%Treyvon: Ich habe einen Vertrag mit \"Marnies Ranch\" im Sternentautal. Ich kaufe Milch und Wolle von ihr für meinen Laden.",
   "Treyvon.CharacterDialogue.002": "%Treyvon: Wie läuft das Farmleben im Sternentautal?#$e#%Treyvon: Ich bin froh, dass es gut für dich läuft.",
   "Treyvon.CharacterDialogue.003": "%Treyvon: Unsere Nachbarn sind eine freundliche Gruppe. Manchmal treffen wir uns und haben eine Grillparty!",
-  "Treyvon.CharacterDialogue.004": "%Treyvon: du solltest besser kein Fan der Buffalos sein! Dies ist ein Tunnlers-Haushalt!#$e#%Treyvon: *kichern* Wir nehmen Gridball sehr ernst.",
+  "Treyvon.CharacterDialogue.004": "%Treyvon: Du solltest besser kein Fan der Buffalos sein! Dies ist ein Tunnlers-Haushalt!#$e#%Treyvon: *kichern* Wir nehmen Gridball sehr ernst.",
   "Treyvon.CharacterDialogue.005": "%Treyvon: Ich freue mich immer darauf, die \"Lustigen Seiten\" in der Wochenendzeitung zu lesen.#$e#%Treyvon: Gibt es in deiner Heimatstadt eine Zeitungszustellung?",
   "Treyvon.CharacterDialogue.006": "%Treyvon: Hast du schon einmal von 'Sakura Vineyard' an der Grampleton-Küste gehört? Es ist ein beliebter Touristenort zu dieser Jahreszeit.#$e#%Treyvon: *lachen* Es ist für uns ein bisschen zu teuer.",
   "Treyvon.CharacterDialogue.007": "%Treyvon: Mein Pickup-Truck ist meine Lebensgrundlage. Ich kümmere mich gut um sie. #$e#%Treyvon: Hank und ich überlegen, ein weiteres Auto zu kaufen, damit er meinen Truck nicht für die Arbeit benutzen muss.",
   "Treyvon.CharacterDialogue.008": "%Treyvon: Hey, Sport. Was geht in deinem Hals des Waldes vor sich?#$e#%Treyvon: Pelikan Stadt klingt wie eine schöne Gemeinde. Hank und ich müssen das Tal eines Tages besuchen.",
   "Treyvon.CharacterDialogue.009": "%Treyvon: Scarlett hat mir früher in meinem Laden geholfen, bis sie eine Farmarbeiterin für Leute im Tal wurde.",
-  "Treyvon.CharacterDialogue.010": "%Treyvon: Die meisten unserer Möbel wurden lokal gekauft.#$e#%Treyvon: du wirst keinen feineren Tisch finden als bei Grampleton!",
+  "Treyvon.CharacterDialogue.010": "%Treyvon: Die meisten unserer Möbel wurden lokal gekauft.#$e#%Treyvon: Du wirst keinen feineren Tisch finden als bei Grampleton!",
   "Treyvon.CharacterDialogue.011": "%Treyvon: Der Schatten des Baumes hilft dabei, Pondwood an heißen Sommertagen kühl zu halten.",
   "Treyvon.CharacterDialogue.012": "%Treyvon: Mach ab und zu eine Pause von deiner Farmarbeit. Es ist wichtig, dass du dich nicht ausbrennst.",
   "Treyvon.CharacterDialogue.013": "%Treyvon: Einige Leute haben in der Nähe einen Kojoten gesichtet. Gib mir Bescheid, wenn du ihn siehst.#$e#%Treyvon: Es ist seltsam. Normalerweise kommen sie wegen all der Hunde in den Vororten nicht hierher.",
@@ -7594,7 +7594,7 @@
   "Treyvon.CharacterDialogue.023": "%Treyvon: Hey, Sport. Was steht heute auf dem Plan?",
   "Treyvon.CharacterDialogue.024": "%Treyvon: Stell sicher, dass du die Tür beim Reinkommen schließt. Wir wollen nicht die ganze Nachbarschaft aufheizen!",
   "Treyvon.CharacterDialogue.025": "%Treyvon: Diese Jahreszeit bringt mich immer in Stimmung, mich mit einer schönen Tasse heißer Schokolade am Feuer einzukuscheln.",
-  "Treyvon.CharacterDialogue.026": "%Treyvon: du solltest besser kein Fan der Buffalos sein! Dies ist ein Tunnlers-Haushalt!#$e#%Treyvon: *kichern* Wir nehmen Gridball sehr ernst.",
+  "Treyvon.CharacterDialogue.026": "%Treyvon: Du solltest besser kein Fan der Buffalos sein! Dies ist ein Tunnlers-Haushalt!#$e#%Treyvon: *kichern* Wir nehmen Gridball sehr ernst.",
   "Treyvon.CharacterDialogue.027": "%Treyvon: Unsere Heizkosten sind dieses Jahr etwas höher. Ich frage mich, ob sie wieder am Thermostat herumspielt...",
   "Treyvon.CharacterDialogue.028": "%Treyvon: Ich wette, du hast im Winter viel freie Zeit.",
   //************************
@@ -7952,7 +7952,7 @@
   "Gunther.2hearts.04": "#Hilf dabei, die Bücher zurückzulegen#Mach dich auf den Weg",
   "Gunther.2hearts.05": "Ich werde bald an der Rezeption sein. Diese Bücher müssen weggeräumt werden. $5",
   "Gunther.2hearts.06": "Vielleicht könnte Penny den Kindern eine Lektion geben, wie man Bücher ordentlich in alphabetischer Reihenfolge einsortiert. $5#$e# Ich könnte bei dem Vortrag helfen. $1",
-  "Gunther.2hearts.HelpGunther.01": "Ah. Hilfst du dabei, die Bücher wegzuräumen? $5#$b# du kannst rechts anfangen. $5",
+  "Gunther.2hearts.HelpGunther.01": "Ah. Hilfst du dabei, die Bücher wegzuräumen? $5#$b# Du kannst rechts anfangen. $5",
   "Gunther.2hearts.HelpGunther.02": "Vielen Dank für die Hilfe, Herr @.$5^Vielen Dank für die Hilfe, Frau @.$5",
   "Gunther.2hearts.HelpGunther.03": "Vielleicht könnte Penny den Kindern eine Lektion geben, wie man Bücher ordentlich in alphabetischer Reihenfolge einsortiert. $5#$e#Ich könnte bei dem Vortrag helfen. $1",
   "event-2468001.01": "Hmm... faszinierend. $5",
@@ -7993,7 +7993,7 @@
   "Gunther.6hearts3.13": "Danke, dass du mich beschützt hast, Herr @.$5^ Danke, dass du mich beschützt hast, Frau @.$5#$b#Ich ziehe es vor, sie versteinert zu haben!$1",
   "Gunther.6hearts3.14": "Das ist ein ziemlicher Fund, auf den wir gestoßen sind.$1#$b#Ich werde jetzt mit dem Ausgraben beginnen. Je schneller ich fertig bin, desto schneller können wir diese gefährlichen Höhlen verlassen.$5",
   "Gunther.6hearts3.15": "Ja! Diese zwergischen Artefakte werden meiner Forschung sehr helfen!$1#$b#Du wirst prompte Zahlung per Post erhalten - Bonus inbegriffen für deine mutigen Aktionen!$5",
-  "Gunther.6hearts3.16": "Das war wirklich ein Abenteuer, wenn ich das sagen darf. $5#$e# du hast diesen Schleim mit Mut und Energie bekämpft! $1",
+  "Gunther.6hearts3.16": "Das war wirklich ein Abenteuer, wenn ich das sagen darf. $5#$e# Du hast diesen Schleim mit Mut und Energie bekämpft! $1",
   "Gunther.8hearts1.01": "Guten Morgen, Herr @. Ich veranstalte heute eine besondere Artefaktvorführung im Museum. Es beginnt um 12:00 Uhr PM.$0^Guten Morgen, Frau @. Ich veranstalte heute eine besondere Artefaktvorführung im Museum. Es beginnt um 12:00 Uhr pm.#$b#Ich würde mich freuen, wenn Sie teilnehmen könnten!$1",
   "Gunther.8hearts2.01": "Ah, hallo Herr @. Ich bin froh, dass Sie gekommen sind.$0^Ah, hallo Frau @. Ich bin froh, dass Sie gekommen sind.$0",
   "Gunther.8hearts2.02": "Ich habe das Museum seit Jahren nicht mehr so voll gesehen. Und das alles dank deiner Bemühungen.$1",
@@ -8168,7 +8168,7 @@
   "Lewis.CropField.05": "Nun, ich habe einen Stapel Papierkram. $2#$b#Einen schönen Tag noch, @!$1",
   "Lewis.CropField.06": "Ich weiß, du wirst das Land gut nutzen, @.$0",
   //************************
-  //MARNIE NPC 
+  //MARNIE NPC
   //************************
   "Marnie.Dialogue.01": "Meine Ernte ist in dieser Saison gesund! Ich erwarte, dass ich einen guten Gewinn machen werde.$1",
   "Marnie.Dialogue.02": "%Marnie ist damit beschäftigt, Produkte in ihren Versandbehälter zu lagern.",
@@ -8406,7 +8406,7 @@
   "Clint.Event2.08": "Ich wollte... mit dir reden. $2",
   "Clint.Event2.09": "...Ist etwas falsch? $2",
   "Clint.Event2.10": "Emily... erinnerst du dich, als wir zum Grampleton-Karneval gegangen sind? $2",
-  "Clint.Event2.11": "Ja, natürlich! Es war wirklich nett von dir, mir dieses Spielzeug zu gewinnen. $1#$b# du hast nicht aufgegeben, obwohl es etwa hundert Versuche gebraucht hat!$0",
+  "Clint.Event2.11": "Ja, natürlich! Es war wirklich nett von dir, mir dieses Spielzeug zu gewinnen. $1#$b# Du hast nicht aufgegeben, obwohl es etwa hundert Versuche gebraucht hat!$0",
   "Clint.Event2.12": "Emily, hast du nicht bemerkt, dass - Ich würde nicht so hart versuchen, ein Spielzeug für die meisten Leute zu gewinnen. $0",
   "Clint.Event2.13": "Ich weiß! Du bist wirklich süß zu deinen Freunden.$0",
   "Clint.Event2.14": "Nein. Nein, das ist nicht das, was ich sage. $0",
@@ -8491,7 +8491,7 @@
   "Leah.ArtShow.19": "Lassen Sie uns nun mit dem Bieten auf diese wunderbaren Kunstwerke beginnen... Eine wunderbare Ergänzung für Ihr Zuhause!$h#$b#Höre ich 5000g für das Rosa?",
   "Leah.ArtShow.20": "Wow! Ich bin erschöpft.#$b#Meine Show war ein echter Erfolg, oder?$h",
   //************************
-  //ELLIOTT NPC 
+  //ELLIOTT NPC
   //************************
   "Elliott.Dialogue.01": "Ah! Was für ein erstaunliches Gemälde, Leah. Ich spüre die Emotionen!$0",
   "Elliott.Dialogue.02": "Die frische Luft vom Meer entfacht meine Leidenschaft zum Schreiben!$1",
@@ -9263,8 +9263,8 @@
   //qi Events Dialogue
   "Qi.Jukebox.01": "Hey, Kind. Ich habe dich genau im Auge behalten. Schau, wie weit du gekommen bist...",
   "Qi.Jukebox.02": "Lassen Sie mich zur Sache kommen. #$b#Ich habe Ihrem Jukebox eine neue Soundtrack hinzugefügt. Es heißt 'Stardew Valley Expanded Trailer'. #$b#Betrachten Sie dies als Belohnung dafür, dass Sie so weit gekommen sind: Eine großartige Soundtrack und ein 4. Wandbruch.",
-  "TreasureCave.01": "VOICE: du könntest derjenige sein...",
-  "TreasureCave.02": "STIMME: *chuckle* du beeindruckst mich weiterhin.",
+  "TreasureCave.01": "VOICE: Du könntest derjenige sein...",
+  "TreasureCave.02": "STIMME: *chuckle* Du beeindruckst mich weiterhin.",
   //************************
   //PAM NPC
   //************************
@@ -9283,7 +9283,7 @@
   "Pam.Event.WhatsBotheringYou.06": "#Die Dinge werden besser werden.#Vielleicht wäre das Leben anders, wenn du netter handeln würdest.",
   "Pam.Event.WhatsBotheringYou.07": "Ich denke, ich mache so wie es ist gut. $0#$b# Jetzt geh hier raus. $2",
   "Pam.Event.WhatsBotheringYou.08": "Ich weiß, dass ich manchmal gemein sein kann, aber...$2#$b#Tch...$3#$e#Kauf mir heute Abend ein Bier.$1",
-  "Pam.Event.DidntKnow.01": "Ich suche kein Mitleid, Kind. $4#$b# Diese Gefühle sind nur das übliche Geschäft. $2#$b# du musst mir keine flauschigen Worte geben. Nichts wird meine Situation oder mein Leben verändern. Ich habe mich selbst hierher gebracht. $4",
+  "Pam.Event.DidntKnow.01": "Ich suche kein Mitleid, Kind. $4#$b# Diese Gefühle sind nur das übliche Geschäft. $2#$b# Du musst mir keine flauschigen Worte geben. Nichts wird meine Situation oder mein Leben verändern. Ich habe mich selbst hierher gebracht. $4",
   "Pam.Event.DidntKnow.02": "Wenn du mich wirklich aufmuntern willst, kauf mir heute Abend ein Bier. $4",
   "Pam.Event.DidntKnow.03": "Wirst du mir das Getränk kaufen? Es würde mich bestimmt aufheitern.$1",
   //************************
@@ -10312,7 +10312,7 @@
   "String.544": "Tourist: \"Hey, du bist der Besitzer von dem Hof da unten, nicht wahr? Ich habe vor einer Weile über dich in der Zeitung gelesen. Du hast den Hof echt gut aufgeräumt! Mach weiter so.\"",
   "String.545": "Rebecca: \"Hallo! Mein Name ist Rebecca. Ich bin eine Freundin dieser beiden Trottel hier, hehe. Ich lebe in Zuzu City und bin für das Volksfest im Sternentautal hierhergekommen!\"",
   "String.546": "Tourist: \"Hey Kumpel. Ich mache eine Pause von diesem manipulierten Schleuderspiel.\"",
-  "String.547": "Tourist: \"Ein Kometensturm-Cocktail? Ich könnte jetzt wirklich einen davon gebrauchen. Dieses Festival macht mich durstig.\"",
+  "String.547": "Tourist: \"Ein Kometensturm-Cocktail? Ich könnte   jetzt wirklich einen davon gebrauchen. Dieses Festival macht mich durstig.\"", //damit "jetzt" nicht mitten im Wort umbricht
   "String.548": "Tourist: \"Ich habe mir gerade von dieser unheimlichen Frau hier die Zukunft vorhersagen lassen. Sie hat mir gesagt, dass ich in den Minen sterben werde... was soll das bedeuten?\"",
   "String.549": "Tourist: \"Möchtest du diesen Kürbis mit nach Hause nehmen, Schatz?\"",
   "String.550": "Arbeiter: \"Oh, hey. Ich mache gerade eine \"kurze\" Pause vom Schleppen dieser Fässer. Kannst du glauben, dass ich nur 300g pro Stunde dafür bekomme? pfft...\"",
@@ -10339,7 +10339,7 @@
   "String.571": "Jemand hat hier kürzlich Kickball gespielt.",
   "String.572": "Clint zeigt hochwertige Bronze-, Eisen- und Goldbarren. Außerdem hat er einige Waffen und einen Schild hergestellt! Diese sind hervorragend!",
   "String.573": "Gruseliger Mann: \"Du hast gecheatet, um mit mir zu reden, nicht wahr? Nun, wenn du versucht hast, ein Geheimnis durch ein Gespräch mit mir zu entdecken, Pech gehabt.\"",
-  "String.574": "Andys Auslage ist gefüllt mit Wildpflanzen, Honig und Feldfrüchten.",
+  "String.574": "Andys Auslage ist gefüllt mit Pilzen, Honig und Feldfrüchten.", //sieht man im spiel
   "String.575": "Marlon's Schwert.",
   "String.576": "Susan präsentiert ihre Erzeugnisse und Säfte!",
   "String.577": "Tourist: \"Hallo, Liebes. Das ist eine schöne Stadt.\"",
