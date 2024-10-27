@@ -55,16 +55,15 @@ Stardew Valley
   - Die beiden Ordner aus der entpackten Datei in den `Mods`-Ordner von Stardew Valley verschieben.
   - Wenn Windows fragt, ob Dateien ersetzt werden sollen, auf „Ersetzen“ klicken.
 
-# Create new version
+# Neues Release erstellen
 
-- Update manifest.json to next release version
-- Make sure to include the latest compiled installer exe file *after* updating the manifest.json file
-- Draft a new release in Github
-  - Create a new tag with incremented version
+- In der [manifest.json](Stardew%20Valley%20Expanded%20-%20German%20Translation/manifest.json) Datei die Versionsnummer unter "Version" erhöhen
+  - Falls die Übersetzung für eine neuere SVE Version angepasst wurde, auch "MinimumVersion" entsprechend anpassen
+- Commit + Push (+ PR + Merge)
+- In Github ein neues Release erstellen
+  - Einen neuen Tag mit erhöhter Versionsnummer erstellen
   - Target: main
-  - Add release notes
-- Pull main branch locally or just fetch tags locally
-- Run shellscript and pass in the new tag
+  - Release Notes hinzufügen
+- Lokal das "create-nexus-archives-from-tag.sh" Skipr ausführen und den neuen Tag angeben
   - e.g. `./create-nexus-archives-from-tag.sh 0.0.6`
-- Upload archives to Nexusmods
-  - only need to upload those that contain changes
+- Zip Dateien unter tmp auf Nexusmods hochladen
