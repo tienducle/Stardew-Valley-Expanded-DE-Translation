@@ -115,6 +115,8 @@
   //1.15 Strings
   "String.1044": "Das kleine Haus ist komplett überwuchert.",
   "String.1045": "Die Tür ist verschlossen. Ganz rechts ist ein schwaches Leuchten...",
+  "Death.String.1": "...{2}?",
+  "Death.String.2": "@!$1",
 
   //1.15 Objects
   "object.pear.name": "Birne",
@@ -1664,7 +1666,7 @@
   "object.frog-legs.name": "Froschschenkel",
   "object.frog-legs.description": "Eine der bekannteren Delikatessen der Gotoroanischen Küche.",
   "object.galdoran-gem.name": "Galdoran-Edelstein",
-  "object.galdoran-gem.description": "Ein großer roter Edelstein.",
+  "object.galdoran-gem.description": "Ein großer, rubinroter Edelstein, der von arkaner Energie durchdrungen ist.",
   "object.gemfish.name": "Edelsteinfisch",
   "object.gemfish.description": "Es ragen viele Edelsteine daraus hervor.",
   "object.glazed-butterfish.name": "Glasierte Butterfisch",
@@ -1844,7 +1846,7 @@
   // Code>Location>Map Patches
   "BusStop": "Bushaltestelle",
   "PelicanTown": "Pelikan Stadt",
-  "Farm": "Farm",
+  "Farm": "{{FarmName}} Hof",
   //Fish Display Names
   "Minnow": "Minnow",
   "Butterfish": "Butterfisch",
@@ -4754,7 +4756,7 @@
   "Sophia.8hearts.02": "Sophia! Komm bald wieder vorbei, okay?$1#$b#Ich LIEBE es, wenn wir uns zusammen schminken!",
   "Sophia.8hearts.03": "Das würde ich lieben!$1",
   "Sophia.8hearts.04": "Ich fühle mich... großartig.$1",
-  "Sophia.8hearts.05": "Scarlett! Du bist albern!$8",
+  "Sophia.8hearts.05": "Ups, ich habe vergessen, mein Spiel auszuschalten. Ich muss nur schnell speichern...$8",
   "Sophia.8hearts.06": "Heute ist ein richtig guter Tag!",
   "Sophia.8hearts.07": "*Grummel*",
   "Sophia.8hearts.08": "Mmm. Ich bin irgendwie hungrig.$1",
@@ -5661,9 +5663,9 @@
   "Apples.Movies.04": "Niemand sieht Apples! Nur Apples-Freund!$0",
   "Apples.Movies.05": "Apples haben Angst...$2",
   "Apples.Movies.06": "Apples mögen keine gruseligen bewegten Bilder...$2",
-  "Apples.Movies.07": "Ah. Das wird ein ziemlich interessanter Film werden.$1",
-  "Apples.Movies.08": "Das ist ziemlich faszinierend!$1",
-  "Apples.Movies.09": "Bringt die Welt wirklich ins rechte Licht. Denkst du, dass wir eines Tages die Sterne besuchen werden?$1",
+  "Apples.Movies.07": "Großer Stuhl nur für Apples!$1",
+  "Apples.Movies.08": "Juhu! Filmspaß!$1",
+  "Apples.Movies.09": "Apples möchte irgendwann zu den leuchtenden Sternen reisen!$1",
   "Apples.Movies.10": "Beeil dich! Apples wollen bewegte Bilder sehen!#$e#Niemand hier sieht Apples!$1",
   "Apples.Movies.11": "Apples verstehen keine bewegten Bilder, aber es macht trotzdem Spaß!$1",
   "Apples.Movies.12": "Apples ist neugierig auf den Film!$1",
@@ -9739,10 +9741,10 @@
   "Mail.PurchasedItem2": ". Pierre sagte, es kam vom %farm Hof!$1",
   //Strings from maps
   //Backwoods, Busstop, and Forest
-  "String.01": "Hof^> Berg> Smaragd-Hof",
-  "String.02": "Bushaltestelle^> Pelikan Stadt^@",
+  "String.01": "= {{FarmName}} Hof^> Berg^` Smaragd-Hof",
+  "String.02": "Bushaltestelle^> Pelikan Stadt^@ {{FarmName}} Hof",
   "String.03": "Hof",
-  "String.04": "Hof^> Pelikan Stadt^> Marnies Ranch^= Fairhaven-Hof^= Blaumond-Weingut",
+  "String.04": "{{FarmName}} Hof^> Pelikan Stadt^> Marnies Ranch^= Fairhaven-Hof^= Blaumond-Weingut",
   "String.05": "Marnies Versandkiste.",
   "String.06": "Marnies Feld.",
   "String.07": "Es gibt verschiedene Arten von Produkten, die hier gelagert werden.",
@@ -10246,8 +10248,8 @@
   "String.485": "Diese Protokolle verrotten.",
   "String.486": "Es gibt verschiedene Maschinen, die hier im Boden vergraben sind. Sie sehen teuer aus. Hat hier jemand an einem großen Projekt gearbeitet, bevor er es aufgegeben hat?",
   "String.487": "Sieht nicht so aus, als wäre jemand zu Hause...",
-  "String.488": "Farm^> Pelikan Stadt",
-  "String.489": "Farm",
+  "String.488": "@ {{FarmName}} Hof^> Pelikan Stadt",
+  "String.489": "{{FarmName}} Hof",
   //AuroraVineyard
   "String.490": "Diese Regale sind staubig.",
   "String.491": "Es wachsen Pilze aus Rissen in der Holztheke.",
