@@ -19,6 +19,6 @@ cp "nsis/stardew-valley-expanded-german-translation-installer.zip" "./tmp/starde
 zip -r "tmp/Frontier Farm - German.zip" "Frontier Farm" -x "*default.json"
 zip -r "tmp/Grandpa's Farm - German.zip" "Grandpa's Farm" -x "*default.json"
 zip -r "tmp/Immersive Farm 2 Remastered - German.zip" "Immersive Farm 2 Remastered" -x "*default.json"
-zip -r "tmp/Stardew Valley Expanded - German.zip" "Stardew Valley Expanded" "Stardew Valley Expanded - German Translation" -x "*default.json"
+zip -r "tmp/Stardew Valley Expanded - German.zip" "Stardew Valley Expanded" -x "*default.json"
 
 git checkout main

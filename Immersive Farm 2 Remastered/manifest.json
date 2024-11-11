@@ -1,0 +1,15 @@
+﻿{
+  "Name": "Immersive Farm 2 Remastered - German",
+  "Author": "Cyb3rfr3ak",
+  "Version": "0.0.31",
+  "Description": "German translation for SVE Immersive Farm 2 Remastered.",
+  "UniqueID": "Cyb3rfr3ak.Stardew-Valley-Expanded-DE-Translation-Immersive-Farm-2-Remastered",
+  "MinimumApiVersion": "4.0.0",
+  "ContentPackFor": {
+    "UniqueID": "flashshifter.immersivefarm2remastered",
+    "MinimumVersion": "1.15.1"
+  },
+  "UpdateKeys": [
+    "Nexus:17019@IF2R"
+  ]
+}
