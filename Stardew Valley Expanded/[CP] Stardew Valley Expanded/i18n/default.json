@@ -115,6 +115,8 @@
   //1.15 Strings
   "String.1044": "The small home is completely overgrown.",
   "String.1045": "The door is locked. There's a faint glow to the far right...",
+  "Death.String.1": "...{2}?",
+  "Death.String.2": "@!$1",
   
   //1.15 Objects
   "object.pear.name": "Pear",
@@ -651,7 +653,7 @@
   "Scarlett.14hearts.2": "You ate the whole plate in one bite!? Did you even taste any of that?$6",
   "Scarlett.14hearts.3": "Well, anyway...$7#$b#I want to take a day trip with you and drive us over to a place called 'Go Goat Ranch' in Grampleton.$0#$b#It's a famous ranch with the coolest and cutest goats ever. I've always wanted to visit! How does that sound to you?$1",
   "Scarlett.14hearts.4": "You're the best! If the weather's good tomorrow, we'll borrow my dad's truck back home in the suburbs. And if it doesn't hold up, we'll just wait for the next nice day.$0",
-  "Scarlett.14hearts.5": "Apparently there's a goat that lives on an island at 'Go Goat Ranch'.$0#$e#When the weather is nice let's go visit! We'll start our road trip at my dad's.",
+  "Scarlett.14hearts.5": "Apparently there's a goat that lives on an island at 'Go Goat Ranch'.$0#$e#When the weather is nice let's go visit! We'll start our road trip at my dads'.",
   "Scarlett.14hearts.6": "Thanks for letting us borrow your truck, papa! I won't get a scratch on it!$1",
   "Scarlett.14hearts.7": "Treyvon: Haha, alright! You two have a safe trip. Please drive safely, honey.",
   "Scarlett.14hearts.8": "Let's hit the road!$0",
@@ -1664,7 +1666,7 @@
   "object.frog-legs.name": "Frog Legs",
   "object.frog-legs.description": "One of the better-known delicacies of Gotoroan cuisine.",
   "object.galdoran-gem.name": "Galdoran Gem",
-  "object.galdoran-gem.description": "A large red gem.",
+  "object.galdoran-gem.description": "A large crimson gemstone thats radiates with arcane energy.",
   "object.gemfish.name": "Gemfish",
   "object.gemfish.description": "There's many gems protruding from it.",
   "object.glazed-butterfish.name": "Glazed Butterfish",
@@ -1844,7 +1846,7 @@
   // Code>Location>Map Patches
   "BusStop": "Bus Stop",
   "PelicanTown": "Pelican Town",
-  "Farm": "Farm",
+  "Farm": "{{FarmName}} Farm",
   //Fish Display Names
   "Minnow": "Minnow",
   "Butterfish": "Butterfish",
@@ -4754,7 +4756,7 @@
   "Sophia.8hearts.02": "Sophia! Come back again soon, okay?$1#$b#I LOVE doing makeup with you!",
   "Sophia.8hearts.03": "I would love that!$1",
   "Sophia.8hearts.04": "I feel... great.$1",
-  "Sophia.8hearts.05": "Scarlett! You're silly!$8",
+  "Sophia.8hearts.05": "Oops, I forgot to turn my game off. Just need to quickly save...$0",
   "Sophia.8hearts.06": "Today is a good day!",
   "Sophia.8hearts.07": "*Grumble*",
   "Sophia.8hearts.08": "Mmm. I'm kinda hungry.$1",
@@ -5661,9 +5663,9 @@
   "Apples.Movies.04": "No one see Apples! Only Apples-friend!$0",
   "Apples.Movies.05": "Apples scared...$2",
   "Apples.Movies.06": "Apples no like scary moving pictures...$2",
-  "Apples.Movies.07": "Ah. This should be quite an interesting film.$1",
-  "Apples.Movies.08": "This is quite intriguing!$1",
-  "Apples.Movies.09": "Really puts the world in perspective. Do you think we'll ever visit the stars someday?$1",
+  "Apples.Movies.07": "Big chair just for Apples!$1",
+  "Apples.Movies.08": "Yay! Movie fun!$1",
+  "Apples.Movies.09": "Apples wants to go to bright stars someday!$0",
   "Apples.Movies.10": "Hurry! Apples want to watch moving pictures!#$e#No one here see Apples!$1",
   "Apples.Movies.11": "Apples no understand moving pictures, but still fun!$1",
   "Apples.Movies.12": "Apples curious about movie!$1",
@@ -9739,10 +9741,10 @@
   "Mail.PurchasedItem2": " at the store last night. Pierre said it came from %farm Farm!$1",
   //Strings from maps
   //Backwoods, Busstop, and Forest
-  "String.01": " Farm^> Mountain> Emerald Farm",
-  "String.02": "` Bus Stop^> Pelican Town^@ ",
+  "String.01": "= {{FarmName}} Farm^> Mountain^` Emerald Farm",
+  "String.02": "` Bus Stop^> Pelican Town^@ {{FarmName}} Farm",
   "String.03": " Farm",
-  "String.04": " Farm^> Pelican Town^> Marnie's Ranch^= Fairhaven Farm^= Blue Moon Vineyard",
+  "String.04": "` {{FarmName}} Farm^> Pelican Town^> Marnie's Ranch^= Fairhaven Farm^= Blue Moon Vineyard",
   "String.05": "Marnie's shipping bin.",
   "String.06": "Marnie's crop field.",
   "String.07": "There are various kinds of produce stored in here.",
@@ -10246,8 +10248,8 @@
   "String.485": "These logs are rotting.",
   "String.486": "There are various pieces of machinery buried in the ground here. They look expensive. Was someone working on a large project here before abandoning it?",
   "String.487": "Doesn't look like anyone is home...",
-  "String.488": " Farm^> Pelican Town",
-  "String.489": " Farm",
+  "String.488": "@ {{FarmName}} Farm^> Pelican Town",
+  "String.489": "{{FarmName}} Farm",
   //AuroraVineyard
   "String.490": "The shelves have a fine layer of dust.",
   "String.491": "Mushrooms are growing out of cracks in the wood counter.",
