@@ -21,6 +21,7 @@
   "Config.VanillaSandyPortraits.name": "Vanilla Sandy-Porträts",
   "Config.MatureEvents.name": "Sensible Ereignisse",
   "Config.ShorterPathToBlueMoonVineyard.name": "Kürzerer Weg zum Blaumond-Weingut",
+  "Config.GaldoranGemMuseumMoveable": "Ermöglicht es, das Galdoran-Juwel dem Stardew Valley Museum zu spenden. Verhindert ein Soft-Lock, wenn man das Juwel vor der Änderung des Gegenstandstyps im SVE 1.15.5-Update bereits gespendet hat und nun versucht, es im Museum zu verschieben.",
   "Config.UseGaldoranThemeAllTimes.name": "Nutze das Galdoran-Thema durchgehend",
   "Config.DisableGaldoranTheme.name": "Deaktiviere Galdoran-Thema",
   "Config.WarpLocation.name": "Warp-Ort",
@@ -112,7 +113,48 @@
   "DisplayName.WizardsBasement": "Keller des Zauberers",
   "DisplayName.DiamondCavern": "Diamanthöhle",
 
-  //1.15 Strings
+  //Bundle Strings
+  "spring.crops.bundle": "Nutzpflanzen (Frühling)",
+  "summer.crops.bundle": "Nutzpflanzen (Sommer)",
+  "fall.crops.bundle": "Nutzpflanzen (Herbst)",
+  "quality.crops.bundle": "Nutzpflanzen (Qualität)",
+  "animal.bundle": "Tier",
+  "artisan.bundle": "Handwerker",
+  "spring.foraging.bundle": "Sammeln (Frühling)",
+  "summer.foraging.bundle": "Sammeln (Sommer)",
+  "fall.foraging.bundle": "Sammeln (Herbst)",
+  "winter.foraging.bundle": "Sammeln (Winter)",
+  "construction.bundle": "Konstruktion",
+  "exotic.foraging.bundle": "Sammeln (Exoten)",
+  "river.fish.bundle": "Flussfische",
+  "lake.fish.bundle": "Teichfische",
+  "ocean.fish.bundle": "Ozeanfische",
+  "night.fish.bundle": "Nachtfischen",
+  "speciality.fish.bundle": "Spezialitätsfische",
+  "crab.pot.bundle": "Krabbenreuse",
+  "blacksmith.bundle": "Schmied",
+  "geologist.bundle": "Geologe",
+  "adventurer.bundle": "Abenteurer",
+  "vault.1.bundle": "2.500g",
+  "vault.2.bundle": "5.000g",
+  "vault.3.bundle": "10.000g",
+  "vault.4.bundle": "25.000g",
+  "vault.5.bundle": "5.000g",
+  "vault.6.bundle": "10.000g",
+  "vault.7.bundle": "20.000g",
+  "vault.8.bundle": "50.000g",
+  "chef.bundle": "Koch",
+  "field.research.bundle": "Feldforschung",
+  "enchanter.bundle": "Verzauberer",
+  "dye.bundle": "Färbemittel",
+  "fodder.bundle": "Futter",
+  "the.missing.bundle": "Das fehlende Bündel",
+
+
+
+
+
+  //1.15 Misc Strings
   "String.1044": "Das kleine Haus ist komplett überwuchert.",
   "String.1045": "Die Tür ist verschlossen. Ganz rechts ist ein schwaches Leuchten...",
   "Death.String.1": "...{2}?",
@@ -403,8 +445,10 @@
   //1.15 Machines
   "machine.butter-churner.name": "Butterfass",
   "machine.butter-churner.description": "Verwandelt Milch in Butter.",
+  "machine.butter-churner.invalid": "Du hast nicht genug Milch in deinem Inventar.",
   "machine.yarn-spooler.name": "Garnspuler",
   "machine.yarn-spooler.description": "Verwandelt Kamelwolle in Garn.",
+  "machine.yarn-spooler.invalid": "Du hast nicht genug Kamelwolle in deinem Inventar",
 
   //1.15 Weapons
   "weapon.monster-splitter.name": "Monster-Teiler",
@@ -4171,7 +4215,7 @@
   "Claire.14hearts3.Leah": "Ich schätze, dass das Kino gesunde Snacks anbietet. $0#$e#Oh, was hast du von 'The Thief of Justice' gehalten? Es war nicht schlecht! $1",
   "Claire.14hearts3.Martin": "Hallo. Was hast du von dem Film gehalten, @? Hat Claire nicht großartige Arbeit geleistet?$0#$e#Ich hoffe wirklich, dass sie in der Zukunft mehr Filmchancen bekommt. Ich weiß, wie viel es ihr bedeutet.#",
   //************************
-  //Sophia NPC
+  //Sophia NPC 
   //************************
   "Sophia.CharacterDialogue.001": "Eek! Ein Fremder!$2#$e#W-warte. Bist du nicht @, der neue Bauer?$0#$b#E-entschuldigung. Ich werde ein wenig nervös bei Leuten, die ich noch nicht getroffen habe...$1#$b#Mein Name ist Sophia. Ich bin die Besitzerin des Blaumond-Weinguts.$9#$e#Nun ja, ich werde dich wohl mal wiedersehen, denke ich.$1",
   "Sophia.CharacterDialogue.002": "Ooo. Ein Feenstein! Das ist mein Lieblingsding auf der ganzen Welt. Danke!$1",
@@ -4756,7 +4800,7 @@
   "Sophia.8hearts.02": "Sophia! Komm bald wieder vorbei, okay?$1#$b#Ich LIEBE es, wenn wir uns zusammen schminken!",
   "Sophia.8hearts.03": "Das würde ich lieben!$1",
   "Sophia.8hearts.04": "Ich fühle mich... großartig.$1",
-  "Sophia.8hearts.05": "Ups, ich habe vergessen, mein Spiel auszuschalten. Ich muss nur schnell speichern...$8",
+  "Sophia.8hearts.05": "Ups, ich habe vergessen, mein Spiel auszuschalten. Ich muss nur schnell speichern...$0",
   "Sophia.8hearts.06": "Heute ist ein richtig guter Tag!",
   "Sophia.8hearts.07": "*Grummel*",
   "Sophia.8hearts.08": "Mmm. Ich bin irgendwie hungrig.$1",
@@ -5147,7 +5191,7 @@
   "Olivia.Gifts.Disliked": "Oh? Das gefällt mir nicht...",
   "Olivia.Gifts.Hated": "Das ist wirklich unangemessen. Ich werde das sofort wegwerfen!",
   "Olivia.Gifts.Neutral": "Das ist ein durchdachtes Geschenk, Liebling. Danke.",
-  //Olivia Engagement Dialogue
+  //Olivia Engagement Dialogue 
   "Olivia.Engagement.1": "Ich liebe dich, @.$3.",
   //Olivia spouseRoom dialogue
   "Olivia.spouseRoom.1": "Das Kalligraphie-Porträt an der Wand bedeutet 'Weisheit'.$3#$e#Wir alle gewinnen sie durch unsere eigenen Erfahrungen im Leben.$3",
@@ -5665,7 +5709,7 @@
   "Apples.Movies.06": "Apples mögen keine gruseligen bewegten Bilder...$2",
   "Apples.Movies.07": "Großer Stuhl nur für Apples!$1",
   "Apples.Movies.08": "Juhu! Filmspaß!$1",
-  "Apples.Movies.09": "Apples möchte irgendwann zu den leuchtenden Sternen reisen!$1",
+  "Apples.Movies.09": "Apples möchte irgendwann zu den leuchtenden Sternen reisen!$0",
   "Apples.Movies.10": "Beeil dich! Apples wollen bewegte Bilder sehen!#$e#Niemand hier sieht Apples!$1",
   "Apples.Movies.11": "Apples verstehen keine bewegten Bilder, aber es macht trotzdem Spaß!$1",
   "Apples.Movies.12": "Apples ist neugierig auf den Film!$1",
@@ -6048,7 +6092,7 @@
   "Scarlett.8hearts2.10": "*keuchen* Es ist so hübsch... Schau dir all die Mangroven an!$1",
   "Scarlett.8hearts2.11": "Ich weiß nicht, wie es euch beiden geht, aber mir wird hier oben langsam kalt.$0#$b#Lasst uns etwas zu essen holen und nach Hause gehen!$1",
   //************************
-  // CAMILLA NPC
+  // CAMILLA NPC 
   //************************
   "Camilla.CharacterDialogue.001": "Überrascht, mich zu sehen? $5#$e# Razzy und ich haben heute wichtige Angelegenheiten zu besprechen. $0",
   "Camilla.CharacterDialogue.002": "Hallo, Liebling. Bist du gekommen, um Castle Village zu helfen? $0#$e#Heute lungern mehr Monster als gewöhnlich herum...$2",
@@ -7642,7 +7686,7 @@
   "Marlon.CharacterDialogue.013": "Hallo. $0#$e#Kann ich dir bei etwas helfen?$0",
   "Marlon.CharacterDialogue.014": "Hallo. Wie geht es dir mit deinem Abenteuer?$0#$e#Wenn du feststellst, dass du eine stärkere Waffe brauchst, schau in unserem Waffenlager nach.$0",
   "Marlon.CharacterDialogue.015": "Pass auf die Ecken in den Minen auf, @. Du weißt nie, was auf dich wartet.$0#$e#Pass auf dich auf.$0",
-  "Marlon.CharacterDialogue.016": "...$0#$e#Err... genießt du heute das Wetter?$0#$e#%Marlon dreht sich weg. Er scheint beschäftigt zu sein.$0",
+  "Marlon.CharacterDialogue.016": "...$0#$e#Genießt du heute das Wetter?$0#$e#%Marlon dreht sich weg. Er scheint beschäftigt zu sein.$0",
   "Marlon.CharacterDialogue.017": "Hallo, @$0#$e#Wenn Sie Fragen zu den lokalen Monstern oder Kampftechniken haben, zögern Sie nicht zu fragen.$0",
   "Marlon.CharacterDialogue.018": "Du erinnerst mich an Alesia. Immer bereit, die Menschen zu beschützen, egal was es kostet. $0#$e#Mach weiter so, @. $0",
   "Marlon.CharacterDialogue.019": "Hallo. $0#$e#Ich bin nicht gerade der gesprächigste Typ. $0",
@@ -7654,7 +7698,7 @@
   "Marlon.CharacterDialogue.025": "Wenn du draußen vor der Minenhöhle Monster entdeckst, benachrichtige mich sofort.$0#$e#Ich werde schnell mit ihnen fertig werden.$0",
   "Marlon.CharacterDialogue.026": "Gus serviert gutes Essen und Trinken in der Kneipe zum Sternenfall. $0#$e#Wenn du dich in den Minen mit Rationen versorgen musst, gibt es keinen besseren Ort als die Kneipe, um sie zu bekommen. $0",
   "Marlon.CharacterDialogue.027": "Undankbare Arbeit, die wir haben, @. Ich schätze alles, was du getan hast. $0#$e#Hab einen schönen Tag. $0",
-  "Marlon.CharacterDialogue.028": "Hallo.$0#$e#Ähm... hast du Pläne für das Wochenende?$0#$e#Hmm. Verstehe. Klingt interessant.#$e#...$0#$e#%Marlon hat keine Lust zu reden.",
+  "Marlon.CharacterDialogue.028": "Hallo.$0#$e#Hast du Pläne für das Wochenende?$0#$e#Hmm. Verstehe. Klingt interessant.#$e#...$0#$e#%Marlon hat keine Lust zu reden.",
   "Marlon.CharacterDialogue.029": "Muss bald Rasmodius in seinem Domizil besuchen. Muss die Verzauberungen einiger Waffen im Waffenlager auffrischen. $0",
   "Marlon.CharacterDialogue.030": "Du machst die Gilde stolz, @. Mach weiter so.$0",
   "Marlon.CharacterDialogue.031": "Schwert, Dolch oder Hammer? Die Waffe, die du wählst, bestimmt deinen Kampfstil.$0#$e#Ich bevorzuge Schwerter. Die kurze Reichweite von Dolchen bringt mich zu nah an Monster heran, was unangenehm ist, und Hämmer verlangsamen mich.$0",
@@ -8171,7 +8215,7 @@
   "Lewis.CropField.05": "Nun, ich habe einen Stapel Papierkram. $2#$b#Einen schönen Tag noch, @!$1",
   "Lewis.CropField.06": "Ich weiß, du wirst das Land gut nutzen, @.$0",
   //************************
-  //MARNIE NPC
+  //MARNIE NPC 
   //************************
   "Marnie.Dialogue.01": "Meine Ernte ist in dieser Saison gesund! Ich erwarte, dass ich einen guten Gewinn machen werde.$1",
   "Marnie.Dialogue.02": "%Marnie ist damit beschäftigt, Produkte in ihren Versandbehälter zu lagern.",
@@ -8494,7 +8538,7 @@
   "Leah.ArtShow.19": "Lassen Sie uns nun mit dem Bieten auf diese wunderbaren Kunstwerke beginnen... Eine wunderbare Ergänzung für Ihr Zuhause!$h#$b#Höre ich 5000g für das Rosa?",
   "Leah.ArtShow.20": "Wow! Ich bin erschöpft.#$b#Meine Show war ein echter Erfolg, oder?$h",
   //************************
-  //ELLIOTT NPC
+  //ELLIOTT NPC 
   //************************
   "Elliott.Dialogue.01": "Ah! Was für ein erstaunliches Gemälde, Leah. Ich spüre die Emotionen!$0",
   "Elliott.Dialogue.02": "Die frische Luft vom Meer entfacht meine Leidenschaft zum Schreiben!$1",
@@ -10533,7 +10577,7 @@
   "String.739": "'Mein Leben im Himmel fliegen'^'Von Jackson Simpson'",
   "String.740": "Bierdosen liegen herum.",
   //SebastianRoomSVE
-  "String.741": "Es riecht nach stark verbranntem Gras.",
+  "String.741": "Es ist eine seltsam geformte Vase.",
   "String.742": "Es ist eine Go-Station 1.",
   "String.743": "Es sind Aufkleber auf diesem Fernseher.",
   "String.744": "Es gibt einen Horrorfilm namens 'Grenchin The Destroyer'.",

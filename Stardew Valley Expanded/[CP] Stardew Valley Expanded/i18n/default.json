@@ -21,6 +21,7 @@
   "Config.VanillaSandyPortraits.name": "Vanilla Sandy Portraits",
   "Config.MatureEvents.name": "Mature Events",
   "Config.ShorterPathToBlueMoonVineyard.name": "Shorter Path To Blue Moon Vineyard",
+  "Config.GaldoranGemMuseumMoveable": "Allows the Galdoran Gem to be donated to the Stardew Valley Museum. Prevents players from getting soft locked after the item type change in the SVE 1.15.5 update if it was already donated and they attempted to move it to another spot.",
   "Config.UseGaldoranThemeAllTimes.name": "Use Galdoran Theme All Times",
   "Config.DisableGaldoranTheme.name": "Disable Galdoran Theme",
   "Config.WarpLocation.name": "Warp Location",
@@ -112,7 +113,48 @@
   "DisplayName.WizardsBasement": "Wizard's Basement",
   "DisplayName.DiamondCavern": "Diamond Cavern",
   
-  //1.15 Strings
+  //Bundle Strings
+  "spring.crops.bundle": "Spring Crops",
+  "summer.crops.bundle": "Summer Crops",
+  "fall.crops.bundle": "Fall Crops",
+  "quality.crops.bundle": "Quality Crops",
+  "animal.bundle": "Animal",
+  "artisan.bundle": "Artisan",
+  "spring.foraging.bundle": "Spring Foraging",
+  "summer.foraging.bundle": "Summer Foraging",
+  "fall.foraging.bundle": "Fall Foraging",
+  "winter.foraging.bundle": "Winter Foraging",
+  "construction.bundle": "Construction",
+  "exotic.foraging.bundle": "Exotic Foraging",
+  "river.fish.bundle": "River Fish",
+  "lake.fish.bundle": "Lake Fish",
+  "ocean.fish.bundle": "Ocean Fish",
+  "night.fish.bundle": "Night Fish",
+  "speciality.fish.bundle": "Speciality Fish",
+  "crab.pot.bundle": "Crab Pot",
+  "blacksmith.bundle": "Blacksmith's",
+  "geologist.bundle": "Geologist's",
+  "adventurer.bundle": "Adventurer's",
+  "vault.1.bundle": "2,500g",
+  "vault.2.bundle": "5,000g",
+  "vault.3.bundle": "10,000g",
+  "vault.4.bundle": "25,000g",
+  "vault.5.bundle": "5,000g",
+  "vault.6.bundle": "10,000g",
+  "vault.7.bundle": "20,000g",
+  "vault.8.bundle": "50,000g",
+  "chef.bundle": "Chef's",
+  "field.research.bundle": "Field Research",
+  "enchanter.bundle": "Enchanter's",
+  "dye.bundle": "Dye",
+  "fodder.bundle": "Fodder",
+  "the.missing.bundle": "The Missing",
+  
+  
+  
+  
+  
+  //1.15 Misc Strings
   "String.1044": "The small home is completely overgrown.",
   "String.1045": "The door is locked. There's a faint glow to the far right...",
   "Death.String.1": "...{2}?",
@@ -403,8 +445,10 @@
   //1.15 Machines
   "machine.butter-churner.name": "Butter Churner",
   "machine.butter-churner.description": "Turns milk into butter.",
+  "machine.butter-churner.invalid": "You don't have enough milk in your inventory.",
   "machine.yarn-spooler.name": "Yarn Spooler",
   "machine.yarn-spooler.description": "Turns camel wool into yarn.",
+  "machine.yarn-spooler.invalid": "You don't have enough camel wool in your inventory.",
   
   //1.15 Weapons
   "weapon.monster-splitter.name": "Monster Splitter",
@@ -7642,7 +7686,7 @@
   "Marlon.CharacterDialogue.013": "Hello.$0#$e#Can I help you with something?$0",
   "Marlon.CharacterDialogue.014": "Hey there. How's adventuring?$0#$e#If you find yourself needing a stronger weapon, take a look in our weapons cache.$0",
   "Marlon.CharacterDialogue.015": "Watch those corners in the mines, @. You never know what may be waiting for you.$0#$e#Take care.$0",
-  "Marlon.CharacterDialogue.016": "...$0#$e#Err... enjoying the weather today?$0#$e#%Marlon turns away. He seems busy.$0",
+  "Marlon.CharacterDialogue.016": "...$0#$e#Enjoying the weather today?$0#$e#%Marlon turns away. He seems busy.$0",
   "Marlon.CharacterDialogue.017": "Hello, @.$0#$e#If you have questions about the local monsters or combat techniques, don't hesitate to ask.$0",
   "Marlon.CharacterDialogue.018": "You remind me of Alesia. Always prepared to protect people, no matter the cost.$0#$e#Keep up the good work, @.$0",
   "Marlon.CharacterDialogue.019": "Hi.$0#$e#I'm not what you'd call the 'chatty' type.$0",
@@ -7654,7 +7698,7 @@
   "Marlon.CharacterDialogue.025": "If you spot any monsters outside the mine cave, alert me at once.$0#$e#I'll make quick work of them.$0",
   "Marlon.CharacterDialogue.026": "Gus serves good food and drink at the Stardrop Saloon.$0#$e#If you find yourself needing rations in the mines, there's no better place than the saloon to get them.$0",
   "Marlon.CharacterDialogue.027": "Thankless job we have, @. I appreciate everything you've done.$0#$e#Have a nice day.$0",
-  "Marlon.CharacterDialogue.028": "Hello.$0#$e#Err... any plans for the weekend?$0#$e#Hmm. I see. Sounds interesting.#$e#...$0#$e#%Marlon doesn't feel like talking.",
+  "Marlon.CharacterDialogue.028": "Hello.$0#$e#Any plans for the weekend?$0#$e#Hmm. I see. Sounds interesting.#$e#...$0#$e#%Marlon doesn't feel like talking.",
   "Marlon.CharacterDialogue.029": "Need to visit Rasmodius at his abode soon. Need to refresh the enchantments on a few weapons in the armory.$0",
   "Marlon.CharacterDialogue.030": "You're doing the guild proud, @. Keep up the good work.$0",
   "Marlon.CharacterDialogue.031": "Sword, dagger, or hammer? The weapon you choose dictates your fighting style.$0#$e#I prefer swords. Short range on daggers gets me too close to monsters for comfort, and hammers slow me down.$0",
@@ -10533,7 +10577,7 @@
   "String.739": "'My Life Flying in the Sky'^'By Jackson Simpson'",
   "String.740": "Beer cans are littered about.",
   //SebastianRoomSVE
-  "String.741": "It smells like potent burnt grass.",
+  "String.741": "It's a strangely shaped vase.",
   "String.742": "'Mega Station'",
   "String.743": "There are stickers on this TV.",
   "String.744": "There's a horror film called 'Grenchin The Destroyer'.",
