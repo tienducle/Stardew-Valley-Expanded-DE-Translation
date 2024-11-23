@@ -1,0 +1,12 @@
+# Ignore validation errors in de.json file
+
+# CC bundles contain '(' and ')' in the German translation which mismatches with the English translation
+spring.crops.bundle
+summer.crops.bundle
+fall.crops.bundle
+quality.crops.bundle
+spring.foraging.bundle
+summer.foraging.bundle
+fall.foraging.bundle
+winter.foraging.bundle
+exotic.foraging.bundle

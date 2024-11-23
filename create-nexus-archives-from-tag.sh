@@ -15,8 +15,8 @@ git checkout $TAG
 find . -name ".DS_Store" -exec rm {} \;
 rm -rf tmp
 mkdir tmp
-zip -r "tmp/Frontier Farm - German.zip" "Frontier Farm" -x "*default.json"
-zip -r "tmp/Grandpa's Farm - German.zip" "Grandpa's Farm" -x "*default.json"
-zip -r "tmp/Immersive Farm 2 Remastered - German.zip" "Immersive Farm 2 Remastered" -x "*default.json"
-zip -r "tmp/Stardew Valley Expanded - German.zip" "Stardew Valley Expanded" -x "*default.json"
+zip -r "tmp/Frontier Farm - German.zip" "Frontier Farm" -x "*default.json" -x "*.ignore"
+zip -r "tmp/Grandpa's Farm - German.zip" "Grandpa's Farm" -x "*default.json" -x "*.ignore"
+zip -r "tmp/Immersive Farm 2 Remastered - German.zip" "Immersive Farm 2 Remastered" -x "*default.json" -x "*.ignore"
+zip -r "tmp/Stardew Valley Expanded - German.zip" "Stardew Valley Expanded" -x "*default.json" -x "*.ignore"
 git checkout main
