@@ -211,7 +211,7 @@
   "object.fossilized-apple.name": "Fossilisierter Apfel",
   "object.fossilized-apple.description": "Dieser alte Apfel wurde durch den Prozess der Mineralisierung gebildet und bietet einen Einblick in die antike Welt.",
   "object.rusty-shield.name": "Rostiger Schild",
-  "object.rusty-shield.description": "Ein schwerer Eisenschild, der Anzeichen von Alter und Abnutzung zeigt.",
+  "object.rusty-shield.description": "Ein schwerer Eisenschild, das einst in einer Schlacht benutzt wurde.",
   "object.amber.name": "Bernstein",
   "object.amber.description": "Fossilisierter Baumharz, der ein prähistorisches Insekt irgendeiner Art enthält.",
   "object.stone-of-yoba.name": "Stein von Yoba",
@@ -7633,6 +7633,7 @@
   "Hank.CharacterDialogue.026": "%Hank: Ich bin heute für einen Job bereit. Nicht viel zu tun außer ein heißes Getränk zu genießen und Gridball zu schauen.#$e#%Hank: Bist du ein Tunnlers-Fan? Wir haben saisonale Pässe für die Spiele.",
   "Hank.CharacterDialogue.027": "%Hank: Muss bald Schnee von der Auffahrt schaufeln. Man darf es nicht zu viel ansammeln lassen.",
   "Hank.CharacterDialogue.028": "%Hank: *kichern* Ich bin sicher, du bist nicht nur gekommen, um mich zu besuchen. Scarlett sollte irgendwo in der Nähe sein.",
+  "Hank.CharacterDialogue.029": "%Hank: Na, hast du etwas Gutes darin gefunden? Du solltest nicht in unserem Müll wühlen.",
   "Hank.IntroductionDialogue.001": "%Hank: Hey, du bist der Bauer, der mit Scarlett befreundet ist. Mein Name ist Hank. Willkommen in Pondwood!#$e#%Hank: Wie läuft das Leben im Tal? Ich habe nur Gutes davon gehört. Mein Mann hat einen Vertrag mit Marnies Ranch.",
   //Treyvon NPC
   "Treyvon.IntroductionDialogue.001": "%Treyvon: Ah, du musst die Freundin meiner Tochter aus dem Tal sein. Es ist mir ein Vergnügen, dich kennenzulernen. Ich bin Treyvon!#$e#%Treyvon: Scarlett ist mein kleines Mädchen. Sie hat hier nie Freunde gefunden, deshalb bin ich froh, dass sie dich und Sophia in ihrem Leben hat.",
@@ -7664,6 +7665,7 @@
   "Treyvon.CharacterDialogue.026": "%Treyvon: Du solltest besser kein Fan der Buffalos sein! Dies ist ein Tunnlers-Haushalt!#$e#%Treyvon: *kichern* Wir nehmen Gridball sehr ernst.",
   "Treyvon.CharacterDialogue.027": "%Treyvon: Unsere Heizkosten sind dieses Jahr etwas höher. Ich frage mich, ob sie wieder am Thermostat herumspielt...",
   "Treyvon.CharacterDialogue.028": "%Treyvon: Ich wette, du hast im Winter viel freie Zeit.",
+  "Treyvon.CharacterDialogue.029": "%Treyvon: Hey, was machst du da!? Hör auf damit!",
   //************************
   //GIL NPC
   //************************
@@ -10379,7 +10381,7 @@
   "String.544": "Tourist: \"Hey, du bist der Besitzer von dem Hof da unten, nicht wahr? Ich habe vor einer Weile über dich in der Zeitung gelesen. Du hast den Hof echt gut aufgeräumt! Mach weiter so.\"",
   "String.545": "Rebecca: \"Hallo! Mein Name ist Rebecca. Ich bin eine Freundin dieser beiden Trottel hier, hehe. Ich lebe in Zuzu City und bin für das Volksfest im Sternentautal hierhergekommen!\"",
   "String.546": "Tourist: \"Hey Kumpel. Ich mache eine Pause von diesem manipulierten Schleuderspiel.\"",
-  "String.547": "Tourist: \"Ein Kometensturm-Cocktail? Ich könnte   jetzt wirklich einen davon gebrauchen. Dieses Festival macht mich durstig.\"", //damit "jetzt" nicht mitten im Wort umbricht
+  "String.547": "Tourist: \"Ein Kometensturm-Cocktail? Ich könnte   jetzt wirklich einen davon gebrauchen. Dieses Festival macht mich durstig.\"",
   "String.548": "Tourist: \"Ich habe mir gerade von dieser unheimlichen Frau hier die Zukunft vorhersagen lassen. Sie hat mir gesagt, dass ich in den Minen sterben werde... was soll das bedeuten?\"",
   "String.549": "Tourist: \"Möchtest du diesen Kürbis mit nach Hause nehmen, Schatz?\"",
   "String.550": "Arbeiter: \"Oh, hey. Ich mache gerade eine \"kurze\" Pause vom Schleppen dieser Fässer. Kannst du glauben, dass ich nur 300g pro Stunde dafür bekomme? pfft...\"",
@@ -10406,7 +10408,7 @@
   "String.571": "Jemand hat hier kürzlich Kickball gespielt.",
   "String.572": "Clint zeigt hochwertige Bronze-, Eisen- und Goldbarren. Außerdem hat er einige Waffen und einen Schild hergestellt! Diese sind hervorragend!",
   "String.573": "Gruseliger Mann: \"Du hast gecheatet, um mit mir zu reden, nicht wahr? Nun, wenn du versucht hast, ein Geheimnis durch ein Gespräch mit mir zu entdecken, Pech gehabt.\"",
-  "String.574": "Andys Auslage ist gefüllt mit Pilzen, Honig und Feldfrüchten.", //sieht man im spiel
+  "String.574": "Andys Auslage ist gefüllt mit Pilzen, Honig und Feldfrüchten.",
   "String.575": "Marlon's Schwert.",
   "String.576": "Susan präsentiert ihre Erzeugnisse und Säfte!",
   "String.577": "Tourist: \"Hallo, Liebes. Das ist eine schöne Stadt.\"",
