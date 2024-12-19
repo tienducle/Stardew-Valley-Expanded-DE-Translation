@@ -49,21 +49,18 @@ Stardew Valley
 
 2. **Entpacken der Übersetzungsdatei:**
   - Die heruntergeladene ZIP-Datei entpacken.
-  - Es sollten zwei Ordner enthalten sein.
 
 3. **Verschieben der Übersetzungsdateien:**
-  - Die beiden Ordner aus der entpackten Datei in den `Mods`-Ordner von Stardew Valley verschieben.
+  - Den Ordner aus der entpackten Datei in den `Mods`-Ordner von Stardew Valley verschieben.
   - Wenn Windows fragt, ob Dateien ersetzt werden sollen, auf „Ersetzen“ klicken.
 
 # Neues Release erstellen
 
-- In der [manifest.json](Stardew%20Valley%20Expanded%20-%20German%20Translation/manifest.json) Datei die Versionsnummer unter "Version" erhöhen
-  - Falls die Übersetzung für eine neuere SVE Version angepasst wurde, auch "MinimumVersion" entsprechend anpassen
 - Commit + Push (+ PR + Merge)
 - In Github ein neues Release erstellen
   - Einen neuen Tag mit erhöhter Versionsnummer erstellen
   - Target: main
   - Release Notes hinzufügen
-- Lokal das "create-nexus-archives-from-tag.sh" Skipr ausführen und den neuen Tag angeben
+- Lokal das "create-nexus-archives-from-tag.sh" Skript ausführen und den neuen Tag angeben
   - e.g. `./create-nexus-archives-from-tag.sh 0.0.6`
 - Zip Dateien unter tmp auf Nexusmods hochladen
