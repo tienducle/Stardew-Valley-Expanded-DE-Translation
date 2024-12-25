@@ -211,7 +211,7 @@
   "object.fossilized-apple.name": "Fossilized Apple",
   "object.fossilized-apple.description": "This old apple was formed through the process of mineralization, providing a glimpse into the ancient world.",
   "object.rusty-shield.name": "Rusty Shield",
-  "object.rusty-shield.description": "A heavy iron shield that shows signs of age and wear.",
+  "object.rusty-shield.description": "A heavy iron shield once used in battle.",
   "object.amber.name": "Amber",
   "object.amber.description": "Fossilized tree resin containing a pre-historic insect of some kind.",
   "object.stone-of-yoba.name": "Stone of Yoba",
@@ -7633,6 +7633,7 @@
   "Hank.CharacterDialogue.026": "%Hank: I'm on call for a job today. Not much to do besides enjoying a hot drink and watchin' gridball.#$e#%Hank: Are you a Tunnelers fan? We have seasonal passes to the games.",
   "Hank.CharacterDialogue.027": "%Hank: Gotta shovel snow off the driveway soon. You can't let it build up too much.",
   "Hank.CharacterDialogue.028": "%Hank: *chuckle* I'm sure you didn't come all this way just to visit me. Scarlett should be around somewhere.",
+  "Hank.CharacterDialogue.029": "%Hank: Find anything good in there, sport? You shouldn't go through our trash like that.",
   "Hank.IntroductionDialogue.001": "%Hank: Hey, you're that farmer friend of Scarlett's. My name is Hank. Welcome to Pondwood!#$e#%Hank: So, how's the valley life? I've heard nothing but good things from there. My husband has a contract with Marnie's Ranch.",
   //Treyvon NPC
   "Treyvon.IntroductionDialogue.001": "%Treyvon: Ah, you must be my daughter's friend from the valley. It's a pleasure to meet you. I'm Treyvon!#$e#%Treyvon: Scarlett is my little girl. She never made friends around here, so I'm glad she has you and Sophia in her life.",
@@ -7664,6 +7665,7 @@
   "Treyvon.CharacterDialogue.026": "%Treyvon: You better not be a fan of the Buffalos! This is a Tunnelers household!#$e#%Treyvon: *chuckle* We take gridball very seriously.",
   "Treyvon.CharacterDialogue.027": "%Treyvon: Our heating bill is a tad higher this year. I wonder if she's messing with the thermostat again...",
   "Treyvon.CharacterDialogue.028": "%Treyvon: I bet you have a lot of free time during winter.",
+  "Treyvon.CharacterDialogue.029": "%Treyvon: Hey, What are you doing!? Stop that!",
   //************************
   //GIL NPC
   //************************
