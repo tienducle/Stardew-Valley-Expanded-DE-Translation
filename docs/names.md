@@ -12,5 +12,7 @@
 | Gem Sea                 | Edelsteinmeer           | Offizielle Übersetzung ignorieren, da sie fehlerhaft ist.                                                                   |        |
 | Shooting Comet Cocktail | Kometensturm-Cocktail   |                                                                                                                             |        |
 | Zuzu City               | Zuzu Stadt              | Offizielle Übersetzung                                                                                                      |        |
+| *-seed                  | *-Saat                  | Offizielle Übersetzung, (z.B. Pastinaken-Saat). Außer in Ausnahmefällen mit Bindestrich für Konsistenz!                     |        |
+| *-sapling               | *-Setzling              | Offizielle Übersetzung, (z.B. Apfel-Setzling). Außer in Ausnahmefällen mit Bindestrich für Konsistenz!                      |        |
 |                         |                         |                                                                                                                             |        |
 |                         |                         |                                                                                                                             |        |
