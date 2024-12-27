@@ -15,6 +15,8 @@
 | Galdora                 | Galdorien               | Passende Deutsche Version des Eigennamens                                                                                   |        |
 | Galdoran                | Galdorisch-er/e/es      |                                                                                                                             |        |
 | Castle Village          | Burgdorf                |                                                                                                                             |        |
+| Crimson                 | Karmesin                | Am Vorbild von Minecraft (z.B. Karmesinwald), da Übersetzungen wie "Purpur" nicht zur feurigen Atmospähre passen            |        |
+| Crimson Badlands        | Karmesin-Ödland         | Einzahl, genau wie "Hochland" statt "Hochländer"                                                                            |        |
 | *-seed                  | *-Saat                  | Offizielle Übersetzung, (z.B. Pastinaken-Saat). Außer in Ausnahmefällen mit Bindestrich für Konsistenz!                     |        |
 | *-sapling               | *-Setzling              | Offizielle Übersetzung, (z.B. Apfel-Setzling). Außer in Ausnahmefällen mit Bindestrich für Konsistenz!                      |        |
 |                         |                         |                                                                                                                             |        |
