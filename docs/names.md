@@ -7,7 +7,7 @@
 | Grandpas Shed Outside     | Opas Schuppen im Freien   |                                                                                                                             |        |
 | Forest West               | West-Wald                 |                                                                                                                             |        |
 | Emerald Farm              | Smaragd Hof               |                                                                                                                             |        |
-| Sprite Spring             | Feenquelle                |                                                                                                                             |        |
+| Sprite Spring             | Feenquelle                |                                                                                                                    1         |        |
 | Fairhaven Farm            |                           |                                                                                                                             |        |
 | Gem Sea                   | Edelsteinmeer             | Offizielle Übersetzung ignorieren, da sie fehlerhaft ist.                                                                   |        |
 | Shooting Comet Cocktail   | Kometensturm-Cocktail     |                                                                                                                             |        |
@@ -19,7 +19,7 @@
 | Crimson Badlands          | Karmesin-Ödland           | Einzahl, genau wie "Hochland" statt "Hochländer"                                                                            |        |
 | Sakura Vineyard           | Sakura-Weingut            | "Vineyard" bedeutet zwar "Weinberg", wurde aber als "Weingut" übersetzt, da es auch die Weinproduktion und -reifung umfasst |        |
 | First Slash Guild         | Gilde des ersten Schlags  |                                                                                                                             |        |
-| The Knights of Pythagoras | Die Ritter von Pythagoras |                                                                                                                             |        |
+| The Knights of Pythagoras | Die Ritter des Pythagoras |                                                                                                                             |        |
 | * seed                    | *-Saat                    | Offizielle Übersetzung, (z.B. Pastinaken-Saat). Außer in Ausnahmefällen mit Bindestrich für Konsistenz!                     |        |
 | * sapling                 | *-Setzling                | Offizielle Übersetzung, (z.B. Apfel-Setzling). Außer in Ausnahmefällen mit Bindestrich für Konsistenz!                      |        |
 |                           |                           |                                                                                                                             |        |
