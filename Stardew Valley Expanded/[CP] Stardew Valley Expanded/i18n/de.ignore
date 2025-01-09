@@ -10,3 +10,24 @@ summer.foraging.bundle
 fall.foraging.bundle
 winter.foraging.bundle
 exotic.foraging.bundle
+
+# Gender switches in the German translation don't have equivalents in the original English text
+Mail.GuntherGift
+Mail.VictorDewey
+Mail.OliviaWine
+Mail.OliviaCellar
+Mail.SVEadvertisement2
+Mail.winter_7
+Mail.OliviaDatingLetter
+Mail.escortedGunther
+Mail.GuntherGaldoranReward1
+Mail.LanceLifeElixirs
+Mail.Mayor.02
+Mail.Mayor.05
+Mail.Mayor.06
+Mail.Mayor.07
+Mail.Mayor.09
+Mail.Mayor.10
+Mail.Mayor.11
+Mail.Mayor.12
+Mail.Mayor.14
