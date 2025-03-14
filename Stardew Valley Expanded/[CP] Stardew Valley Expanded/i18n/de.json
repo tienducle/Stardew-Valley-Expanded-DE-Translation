@@ -150,9 +150,23 @@
   "fodder.bundle": "Futter",
   "the.missing.bundle": "Das fehlende Bündel",
 
-
-
-
+  //1.15.9 Power Strings
+  "power.cheese-mastery.name": "Meisterung des Käses",
+  "power.cheese-mastery.description": "Käse ist 20% mehr wert.",
+  "power.strawberry-mastery.name": "Meisterung der Erdbeeren",
+  "power.strawberry-mastery.description": "Erdbeeren sind 25% mehr wert.",
+  "power.grape-mastery.name": "Meisterung der Trauben",
+  "power.grape-mastery.description": "Trauben sind doppelt so viel Gold wert.",
+  "power.brewing-mastery.name": "Meisterung des Brauens",
+  "power.brewing-mastery.description": "Bier, Met und Helles Bier sind 50 % mehr wert.",
+  "power.crafting-mastery.name": "Meisterung der Herstellung",
+  "power.crafting-mastery.description": "Fässer, Reifefässer und Einmachgefäße benötigen weniger Resourcen bei der Herstellung.",
+  "power.starfruit-mastery.name": "Meisterung der Sternfrucht",
+  "power.starfruit-mastery.description": "Sternfrüchte sind 10% mehr wert.",
+  "power.animal-mastery.name": "Meisterung der Tiere",
+  "power.animal-mastery.description": "Tierische Produkte sind 10% mehr wert.",
+  "power.warp-magic.name": "Warp-Magie",
+  "power.warp-magic.description": "Gewährt die Macht, Nexus-Warps zu erzeugen.",
 
   //1.15 Misc Strings
   "String.1044": "Das kleine Haus ist komplett überwuchert.",
@@ -5811,7 +5825,7 @@
   "Apples.10hearts3.05": "Pfirsiche freuen sich, Apples-Freund zu treffen!$1",
   "Apples.10hearts3.06": "Komm! 'Mutter Sternfruchtbaum'!$1",
   "Apples.10hearts3.07": "Die Junimos haben ihr besonderes Wissen mit mir geteilt...",
-  "Apples.10hearts3.08": "Die Sternfrüchte, die ich anbaue, werden jetzt zu höheren Preisen verkauft!",
+  "Apples.10hearts3.08": "Sternfrüchte sind jetzt noch wertvoller!",
   "Apples.10hearts3.09": "Apples-Freund hier! Andere Freunde besuchen vielleicht bald wieder!$1#$b#Apples glücklich! Apples glücklich!$1#$e#%Apples springt vor Freude.",
   "Apples.Roommate": "Hallo! Ich verkaufe ein neues Produkt im Laden! Besuche das Waldhaus!$4",
   "Apples.AuroraRestore.01": "Apples hier!$0",
@@ -11314,7 +11328,7 @@
   "CommunityDay.Dialogue.111": "Es ist schön, im Herbst hierher zu kommen und die Bäume sich verändern zu sehen. In der Wüste bekommen wir nicht wirklich etwas, das man `Wetter` nennen würde.$0",
   "CommunityDay.Dialogue.112": "Ich habe eine kleine Überraschung für Emilys bevorstehenden Besuch geplant...$0#$b#Sag es ihr nicht, aber es könnte einige brandneue Bastelmaterialien beinhalten.$1",
   "CommunityDay.Dialogue.113": "Wir haben genug Leute hier herumhängen für ein Pick-up-Spiel. Denkst du, die Leute würden mitspielen, wenn ich verspreche, es ihnen leicht zu machen? $3",
-  "CommunityDay.Dialogue.114": "Oh Mann, es ist jetzt zu spät, aber wir hätten den Limonadenstand hierher bringen sollen, damit die Kinder ihn genießen können. $2",
+  "CommunityDay.Dialogue.114": "Oh Mann, jetzt ist es zu spät, aber wir hätten den Eisstand hierher verlegen sollen, damit die Kinder ihn genießen können.$2",
   "CommunityDay.Dialogue.115": "Okay, Rennen! Der Letzte im Spa ist ein faules Ei!$1",
   "CommunityDay.Dialogue.116": "Ich werde ein bisschen unruhig, wenn ich im Winter eingesperrt bin... Ich bin einfach mehr ein Draußen-Typ. Ich bin froh, dass das mir eine Ausrede gibt, um aus dem Haus zu kommen.$0",
   "CommunityDay.Dialogue.117": "Ich überlege, ein Abholspiel zu organisieren. Versprichst du, in meinem Team zu sein? $3",

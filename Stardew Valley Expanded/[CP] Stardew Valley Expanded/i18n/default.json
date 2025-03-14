@@ -150,9 +150,23 @@
   "fodder.bundle": "Fodder",
   "the.missing.bundle": "The Missing",
   
-  
-  
-  
+  //1.15.9 Power Strings
+  "power.cheese-mastery.name": "Cheese Mastery",
+  "power.cheese-mastery.description": "Cheeses are worth 20% more.",
+  "power.strawberry-mastery.name": "Strawberry Mastery",
+  "power.strawberry-mastery.description": "Strawberries are worth 25% more.",
+  "power.grape-mastery.name": "Grape Mastery",
+  "power.grape-mastery.description": "Grapes are worth 2x the gold.",
+  "power.brewing-mastery.name": "Brewing Mastery",
+  "power.brewing-mastery.description": "Beer, mead, and pale ale are worth 50% more.",
+  "power.crafting-mastery.name": "Craft Mastery",
+  "power.crafting-mastery.description": "Kegs, casks, and preserve jars require less resources to craft.",
+  "power.starfruit-mastery.name": "Starfruit Mastery",
+  "power.starfruit-mastery.description": "Starfruits are worth 10% more.",
+  "power.animal-mastery.name": "Animal Mastery",
+  "power.animal-mastery.description": "Animal products are worth 10% more.",
+  "power.warp-magic.name": "Warp Magic",
+  "power.warp-magic.description": "Grants the power to summon Nexus warps.",
   
   //1.15 Misc Strings
   "String.1044": "The small home is completely overgrown.",
@@ -5811,7 +5825,7 @@
   "Apples.10hearts3.05": "Peaches happy to meet Apples-friend!$1",
   "Apples.10hearts3.06": "Come! 'Mother Starfruit Tree'!$1",
   "Apples.10hearts3.07": "The Junimos shared their special knowledge with me...",
-  "Apples.10hearts3.08": "Starfruits I grow will now sell for higher prices!",
+  "Apples.10hearts3.08": "Starfruits are now more valuable!",
   "Apples.10hearts3.09": "Apples-friend here! Other-friends maybe visit again soon!$1#$b#Apples happy! Apples happy!$1#$e#%Apples jumps with joy.",
   "Apples.Roommate": "Hi! Me sell new item in shop! Visit forest home!$4",
   "Apples.AuroraRestore.01": "Apples here!$0",
@@ -11314,7 +11328,7 @@
   "CommunityDay.Dialogue.111": "It's nice to come here during the fall to see the trees change. We don't exactly get anything you'd call ‘weather' in the desert.$0",
   "CommunityDay.Dialogue.112": "I have a little surprise planned for Emily's upcoming visit...$0#$b#Don't tell her, but it may or may not involve some brand new crafting materials.$1",
   "CommunityDay.Dialogue.113": "We've got enough people hanging around here for a pickup game. Think people would play if I promise to go easy on them?$3",
-  "CommunityDay.Dialogue.114": "Aw man, it's too late now, but we should have moved the lemonade stand here for the kids to enjoy.$2",
+  "CommunityDay.Dialogue.114": "Aw man, it's too late now, but we should have moved the ice cream stand here for the kids to enjoy.$2",
   "CommunityDay.Dialogue.115": "Okay, race time. Last one to the spa is a rotten egg!$1",
   "CommunityDay.Dialogue.116": "I get a little antsy getting cooped up in the winter.. just more of an outdoors guy. Glad this gives me an excuse to get out of the house.$0",
   "CommunityDay.Dialogue.117": "I'm thinking of organizing a pickup game. Promise you'll be on my team?$3",
