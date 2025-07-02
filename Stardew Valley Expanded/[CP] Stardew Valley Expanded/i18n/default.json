@@ -453,7 +453,7 @@
   "animal.goose.name": "Goose",
   "animal.goose.description": "Loved geese will lay eggs once every other day. Lives in the Coop.",
   "animal.bear.name": "Bear",
-  "animal.bear.description": "One of Bear's buddies who'll ocassionally find jars of honey. Comes as an adult and lives in the barn. Doesn't consume hay or grass.",
+  "animal.bear.description": "One of Bear's buddies who'll occasionally find jars of honey. Comes as an adult and lives in the barn. Doesn't consume hay or grass.",
   "animal.goose.hatched": "A new baby goose hatched!",
   
   //1.15 Machines
@@ -2901,9 +2901,8 @@
   "Lance2heart2.03": "Monsters won't nest around my magical fires, but they can still chase you past them.$0#$b#If you must retreat, seek shelter in the outpost to shake off any aggressors.$1",
   "Lance2heart2.04": "I mailed a crate of life elixirs to your farmhouse address. It should arrive within the next day.$0#$b#They will aid in your adventures here. Best of luck, @.$1",
   "Lance2heart2.05": "You're welcome to rest at my outpost, @. The pleasure is all mine.$1#$e#Apologies for the state of it. My home in Castle Village is in far better condition.$0",
-  // Lance2heart3 - no dialogue
   "Lance2heart4.01": "Hello, @. The monster crops are quite fascinating.$0#$b#I haven't stopped studying their arcane properties since you delivered them.$1",
-  "Lance2heart4.02": "There's a reward in a treasure chest waiting for you at my outpost.$0#$b#It's something I discovered while exploring a dungeon in a far away land...$5",
+  "Lance2heart4.02": "This magic relic is your reward. I discovered it while exploring a dungeon in a far away land...$5",
   "Lance2heart4.03": "*chuckle* Farewell, @.$1",
   "Lance2heart4.04": "Perhaps one day I'll teach you more about magic relics.",
   "Lance4hearts.01": "Beautiful day, isn't it?$0",
@@ -4039,7 +4038,7 @@
   "Claire.6hearts.Theater.08": "Your community has so much personality...$13#$b#A very different feeling from my home in the countryside.$15",
   "Claire.6hearts.Joja.09": "$q -1 null#There aren't many people out there...#$r -1 0 claire_event4#You should get more involved here.#$r -1 0 claire_event5#Sounds like a peaceful life.",
   "Claire.6hearts.Theater.09": "$q -1 null#There aren't many people out there...#$r -1 0 claire_event25#You should get more involved here.#$r -1 0 claire_event26#Sounds like a peaceful life.",
-  "Claire.6hearts.Joja.10": "I... I don't know. I'm just an outsider.$10",
+  "Claire.6hearts.Joja.10": "I... I don't know. I'm just an outsider.$8",
   "Claire.6hearts.Theater.10": "I... I don't know. I'm just an outsider.$13",
   "Claire.6hearts.Joja.11": "Um. Give it a chance?...$8",
   "Claire.6hearts.Theater.11": "Um. Give it a chance?...$12",
@@ -4691,10 +4690,10 @@
   "Sophia.2hearts.08": "Who's that guy?$0^Who's that gal?$0",
   "Sophia.2hearts.09": "Oh, um. That's @, the new farmer I told you about.$1",
   "Sophia.2hearts.10": "Nice to meet you, @! I'm Scarlett, a friend of this dork.$1#$b#Gettin' into the farming business? It's tough work.$0#$b#I live in Grampleton with my papa. He's over at Marnie's with the truck loading up a bunch of milk and wool.$1",
-  "Sophia.2hearts.11": "We met during a meetup. Grampleton is kinda far away, so it's sorta special when she visits.$1",
+  "Sophia.2hearts.11": "We met during a costume meetup. Grampleton is kinda far away, so it's sorta special when she visits.$1",
   "Sophia.2hearts.12": "Shoot. I should run back. He's probably just about done by now.$2",
-  "Sophia.2hearts.13": "Aww, okay.$2#$b#Text me later?$1",
-  "Sophia.2hearts.14": "For sure! I'll send you something funny!$1",
+  "Sophia.2hearts.13": "Aww, okay.$2#$b#Call me later?$1",
+  "Sophia.2hearts.14": "For sure!$1",
   "Sophia.2hearts.15": "It was nice meeting you, @.$0",
   "Sophia.2hearts.16": "Bye, boo.$1",
   "Sophia.2hearts.17": "Bye, you!$1",
@@ -5714,6 +5713,8 @@
   "Apples.RoommateDialogue.Meep": "*meep*",
   //ScheduleDialogue
   "Apples.Roommate.001": "Peaches play with Apples! Yay",
+  //Stardrop
+  "Apples.Stardrop": "Apples give you special star fruit! Yummy!$1",
   //Apples Gift Dialogue
   "Apples.Gifts.Starfruit": "You give Apples starfruit!? Yay! Starfruit! Yummy!",
   "Apples.Gifts.Loved": "*meep* Hurray! Apples loves it!",
@@ -5861,6 +5862,16 @@
   "Apples.Spirit": "Pumpkin King is good-friend! Gives Apples tasty pumpkins!$1",
   "Apples.Ice": "Apples follow humans into forest!#$b#Curious what you all doing!$1#$e#People with funny hats can't see me!$1",
   "Apples.WinterStar": "Big tree is pretty! Apples help decorate too!$1",
+  //Fixes Apples Roommate Strings
+  "Apples.FixedRoommateDialogue.001": "Apples just wants to sleep all day.$0",
+  "Apples.FixedRoommateDialogue.002": "Apples bored...$0",
+  "Apples.FixedRoommateDialogue.003": "Is Apples doing the right thing in life?$2",
+  "Apples.FixedRoommateDialogue.004": "Nothing wrong. Apples... fine...$2",
+  "Apples.FixedRoommateDialogue.005": "Apples has no energy today...$2",
+  "Apples.FixedRoommateDialogue.006": "Apples no want to do chores.$2",
+  "Apples.FixedRoommateDialogue.007": "What is Apples-friend up to?$0",
+  "Apples.FixedRoommateDialogue.008": "#$e#Apples also filled {0}'s water bowl!$1",
+  "Apples.FixedRoommateDialogue.009": "#$e#Apples also filled the pets' water bowls.",
   //************************
   //SCARLETT NPC 
   //************************
@@ -6816,7 +6827,7 @@
   "Andy.BetterLife.02A": "What do ya think? Cleaned up the house and bought new furniture.$1#$b#Joja's been spikin' demand, and as a result I've been earnin' more. Goes to show what good leadership can do.$0",
   "Andy.BetterLife.03": "Say, want something to eat? Just made a nice farmer's lunch.$0",
   "Andy.BetterLife.04": "Andy's house is in good shape now! The meal we ate together was prepared with fresh forage outside. Delicious!",
-  "Andy.BetterLife.05": "Since Joja left town, I've had a change in life style.$0#$e#Not gettin' rid of this here hat though. It's my favorite.$2",
+  "Andy.BetterLife.05": "Since Joja left town, I've had a change in life style.$0#$e#Not gettin' rid of my Joja hat though. It's my favorite.$2",
   "Andy.BetterLife.05A": "Joja will do right to us farmers.$1",
   //Andy comments on Aurora Vineyard being overgrown
   "Andy.VineyardOvergrown.01": "Somethin' happened to Aurora Vineyard, farmer. It's suddenly overgrown and my stuff is missin'!$2#$e#*sigh* Maybe it's time for me to move on...$8",
@@ -9368,7 +9379,7 @@
   "Pam.Event.WhatsBotheringYou.08": "I know I can be mean at times, but...$2#$b#Tch...$3#$e#Buy me a beer tonight.$1",
   "Pam.Event.DidntKnow.01": "I'm not lookin' for sympathy, kid.$4#$b#These feelings are just business as usual.$2#$b#You don't need to gimme fluffy words. Nothin'll change my situation or my life. I got myself here.$4",
   "Pam.Event.DidntKnow.02": "If you really want to cheer me up, buy me a beer tonight.$4",
-  "Pam.Event.DidntKnow.03": "You gonna buy me that drink? It would sure chear me up.$1",
+  "Pam.Event.DidntKnow.03": "You gonna buy me that drink? It would sure cheer me up.$1",
   //************************
   //ROBIN NPC
   //************************
@@ -11332,7 +11343,7 @@
   "CommunityDay.Dialogue.115": "Okay, race time. Last one to the spa is a rotten egg!$1",
   "CommunityDay.Dialogue.116": "I get a little antsy getting cooped up in the winter.. just more of an outdoors guy. Glad this gives me an excuse to get out of the house.$0",
   "CommunityDay.Dialogue.117": "I'm thinking of organizing a pickup game. Promise you'll be on my team?$3",
-  "CommunityDay.Dialogue.118": "Next year, let's make enough lemonade to bring all the kids.$0#$b#It'll be a fun family contribution.$1",
+  "CommunityDay.Dialogue.118": "Next year, let's make enough ice cream to bring all the kids.$0#$b#It'll be a fun family contribution.$1",
   "CommunityDay.Dialogue.119": "Hey honey, we're about to race to the spa. Cheer me on?$1",
   "CommunityDay.Dialogue.120": "I love being able to snuggle up with you when it's cold, but it's nice to get out a little, too.$0",
   "CommunityDay.Dialogue.121": "Community Day..I don't care about any community.$0#$b#*grumble* Dragged here right in the middle of my shows.$0",
