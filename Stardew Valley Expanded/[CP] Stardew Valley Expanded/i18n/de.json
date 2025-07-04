@@ -453,7 +453,7 @@
   "animal.goose.name": "Gans",
   "animal.goose.description": "Geliebte Gänse legen jeden zweiten Tag Eier. Lebt im Hühnerstall.",
   "animal.bear.name": "Bär",
-  "animal.bear.description": "Eine Bären-Kumpel, der gelegentlich Honiggläser findet. Kommt als ausgewachsenes Tier und lebt im Stall. Verbraucht kein Heu oder Gras.",
+  "animal.bear.description": "Einer von Bärs Kumpels, der gelegentlich Honiggläser findet. Ist bereits ausgewachsenes und lebt im Stall. Verbraucht kein Heu oder Gras.",
   "animal.goose.hatched": "Ein neues Gänseküken ist geschlüpft!",
 
   //1.15 Machines
@@ -2901,9 +2901,8 @@
   "Lance2heart2.03": "Monster werden sich nicht um meine magischen Feuer niederlassen, aber sie können dich immer noch darüber hinaus jagen. $0#$b#Wenn du dich zurückziehen musst, suche Schutz im Außenposten, um jeden Angreifer abzuschütteln. $1",
   "Lance2heart2.04": "Ich habe eine Kiste mit Lebenselixieren an deine Bauernhausadresse geschickt. Sie sollte innerhalb des nächsten Tages ankommen. $0#$b#Sie werden dir bei deinen Abenteuern hier helfen. Viel Glück, @. $1",
   "Lance2heart2.05": "Du kannst dich gerne bei meinem Außenposten ausruhen, @. Die Freude ist ganz meinerseits.$1#$e#Entschuldigt den Zustand. Mein Haus in Burgdorf ist in wesentlich besserem Zustand.$0",
-  // Lance2heart3 - no dialogue
   "Lance2heart4.01": "Hallo, @. Die Monsterfrüchte sind ziemlich faszinierend. $0#$b#Ich habe seit ihrer Lieferung nicht aufgehört, ihre arkane Eigenschaften zu studieren. $1",
-  "Lance2heart4.02": "Es gibt eine Belohnung in einer Schatztruhe, die auf dich an meinem Außenposten wartet. $0#$b#Es ist etwas, das ich entdeckt habe, während ich einen Dungeon in einem fernen Land erkundet habe...$5",
+  "Lance2heart4.02": "Dieses magische Relikt ist deine Belohnung. Ich habe es bei der Erforschung eines Verlieses in einem weit entfernten Land entdeckt...$5",
   "Lance2heart4.03": "*chuckle* Auf Wiedersehen, @.$1",
   "Lance2heart4.04": "Vielleicht werde ich dir eines Tages mehr über magische Relikte beibringen.",
   "Lance4hearts.01": "Schöner Tag, nicht wahr?$0",
@@ -4039,8 +4038,8 @@
   "Claire.6hearts.Theater.08": "Eure Gemeinde hat einen ganz besonderen Charakter...$13#$b#Ein ganz anderes Gefühl als mein Zuhause auf dem Land.$15",
   "Claire.6hearts.Joja.09": "$q -1 null # Es gibt nicht viele Menschen da draußen...  #$r -1 0 claire_event4 # Du solltest dich hier mehr einbringen. #$r -1 0 claire_event5 # Klingt nach einem friedlichen Leben.",
   "Claire.6hearts.Theater.09": "$q -1 null#Es gibt nicht viele Menschen da draußen... #$r -1 0 claire_event25#Du solltest dich hier mehr einbringen.#$r -1 0 claire_event26#Klingt nach einem friedlichen Leben.",
-  "Claire.6hearts.Joja.10": "Ich... ich weiß nicht. Ich bin nur ein Außenseiter. $10",
-  "Claire.6hearts.Theater.10": "Ich... ich weiß nicht. Ich bin nur ein Außenseiter. $13",
+  "Claire.6hearts.Joja.10": "Ich... ich weiß nicht. Ich bin nur ein Außenstehender.$8",
+  "Claire.6hearts.Theater.10": "Ich... ich weiß nicht. Ich bin nur ein Außenstehender.$13",
   "Claire.6hearts.Joja.11": "Hmm. Soll ich es versuchen?...$8",
   "Claire.6hearts.Theater.11": "Hmm. Soll ich es versuchen?...$12",
   "Claire.6hearts.Joja.12": "Ich denke mal drüber nach...$9",
@@ -4691,10 +4690,10 @@
   "Sophia.2hearts.08": "Wer ist dieser Typ?$0^ Wer ist diese Frau?$0",
   "Sophia.2hearts.09": "Oh, äh. Das ist @, der neue Bauer, von dem ich dir erzählt habe.$1",
   "Sophia.2hearts.10": "Schön, dich kennenzulernen, @! Ich bin Scarlett, eine Freundin von dieser Nudel.$1#$b#Willst du in die Landwirtschaft einsteigen? Das ist harte Arbeit.$0#$b#Ich lebe in Grampleton mit meinem Papa. Er ist gerade bei Marnie mit dem Lastwagen und lädt eine Menge Milch und Wolle auf.$1",
-  "Sophia.2hearts.11": "Wir haben uns bei einem Treffen kennengelernt. Grampleton ist ziemlich weit weg, deswegen ist es irgendwie was Besonderes, wenn sie zu Besuch kommt.$1",
+  "Sophia.2hearts.11": "Wir haben uns bei einem Kostümtreffen kennengelernt. Grampleton ist ziemlich weit weg, deshalb ist es irgendwie etwas Besonderes wenn sie uns besucht.$1",
   "Sophia.2hearts.12": "Mist! Ich sollte zurück. Wahrscheinlich ist er gerade fertig.$2",
   "Sophia.2hearts.13": "Aww, okay.$2#$b#Schreib mir später, ja?$1",
-  "Sophia.2hearts.14": "Klar! Ich schicke dir etwas Lustiges!$1",
+  "Sophia.2hearts.14": "Auf jeden Fall!$1",
   "Sophia.2hearts.15": "Es war schön, dich kennenzulernen, @.$0.",
   "Sophia.2hearts.16": "Tschüss, Schätzchen.$1",
   "Sophia.2hearts.17": "Mach's gut!$1",
@@ -5714,6 +5713,8 @@
   "Apples.RoommateDialogue.Meep": "*meep*",
   //ScheduleDialogue
   "Apples.Roommate.001": "Pfirsiche spielen mit Apples! Juhu",
+  //Stardrop
+  "Apples.Stardrop": "Apples geben dir spezielle Sternfrucht! Lecker!$1",
   //Apples Gift Dialogue
   "Apples.Gifts.Starfruit": "Du gibst Apples Sternenfrucht!? Juhu! Sternenfrucht! Lecker!",
   "Apples.Gifts.Loved": "*meep* Hurra! Apples liebt es!",
@@ -5861,6 +5862,16 @@
   "Apples.Spirit": "Kürbiskönig ist ein guter Freund! Gibt Apples und leckere Kürbisse!$1",
   "Apples.Ice": "Apples folgen Menschen in den Wald!#$b#Ich frage mich, was ihr alle macht!$1#$e#Menschen mit lustigen Hüten können mich nicht sehen!$1",
   "Apples.WinterStar": "Großer Baum ist hübsch! Apples helfen auch bei der Dekoration!$1",
+  //Fixes Apples Roommate Strings
+  "Apples.FixedRoommateDialogue.001": "Apples will einfach den ganzen Tag schlafen.$0",
+  "Apples.FixedRoommateDialogue.002": "Apples langweilen sich...$0",
+  "Apples.FixedRoommateDialogue.003": "Tut Apples das Richtige im Leben?$2",
+  "Apples.FixedRoommateDialogue.004": "Alles in Ordnung. Apples...gut...$2",
+  "Apples.FixedRoommateDialogue.005": "Apples haben heute keine Energie...$2",
+  "Apples.FixedRoommateDialogue.006": "Apples wollen keine Hausarbeit machen.$2",
+  "Apples.FixedRoommateDialogue.007": "Was hat Apples-Freund vor?$0",
+  "Apples.FixedRoommateDialogue.008": "#$e#Apples füllte auch {0}s Wassernapf!$1",
+  "Apples.FixedRoommateDialogue.009": "#$e#Apples füllte auch die Näpfe der Haustiere.",
   //************************
   //SCARLETT NPC 
   //************************
@@ -6816,7 +6827,7 @@
   "Andy.BetterLife.02A": "Was denkst du? Habe das Haus aufgeräumt und neue Möbel gekauft. $1#$b#Joja hat die Nachfrage angekurbelt und ich verdiene dadurch mehr. Das zeigt, was gute Führung bewirken kann. $0",
   "Andy.BetterLife.03": "Sag mal, möchtest du etwas zu essen? Habe gerade ein schönes Bauernmittagessen gemacht.$0",
   "Andy.BetterLife.04": "Andys Haus ist jetzt in gutem Zustand! Das Essen, das wir zusammen gegessen haben, wurde mit frischen Pflanzen draußen zubereitet. Köstlich!",
-  "Andy.BetterLife.05": "Seit Joja die Stadt verlassen hat, habe ich eine Veränderung im Lebensstil erfahren.$0#$e#Aber ich werde diesen Hut hier nicht loswerden. Er ist mein Lieblingshut.$2",
+  "Andy.BetterLife.05": "Seit Joja die Stadt verlassen hat, hat sich mein Lebensstil verändert.$0#$e#Meine Joja-Mütze werf ich trotzdem nicht weg. Das ist meine Lieblingsmütze.$2",
   "Andy.BetterLife.05A": "Joja wird uns Bauern Gutes tun.$1",
   //Andy comments on Aurora Vineyard being overgrown
   "Andy.VineyardOvergrown.01": "Etwas ist mit Aurora Vineyard passiert, Bauer. Es ist plötzlich überwuchert und meine Sachen sind verschwunden!$2#$e#*seufz* Vielleicht ist es Zeit für mich weiterzuziehen...$8",
@@ -9368,7 +9379,7 @@
   "Pam.Event.WhatsBotheringYou.08": "Ich weiß, dass ich manchmal gemein sein kann, aber...$2#$b#Tch...$3#$e#Kauf mir heute Abend ein Bier.$1",
   "Pam.Event.DidntKnow.01": "Ich suche kein Mitleid, Kind. $4#$b# Diese Gefühle sind nur das übliche Geschäft. $2#$b# Du musst mir keine flauschigen Worte geben. Nichts wird meine Situation oder mein Leben verändern. Ich habe mich selbst hierher gebracht. $4",
   "Pam.Event.DidntKnow.02": "Wenn du mich wirklich aufmuntern willst, kauf mir heute Abend ein Bier. $4",
-  "Pam.Event.DidntKnow.03": "Wirst du mir das Getränk kaufen? Es würde mich bestimmt aufheitern.$1",
+  "Pam.Event.DidntKnow.03": "Kaufst du mir das Getränk? Das würde mich sicher aufheitern.$1",
   //************************
   //ROBIN NPC
   //************************
@@ -11332,7 +11343,7 @@
   "CommunityDay.Dialogue.115": "Okay, Rennen! Der Letzte im Spa ist ein faules Ei!$1",
   "CommunityDay.Dialogue.116": "Ich werde ein bisschen unruhig, wenn ich im Winter eingesperrt bin... Ich bin einfach mehr ein Draußen-Typ. Ich bin froh, dass das mir eine Ausrede gibt, um aus dem Haus zu kommen.$0",
   "CommunityDay.Dialogue.117": "Ich überlege, ein Abholspiel zu organisieren. Versprichst du, in meinem Team zu sein? $3",
-  "CommunityDay.Dialogue.118": "Nächstes Jahr machen wir genug Limonade, um alle Kinder mitzubringen. $0#$b# Es wird ein lustiger Familienbeitrag sein. $1",
+  "CommunityDay.Dialogue.118": "Lass uns nächstes Jahr so viel Eis herstellen, dass wir alle Kinder mitnehmen können.$0#$b#Das wäre ein lustiger Familienbeitrag.$1",
   "CommunityDay.Dialogue.119": "Hey Schatz, wir werden gleich zum Spaß rennen. Gib mir Anfeuerungsrufe!$1",
   "CommunityDay.Dialogue.120": "Ich liebe es, mich mit dir zu kuscheln, wenn es kalt ist, aber es ist auch schön, ein wenig rauszukommen. $0",
   "CommunityDay.Dialogue.121": "Gemeinschaftstag... Mir ist die Gemeinschaft egal. $0#$b#*murren* Wurde hier mitten in meinen Sendungen hergezogen. $0",
