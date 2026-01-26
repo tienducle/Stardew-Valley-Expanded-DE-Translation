@@ -19,7 +19,8 @@
 | Crimson Badlands          | Karmesin-Ödland            | Einzahl, genau wie "Hochland" statt "Hochländer"                                                                            |        |
 | Sakura Vineyard           | Sakura-Weingut             | "Vineyard" bedeutet zwar "Weinberg", wurde aber als "Weingut" übersetzt, da es auch die Weinproduktion und -reifung umfasst |        |
 | Enchanted Grove           | Verzauberte Lichtung       |                                                                                                                             |        |
-| East Scarp                | Ostküste                   | "Scarp" bedeutet so viel wie "Steilküste", aber "Oststeilküste" klingt zu umständlich                                                                                                                            |        |
+| East Scarp                | Ostküste                   | "Scarp" bedeutet so viel wie "Steilküste", aber "Oststeilküste" klingt zu umständlich                                       |        |
+| Fable Reef                | Fabelriff                  |                                                                                                                             |        |
 | First Slash Guild         | Gilde des ersten Schlags   |                                                                                                                             |        |
 | The Knights of Pythagoras | Die Ritter des Pythagoras  |                                                                                                                             |        |
 | Grampleton Orange Chicken | Grampleton Orangenhähnchen |                                                                                                                             |        |
