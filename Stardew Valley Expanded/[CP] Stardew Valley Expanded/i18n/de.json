@@ -2222,7 +2222,7 @@
   "Victor.MarriageDialogue.043": "Ich genieße es, vom Patio aus auf die Farm zu schauen. Du hast so viel Fortschritt gemacht. $3#$e# du solltest stolz sein! $1",
   "Victor.MarriageDialogue.044": "Da es regnet, könnte ich genauso gut den Roman zu Ende lesen, den ich gerade lese.$0#$e#Hey, ich habe dir ein Geheimnis zu erzählen.$3#$e#Du bist mein Lieblingsmensch. Ich liebe dich.$4#$e#Eh... das war vielleicht ein bisschen kitschig, aber es hat dir ein Lächeln ins Gesicht gezaubert.$3",
   "Victor.MarriageDialogue.045": "Ich genieße Regentage wie diesen. Es gibt mir eine Ausrede, den ganzen Tag drinnen zu bleiben.$3",
-  "Victor.MarriageDialogue.046": "Wenn du rausgehst, pass auf dass du nicht nass wirst. Ich möchte nicht, dass du krank wirst.  $6#$e# Wenn du krank bist, werd' ich mich um dich kümmern. $1}",
+  "Victor.MarriageDialogue.046": "Wenn du rausgehst, pass auf dass du nicht nass wirst. Ich möchte nicht, dass du krank wirst.  $6#$e# Wenn du krank bist, werd' ich mich um dich kümmern. $1",
   "Victor.MarriageDialogue.047": "Solch ein Wetter ist die perfekte Gelegenheit für mich an meinen Bridgeplänen zu arbeiten. $3#$e#Lass das Wetter dich nicht daran hindern, produktiv zu sein und deine Vorhaben umzusetzen. Nichts wie ran damit! $1",
   "Victor.MarriageDialogue.048": "Bist du bereit zu schlafen? Ich bin ziemlich erschöpft.$0",
   "Victor.MarriageDialogue.049": "Hattest du einen produktiven Tag?$1#$e#Das ist wunderbar zu hören! Wir sollten heute Abend viel kuscheln.$4",
@@ -2729,7 +2729,7 @@
   "Lance.Marriage.FableReefRice": "Ich habe 'mango sticky rice' mit frischen Zutaten gemacht. [905]$0#$e#*schlürf* Hmm...$5",
   "Lance.Marriage.007": "Dies ist ein wunderbarer Baum.$0#$e#Ich freue mich auf das Fest morgen. Ich würde es niemals verpassen...$5",
   "Lance.Nightmarket.001": "Ich bin ein Bekannter des Zauberers, der Totems verkauft. $0#$e# Wir haben bereits mehrere Expeditionen zusammen unternommen. $5",
-  "Lance.Nightmarket.002": "Jeder Händler hier hat seine eigene Geschichte{$5} zu erzählen.",
+  "Lance.Nightmarket.002": "Jeder Händler hier hat seine eigene Geschichte zu erzählen.$5",
   "Lance.Nightmarket.003": "Da ist etwas an diesem Meerjungfrauenboot...$0",
 
   //Lance Gift Tastes
@@ -5414,7 +5414,7 @@
   "Olivia.6hearts.12": "$q -1 null#(Was soll ich sagen?)#$r -1 0 Olivia_event7#Ich bin froh, dass sie dir hilft, mit deinem Zuhause verbunden zu bleiben.#$r -1 0 Olivia_event8#Was passiert, ist schrecklich...",
   "Olivia.6hearts.13": "Suki gibt mir gelegentlich Insider-Informationen. Es ist nicht immer das, was uns die Nachrichten hier erzählen.$2",
   "Olivia.6hearts.14": "Wie war der Wein, @?$3",
-  "Olivia.6hearts.15": "Es ist selten und teuer, aber es macht nichts aus treffliche Dinge zu haben, wenn man sie nicht mit jenen , nach welchen man sich einen kopf irrt * ist sakira Gemeinta/kümmarda/userthis}. $3",
+  "Olivia.6hearts.15": "Es ist selten und teuer, aber schöne Dinge zu haben bedeutet nichts, wenn du sie nicht mit denen teilen kannst, die dir am Herzen liegen.$3",
   "Olivia.6hearts.16": "Es tut mir leid, @. Diese Unterhaltung hat mir düstere Erinnerungen gebracht...$2#$b#Ich muss alleine sein...$2",
   "Olivia.6hearts.17": "Danke, Liebling.$2",
   "Olivia.6hearts.18": "Edward... Ich vermisse dich.",
